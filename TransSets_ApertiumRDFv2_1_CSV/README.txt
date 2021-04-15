@@ -1,0 +1,2 @@
+Collection of CSV extracted files from Apertium RDF v2.1 
+This contains 51 language pairs, out of the initial 53 pairs available as RDF. Missing SH-SL and SV-DA due to technical issues (to be included in a future release).
