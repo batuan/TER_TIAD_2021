@@ -2,3 +2,6 @@
 */.ipynb_checkpoints/*
 .vscode
 */.vscode/*
+.DS_Store
+.idea/**
+./model
