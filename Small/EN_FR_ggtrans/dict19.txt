@@ -1,0 +1,1996 @@
+Curlica	Curlica	properNoun
+Pelinna	Pelinna	properNoun
+Hadjidemetriou	Hadjidemetriou	properNoun
+Bouazizi	Bouzizi	properNoun
+Tarnita	Tarnita	properNoun
+Carminatti	Carminatti	properNoun
+Vilamet	Vilamet	properNoun
+Craica	Craica	properNoun
+Sevgi	Sevgi	properNoun
+Ng	Ng	properNoun
+Darkmen	Sombre	properNoun
+Alajbeg	Alajbeg	properNoun
+Trabzonspor	Trabzonspor	properNoun
+Brnjak	Brunjak	properNoun
+Zarate	Faire du zarate	properNoun
+Rakar	Rakar	properNoun
+Bosiljka	Bosiljka	properNoun
+Debreczenyi	Debrecenyi	properNoun
+Milisav	Milisav	properNoun
+Erkmen	Erkmen	properNoun
+Ergic	Ergique	properNoun
+Ozel	Ozel	properNoun
+Severin	Se sévir	properNoun
+Vranje	Vranje	properNoun
+Kulska	Kulska	properNoun
+Cerasi	Cerasi	properNoun
+Marmara See	Marmara voir	properNoun
+Bodrum	Bodrum	properNoun
+Krampus	Krampus	properNoun
+Ferenc	Ferencier	properNoun
+Nexbedin	Nexdedin	properNoun
+Medya	Medya	properNoun
+Sadat	Sadat	properNoun
+Valotto	Valoto	properNoun
+Prinos	Prinos	properNoun
+Goekce	Goekce	properNoun
+Prpa	Prpa	properNoun
+Gasol	Gasol	properNoun
+Mizo	Mizo	properNoun
+Smiljanic	Smiljanic	properNoun
+Stanari	Stanari	properNoun
+Durmitor	Dur	properNoun
+Crvtak	Cravate	properNoun
+Kraljevica	Kraljevica	properNoun
+Karabas	Karabas	properNoun
+Sidoli	Sidoli	properNoun
+Byzantia	Byzantia	properNoun
+Sykourio	Sykourio	properNoun
+Lisovic	Lisovic	properNoun
+Gospodinov	Gospodinov	properNoun
+Churkin	Churkin	properNoun
+Eleusis	Eleusis	properNoun
+Zogani	Zogani	properNoun
+Fidesz	Faidesz	properNoun
+Furio	Furio	properNoun
+Agon	Agon	properNoun
+Elektrani	Elektrani	properNoun
+Benkhira	Benkhira	properNoun
+Sahur	Sahur	properNoun
+Mironcic	Criminel	properNoun
+Asprokremnos	Asprokremnos	properNoun
+Imam	l' imam	noun
+Imam	Imam	None
+Norah	Norah	properNoun
+Gular	Gagne	properNoun
+Sinisa	Sinisa	properNoun
+Armin	Armin	properNoun
+Starter	le démarreur	noun
+Starter	le starter	noun
+Starter	le partant	noun
+Starter	le bouton de démarrage	noun
+Starter	l' hors-d'œuvre	noun
+Starter	Entrée	None
+Zilavka	Zilavka	properNoun
+Sumadinac	Sumadinac	properNoun
+Mimar	Mimar	properNoun
+Trajanovski	TRAJANOVSKI	properNoun
+Aykanat	Aykanat	properNoun
+Escamilio	Escamilio	properNoun
+Srecko	Sprecko	properNoun
+Bukri	Bukri	properNoun
+Kacanik	Kacanik	properNoun
+Damiru	Damiru	properNoun
+Capusella	Capusella	properNoun
+Bajrovic	Bajrovic	properNoun
+Ledenika	LEDENIKA	properNoun
+Lipponen	Lipponen	properNoun
+Chios	Chios	properNoun
+Dati	Dai	properNoun
+Azad	Azad	properNoun
+Kornelia	Kornelia	properNoun
+Saraj	Saraj	properNoun
+Dour	austère	adjective
+Dour	dur	adjective
+Dour	buté	adjective
+Dour	Austère	None
+Muratovska	Muratovska	properNoun
+Buttiglione	Buttiglione	properNoun
+Lucani	Lucani	properNoun
+Blatina	Blatina	properNoun
+Karlitekin	Karlitekin	properNoun
+Trans	Trans	properNoun
+Boetie	Beetie	properNoun
+Oloumec	Oloumec	properNoun
+Gurun	Gourou	properNoun
+Zavos	Zavos	properNoun
+Yvelines	Yvelines	properNoun
+Prokopljevic	Prokopljevic	properNoun
+Seymen	Seymen	properNoun
+Nikpek	Nikpek	properNoun
+Aleksov	Aleksov	properNoun
+Eraritjaritjaka	Eraritjaritjaka	properNoun
+Cvetkovski	Cvetkovski	properNoun
+Momchilograd	Momchilograd	properNoun
+Toribiong	Toribiong	properNoun
+Noor	Noor	properNoun
+Bankasi	Bankasi	properNoun
+Gorice	Gorce	properNoun
+Bagic	Baguette	properNoun
+Kicmari	Kicmari	properNoun
+Mingiu	Mingiu	properNoun
+Arup	Arup	properNoun
+Garbala	Garbala	properNoun
+Shkrbalo	Shkrbalo	properNoun
+Moqtada	Moqtada	properNoun
+Kasatina	Kasatina	properNoun
+Brestovitza	Brestovitza	properNoun
+Express	l' express	noun
+Express	les rapide	noun
+Express	le courrier express	noun
+Express	la lettre expresse	noun
+Express	la messagerie exprès	noun
+Express	le train à grande vitesse	noun
+Express	exprimer	verb
+Express	dire	verb
+Express	manifester	verb
+Express	formuler	verb
+Express	exprès	adjective
+Express	rapide	adjective
+Express	Express	None
+Dramcheva	Dramcheva	properNoun
+Ingrida	Ingrida	properNoun
+Panayiotis	Panayiotis	properNoun
+Tombul	Tombeau	properNoun
+Mëhilli	Mëhilli	properNoun
+Perivolos	Périvolos	properNoun
+Frieden	Frieden	properNoun
+Sartid	Sartid	properNoun
+Grigol	Grigol	properNoun
+Ringispil	Ringispil	properNoun
+Vox	Vox	properNoun
+Pianissimo	pianissimo	adjective
+Pianissimo	pianissimo	adverb
+Pianissimo	Pianissimo	None
+Elci	Elci	properNoun
+Golf	le golf	noun
+Golf	faire du golf	verb
+Golf	Le golf	None
+Tigau	Tigau	properNoun
+Merovci	Merovci	properNoun
+Brbic	Brisé	properNoun
+Vladescu	Vladesu	properNoun
+Kolonaki	Kolonaki	properNoun
+Saveska	Saveska	properNoun
+Henkel	Henkel	properNoun
+Visan	Visan	properNoun
+Angus	Angus	properNoun
+Alshoul	Alshoul	properNoun
+Coppolino	Coppolino	properNoun
+Bertie	Bertie	properNoun
+Hidroteknika	Hidroteknika	properNoun
+Khristenko	Khristenko	properNoun
+Ozceri	Ozceri	properNoun
+Cejudo	Cejudo	properNoun
+Plesio	Plasio	properNoun
+Ramadaj	Ramadaj	properNoun
+Bliznakov	Bliznakov	properNoun
+Murinska	Murinska	properNoun
+Antikabir	Anitkabir	properNoun
+Haya	Haya	properNoun
+Balaj	Balaj	properNoun
+Hotic	Hottique	properNoun
+Orisiya	Orisiya	properNoun
+Lybek	Lybek	properNoun
+Varaku	Varaku	properNoun
+Basaleti	Basaleti	properNoun
+Dortyol	Dortyol	properNoun
+Duparinova	Duparinova	properNoun
+Nildag	Nildag	properNoun
+Bondevik	BONDEVIK	properNoun
+LaSalle	La salle	properNoun
+Bisogniero	Bisogniero	properNoun
+Kasteli	Kasteli	properNoun
+Ivetic	Ivétique	properNoun
+Takehiro	Pistolet	properNoun
+Caballero	Caballero	properNoun
+Samos	Samos	properNoun
+Malevich	Malvoire	properNoun
+Doncheva	Doncheva	properNoun
+Spyros	Spyros	properNoun
+Podul	Podul	properNoun
+Rifai	Rifai	properNoun
+Rashiti	Rashiti	properNoun
+Muz	Muz	properNoun
+Merrill	Merrille	properNoun
+Stokvis	Stokvis	properNoun
+Drava	Drava	properNoun
+Bedri	Bedri	properNoun
+Babiniotis	Babiniotis	properNoun
+Semin	Séminaire	properNoun
+Valassakis	Valassakis	properNoun
+Cajetina	Cajetina	properNoun
+Sestrice	Sale	properNoun
+BelDocs	Beldocs	properNoun
+Arka	Arka	properNoun
+Sakura	Sakura	properNoun
+Svarca	Svarca	properNoun
+Nenadic	Nenadique	properNoun
+Trifonova	Trifonova	properNoun
+Alojz	Alojz	properNoun
+Ekber	Ekber	properNoun
+Gusev	Gusev	properNoun
+Novotny	Novotny	properNoun
+Badulescu	Badulescu	properNoun
+Gligorijevi	Gligorijevi	properNoun
+Corneliu	Corneliu	properNoun
+Borelli	Boreelli	properNoun
+Ivano	Ivano	properNoun
+Celevski	Celevski	properNoun
+Mauring	Maugeant	properNoun
+Manaki	Manaki	properNoun
+Dapcevic	Daprcepic	properNoun
+Dveri	DVERI	properNoun
+Semavi	Semavier	properNoun
+Bajcinovci	Bajcinovci	properNoun
+Mukovic	Muquovic	properNoun
+Dabar	Dabariser	properNoun
+Qerimi	Qérimi	properNoun
+Vernesa	Vernea	properNoun
+Ratko	Ratko	properNoun
+Zamfir	Zamfir	properNoun
+Bac	Bac	properNoun
+Ayse	Ayse	properNoun
+Ludmil	Ludmil	properNoun
+Bahtiri	Bahtiri	properNoun
+Eurostar	Eurostar	properNoun
+Akyurt	Akyeur	properNoun
+Erbin	Erbin	properNoun
+Ogret	Gret	properNoun
+Subaru	Subaru	properNoun
+Almonia	Almoniac	properNoun
+scrape up	mettre en tas	verb
+scrape up	faire graver	None
+Rufi	Rufi	properNoun
+Bremer	Breule	properNoun
+Batorfi	Batterfi	properNoun
+Rabuzin	Rabuzin	properNoun
+Madarik	Madarik	properNoun
+Ciocazanu	Ciocazanu	properNoun
+Nedovic	Nedovic	properNoun
+Dositheos	Dosithéos	properNoun
+Varellas	Varellas	properNoun
+Martincu	Marcin	properNoun
+Vlajki	Vlajki	properNoun
+Dupnitsa	DUPNITSA	properNoun
+Dalmati	Dalmati	properNoun
+Suto	Suto	properNoun
+Capitoline	Capitole	properNoun
+Malkovich	Malkovich	properNoun
+Hichhofer	Hichhofer	properNoun
+Tapio	Tapio	properNoun
+Lobby	hall	noun
+Lobby	le lobby	noun
+Lobby	la pression	noun
+Lobby	l' entrée	noun
+Lobby	le foyer	noun
+Lobby	le vestibule	noun
+Lobby	les groupe de pression	noun
+Lobby	faire pression	verb
+Lobby	exercer une pression	verb
+Lobby	Lobby	None
+Pacifier	la sucette	noun
+Pacifier	la tétine	noun
+Pacifier	le pacificateur	noun
+Pacifier	Sucette	None
+Belasica	Belasica	properNoun
+Kilgallen	Kilgallen	properNoun
+law	le droit	noun
+law	la loi	noun
+law	la justice	noun
+law	droit	None
+Ungureanu	Ungureanu	properNoun
+Zhijun	Zhijun	properNoun
+Arizaj	Arizaj	properNoun
+Unsur	Inurateur	properNoun
+Borojevic	Borojevic	properNoun
+Gursoy	Garsoy	properNoun
+Ludwik	Ludwik	properNoun
+Lajlja	Lajlja	properNoun
+Griugoriopol	Grigoriopol	properNoun
+Vejsiu	Vejsiu	properNoun
+Pelendritou	Pelendritou	properNoun
+Plumi	Plumi	properNoun
+Petralia	Pétralia	properNoun
+Emlak	Emlak	properNoun
+Sipad	Sipad	properNoun
+Novkovska	Novkovska	properNoun
+Hantuchova	Hantuchova	properNoun
+Kligel	Klingel	properNoun
+Interliber	Interliber	properNoun
+Wieser	Wieser	properNoun
+Freiberga	Feiberga	properNoun
+Mahfouz	Mahfouz	properNoun
+Sergej	Sergej	properNoun
+Rotimlje	Rotimlje	properNoun
+Nkosazana	Nkosazana	properNoun
+Mougios	Mougios	properNoun
+Ingra	Ingra	properNoun
+Bekric	Bekrique	properNoun
+Kolarova	Kolarova	properNoun
+Samiri	Samiri	properNoun
+Orasului	Orasului	properNoun
+Opoje	Opoje	properNoun
+Egaiou	Egaiou	properNoun
+Turkbank	Turkbank	properNoun
+Kozic	Kozic	properNoun
+Patission	Preuve	properNoun
+Sesil	Sesil	properNoun
+Atanasovski	Atanasovski	properNoun
+Peovic	Poissonnier	properNoun
+Afouxenidis	Mouzenidis	properNoun
+Pekin	le Pékin	noun
+Pekin	Pékin	None
+Purcarete	Purcarete	properNoun
+Bostanci	Bostanci	properNoun
+Valdet	Valdet	properNoun
+Ciolpani	Ciolani	properNoun
+Petrovaradin	Petrovaradin	properNoun
+Sokolac	Sokolac	properNoun
+Fatalis	Fatalis	properNoun
+Dorn	Dedans	properNoun
+Klodiana	Klodiana	properNoun
+Kokkini	Kokkini	properNoun
+Dinamo	Dinamo	properNoun
+Kardemir	Kardemir	properNoun
+Krsto	Krsto	properNoun
+Brezovic	Brezovic	properNoun
+Goulatis	Goulatis	properNoun
+Merzuk	Merzuk	properNoun
+Gavras	Gavraphes	properNoun
+Tarabunov	Tarabunov	properNoun
+Morandi	Morandi	properNoun
+Cirkus	Cirkus	properNoun
+Okcun	Okcun	properNoun
+Boytchev	Boytchev	properNoun
+Regev	Regev	properNoun
+Eleutheriade	Eleutheriade	properNoun
+Ur	Tardif	properNoun
+Seni	Seni	properNoun
+Serwer	Serment	properNoun
+Gracanice	Gracanice	properNoun
+Frane	Franche	properNoun
+Sayed	Dicté	properNoun
+Vjosa	Vjosa	properNoun
+Matti	Matti	properNoun
+Daneck	Daneck	properNoun
+Bulqiza	Boulqiza	properNoun
+Arbnore	Arbnore	properNoun
+Botan	Botan	properNoun
+Osim	Osim	properNoun
+Kartalov	Kartalov	properNoun
+Ses	Sent	properNoun
+Surcin	Surcin	properNoun
+Usje	Usje	properNoun
+Technopolis	Technopolis	properNoun
+Termkolli	Termkolli	properNoun
+Popova	Popova	properNoun
+Grange	la ferme	noun
+Grange	Grommeler	None
+Cozma	Cozma	properNoun
+Duve	Duve	properNoun
+Seyda	Seyda	properNoun
+Ravno	Ravno	properNoun
+Perthes	Perthes	properNoun
+Stergios	Tigregios	properNoun
+Nesret	Nesret	properNoun
+Murrizi	Murrizi	properNoun
+Decebal	Trombon	properNoun
+Galatasaray	Galatasaray	properNoun
+Prodigy	le prodige	noun
+Prodigy	la merveille	noun
+Prodigy	Prodige	None
+Kheiriddine	Kheiriddine	properNoun
+Erdal	Erdal	properNoun
+Markos	Markos	properNoun
+finish adding	Terminer l'ajout	properNoun
+Kiseljak	Kiseljak	properNoun
+Gracac	Gracade	properNoun
+Wilfred	Wilfred	properNoun
+Karasipahi	Karasipahi	properNoun
+Haxhinasto	Haxhinasto	properNoun
+Mitsuomi	Mitsuomi	properNoun
+Dasho	Dasho	properNoun
+Theopetra	Theopettra	properNoun
+Tehomir	Tehomir	properNoun
+Valeriu	Valéridu	properNoun
+Stamora	Stamora	properNoun
+Paun	la douleur	noun
+Paun	la peine	noun
+Paun	la souffrance	noun
+Paun	le mal	noun
+Paun	la tristesse	noun
+Paun	l' effort	noun
+Paun	la punition	noun
+Paun	faire souffrir	verb
+Paun	peiner	verb
+Paun	faire de la peine	verb
+Paun	faire beaucoup de mal	verb
+Paun	La douleur	None
+Kolj	Kolj	properNoun
+Bjorkman	Bjorkman	properNoun
+Karagaca	Karagaca	properNoun
+Medelhausmusset	Médelhavsmuseet	properNoun
+Matzounis	Matzounis	properNoun
+Dragutinovic	Dragutinovic	properNoun
+Wakashe	Wakashe	properNoun
+Altiparmak	Altipararmak	properNoun
+Rotim	Rotim	properNoun
+Filippis	Filippis	properNoun
+Mehedinti	Mehedinti	properNoun
+Rayll	Rayon	properNoun
+Treskavec	Treskavec	properNoun
+Bahcelievler	Bahcelievler	properNoun
+Zagvozd	Zagvozd	properNoun
+Balti	Balti	properNoun
+Dezulovic	Dezulovic	properNoun
+Vlaicu	Vlaiicu	properNoun
+Zerbajic	Zérbajic	properNoun
+Tarik	Tarik	properNoun
+Biret	Bilet	properNoun
+Novoselic	Novosélique	properNoun
+Sgarcitu	Sgarcitu	properNoun
+Gubelic	Gubelique	properNoun
+Bruegel	Bruegel	properNoun
+Smaghi	Smaghi	properNoun
+Ejupovic	Ejupovic	properNoun
+Barucija	Barucija	properNoun
+Bolkestein	Bolkestein	properNoun
+Kleflin	Kleflin	properNoun
+Branson	Branson	properNoun
+Focan	Concentré	properNoun
+Bambiland	Bambillon	properNoun
+Cretan	Crétane	properNoun
+Andras	Andras	properNoun
+Vanghel	Vanghel	properNoun
+New Zealand	Nouvelle-Zélande	properNoun
+Kavazov	Kavazov	properNoun
+Bardin	Bardin	properNoun
+Suha	Suha	properNoun
+Shalsi	Shalsi	properNoun
+Armela	Armela	properNoun
+Tonev	Tonev	properNoun
+Marinova	Marinova	properNoun
+Gabrielides	Gabrielides	properNoun
+Dehaybe	Dehaybe	properNoun
+Georgoulas	Georgoulas	properNoun
+Niksic	Niksique	properNoun
+Protic	Protique	properNoun
+Plivsko	Plivresko	properNoun
+Predic	Prédic	properNoun
+Topolino	Topolino	properNoun
+Riekstins	Riekstins	properNoun
+Rudare	Rudare	properNoun
+Milardovi	Milardovi	properNoun
+Toader	Pompon	properNoun
+Gasevic	Gaste	properNoun
+Bekir	Bekir	properNoun
+Canic	Puis-je voir	properNoun
+Przno	Przno	properNoun
+Res	Résolution	properNoun
+Bearingpoint	Point de roulement	properNoun
+Trabucco	Trabucco	properNoun
+Cvetanovska	Cvetanovska	properNoun
+Eltrade	Eltrade	properNoun
+vote-counting	vote	properNoun
+Kypreos	Kypréos	properNoun
+Bugün	Bugün	properNoun
+Marmatiei	Marmatiei	properNoun
+Misa	Misérable	properNoun
+Gunduz	Gunuz	properNoun
+Zama	Zama	properNoun
+Lozanovska	Lozanovska	properNoun
+Pyrovolakis	Pyrovolaire	properNoun
+Bardhi	Bardhi	properNoun
+Bino	Bino	properNoun
+Kokinov	Kokinov	properNoun
+Sechelariu	Sechelariu	properNoun
+Rigoletto	Rigoletto	properNoun
+Drmic	Drmique	properNoun
+Ignat	Ignorer	properNoun
+Varlaja	Varlaja	properNoun
+eco	éco	properNoun
+Cihangir	Cihangir	properNoun
+Tsakanikas	Tsakanikas	properNoun
+Gyan	Gyan	properNoun
+Grigoropoulos	Grigoropoulos	properNoun
+Tativec	Tativec	properNoun
+Zakynthos	Zakynthos	properNoun
+Tier	l' étage	noun
+Tier	la rangée	noun
+Tier	l' échelon	noun
+Tier	le gradin	noun
+Tier	le balcon	noun
+Tier	Étage	None
+Daraa	Daraa	properNoun
+Ersumer	Ersumer	properNoun
+Hurrem	Hurrem	properNoun
+Ayna	Ayna	properNoun
+Komisarov	Komisarov	properNoun
+Mursan	Mursan	properNoun
+Belul	Belul	properNoun
+Parvulescu	Parvulescu	properNoun
+Interforce	Interférer	properNoun
+Semra	Semra	properNoun
+Cetingrad	Cétingrad	properNoun
+Večernji	Večernji	properNoun
+Brigo	Brigo	properNoun
+Kashari	Kashari	properNoun
+Yazici	Yazici	properNoun
+Ercument	Ercumeur	properNoun
+Randov	Randonnée	properNoun
+Ovi	Ovi	properNoun
+Zymrije	Zymrije	properNoun
+Prvoborac	Prvoborac	properNoun
+Radauti	Radauti	properNoun
+Dobrev	Dobrev	properNoun
+Demirbank	Démirbank	properNoun
+Babszinhaz	Babszinhaz	properNoun
+Erkan	Erkan	properNoun
+Aliye	Aliye	properNoun
+Mufit	Mufit	properNoun
+Phantom	fantôme	adjective
+Phantom	imaginaire	adjective
+Phantom	le fantôme	noun
+Phantom	le spectre	noun
+Phantom	Fantôme	None
+Guldiman	Guldiman	properNoun
+Hemus	Hémus	properNoun
+Laki	Laki	properNoun
+Veliko Tarnovo	Veliko Tarnovo	properNoun
+Hafs	HAFS	properNoun
+positioned	positionné	properNoun
+Ure	Ure	properNoun
+CineBosnia	Cinebosnie	properNoun
+Kristijan	Kristijan	properNoun
+Banc	Banc	properNoun
+Vranjske	Vranjske	properNoun
+Dimitrie	Dimitrie	properNoun
+Tontcho	Tontcho	properNoun
+Tzionis	Tzionis	properNoun
+Ajay	Ajay	properNoun
+Seger	Se souler	properNoun
+Rreli	Rreli	properNoun
+Industrogradnja	Industrygradnja	properNoun
+Ornekol	Ornekol	properNoun
+NuroPro	Nuropro	properNoun
+Begovo	Begovo	properNoun
+Kec	Kec	properNoun
+Andra	Andra	properNoun
+Deshmoret	Deshmoret	properNoun
+Ahtissari	Ahtisaari	properNoun
+Livaneli	Livaneli	properNoun
+Turksat	Turksat	properNoun
+Palinkas	Palinkas	properNoun
+Boztepe	Boztepe	properNoun
+Zeljko	Zeljko	properNoun
+Badnja	Badnja	properNoun
+Outokumpa	Outokumpu	properNoun
+Gustavsen	Gustavsen	properNoun
+Kisela	Kisela	properNoun
+Khirtuk	Khirtuk	properNoun
+Posidonia	Posidonie	properNoun
+Abdulkarim	Abdulkarim	properNoun
+Serez	Serez	properNoun
+Voluntari	Bénévole	properNoun
+Davidovski	Davidovski	properNoun
+Shirer	Shirt	properNoun
+Nimic	Nimité	properNoun
+Bulutoglulari	Bulutoglulari	properNoun
+Dogan	Dogan	properNoun
+Hidir	Hidir	properNoun
+Platini	Platini	properNoun
+Aktar	Aktar	properNoun
+Sipovo	Sipovo	properNoun
+Alkin	Alkin	properNoun
+Kalfayan	Kalfayan	properNoun
+Trpkovski	Trptkovski	properNoun
+Cazin	Cazin	properNoun
+Ramazanoglu	Ramazanoglu	properNoun
+Hilmer	Hilmer	properNoun
+Adrion	Admis	properNoun
+Kitrinost	Kitrinost	properNoun
+Remzi	Remzi	properNoun
+Catina	Catina	properNoun
+Chappell	Chappell	properNoun
+Positron	le positron	noun
+Positron	Positron	None
+Villazon	Villazon	properNoun
+Kartal	Kartal	properNoun
+Ellinika	Ellinika	properNoun
+Gouladris	Gouladris	properNoun
+Poortman	Puceron	properNoun
+Berousek	Berousek	properNoun
+Kjell	Kjell	properNoun
+Zake	Zake	properNoun
+Despenic	Mépris	properNoun
+Valetta	Valetta	properNoun
+Kamilo	Kamilo	properNoun
+Epaminondas	Éplaminondas	properNoun
+Dobricic	Dobriqué	properNoun
+Maliuc	Malheur	properNoun
+Varoufakis	Varoufakis	properNoun
+Lafarge	Lafarge	properNoun
+Alimina	Alimina	properNoun
+Herakles	Herakles	properNoun
+Zulfikarpasic	Zulfikarpasic	properNoun
+Binas	Binas	properNoun
+Baranovic	Baranovic	properNoun
+Colentina	Colentina	properNoun
+Instat	Instaurer	properNoun
+Krijestorac	Krijestorac	properNoun
+Kemal	Kemal	properNoun
+Ladislav	Ladislav	properNoun
+Valias	Valias	properNoun
+Boka	Boka	properNoun
+Bechet	Bechet	properNoun
+Emilian	Émilien	properNoun
+Voinescu	VOINSCU	properNoun
+Rousetis	Roussetis	properNoun
+Ylber	Ylber	properNoun
+Zhilla	Zhilla	properNoun
+Brico	Brico	properNoun
+Avis	Avis	properNoun
+Vegar	Velar	properNoun
+Ilinka	Ilinka	properNoun
+Draganoff	Draganoff	properNoun
+Konjevic	Konjevic	properNoun
+Hysi	Hyssi	properNoun
+Balas	Balles	properNoun
+Adamopoulos	Adamopoulos	properNoun
+Skelani	Skelani	properNoun
+Stivicic	Stivicic	properNoun
+Halid	Halid	properNoun
+Tihomira	Tihomira	properNoun
+Ziogos	Ziogos	properNoun
+Erekat	Erekat	properNoun
+Imamoglu	Imamoglu	properNoun
+Nakamura	Nakamura	properNoun
+Sestanovic	Sestanovic	properNoun
+Wilshire	Wilshire	properNoun
+Zetra	Zétra	properNoun
+Oktar	Oktar	properNoun
+Rruga	Rruga	properNoun
+Klosi	Klosi	properNoun
+Bursel	Bourse	properNoun
+Szekely	Szekely	properNoun
+Lemez	Lemez	properNoun
+Girismen	Girismène	properNoun
+Kompromat	Kompromat	properNoun
+Mujota	Mujota	properNoun
+Fomenko	Fomenko	properNoun
+Promonte	Promontoire	properNoun
+Chigi	Chigi	properNoun
+Kerdos	Kerdos	properNoun
+Negrelli	Negelli	properNoun
+Isik	ISIK	properNoun
+Bejtaj	Bejtaj	properNoun
+Trajceska	Trajeska	properNoun
+Hugasyan	Hugasyan	properNoun
+Ninov	Ninov	properNoun
+Zutica	Zutica	properNoun
+Eldin	Eldin	properNoun
+Delevekouras	Delevekouras	properNoun
+Milionis	Milionis	properNoun
+Olympiastadion	Olympiastadion	properNoun
+Patrashkova	Patrashkova	properNoun
+Karapelit	Karapelit	properNoun
+Vojvodjanska	Vojvodjanska	properNoun
+Nasdaq	Nasdaq	properNoun
+Arilje	Arilje	properNoun
+Tasmajdan	Tasmajdan	properNoun
+Khetaguri	Khettaguri	properNoun
+Esenyurt	Esenyurt	properNoun
+Publicmedia	Publicmedia	properNoun
+Crnojevici	Crnojevici	properNoun
+Mimara	Mimara	properNoun
+Kaynak	Kaynak	properNoun
+Syriza	Syriza	properNoun
+Beraha	Beraha	properNoun
+Rinas	Rinas	properNoun
+montenegrin	monténégrin	adjective
+montenegrin	le Monténégrin	noun
+montenegrin	monténégrin	None
+Fazilet	Fazilet	properNoun
+Sanguinetti	Sanguinetti	properNoun
+Uve	Uve	properNoun
+Valchev	Valchev	properNoun
+Blumenkamp	Blumenkamp	properNoun
+Lorenci	Lorenci	properNoun
+Curtici	Curtici	properNoun
+Prespa	Préspa	properNoun
+singe	roussir	verb
+singe	brûler légèrement	verb
+singe	brûler	verb
+singe	la légère brûlure	noun
+singe	la tache de roussi	noun
+singe	la roussissure	noun
+singe	roussir	None
+Alexius	Alexius	properNoun
+Evi	Evi	properNoun
+Gro	Gro	properNoun
+Batzeli	Batzeli	properNoun
+Arizankovska	Arizankovska	properNoun
+Grasse	Grasse	properNoun
+Badea	Madea	properNoun
+Idora	Idora	properNoun
+Toshevski	Toshevski	properNoun
+Milic	Militaire	properNoun
+Ankaraspor	Ankaraspor	properNoun
+Informatics	Informatique	properNoun
+Mirushe	Mirushe	properNoun
+Selahattin	Selahattin	properNoun
+Miskov	Miskov	properNoun
+Potec	Potec	properNoun
+Opole	Opole	properNoun
+Daliakas	Daliakas	properNoun
+Zlakusa	Zlakusa	properNoun
+Ciutacu	Ciutacu	properNoun
+Balakov	Balakov	properNoun
+Simbel	Simbel	properNoun
+Vodici	Vodici	properNoun
+Koczi	Koczi	properNoun
+Dimitrij	Dimitrij	properNoun
+Courtin	Courtine	properNoun
+Sancraieni	Sancraïeni	properNoun
+Iskit	Iskit	properNoun
+Shaghour	Shaghour	properNoun
+Constantinescu	Constantinescu	properNoun
+Dachkov	Dachkov	properNoun
+Sjaj	Sjaj	properNoun
+Tilea	le carrelage	noun
+Tilea	Carrelage	None
+Botevgrad	Bottevgrad	properNoun
+Sopi	Sopi	properNoun
+Zografska	Zografska	properNoun
+Uckan	Uckan	properNoun
+Eicher	Euker	properNoun
+Cor	Car	properNoun
+Veaceslav	Veauceslav	properNoun
+Animanima	Animanima	properNoun
+Tsvetelin	Tsvetelin	properNoun
+Prvoslav	Prvoslav	properNoun
+Voinovski	VOINOVSKI	properNoun
+Letnica	Lednica	properNoun
+Drazan	Drazan	properNoun
+Barcelo	Barcelo	properNoun
+Makri	Makri	properNoun
+Terral	Terrale	properNoun
+Alro	Alro	properNoun
+Pyrka	Pyrka	properNoun
+Swarovski	Swarovski	properNoun
+Rop	Rop	properNoun
+Bregu	BREGU	properNoun
+Cybele	Cybele	properNoun
+Trapezitsa	Trapèze	properNoun
+Munir	Munir	properNoun
+Stip	Sterne	properNoun
+Sontag	Sontag	properNoun
+Georgantis	Géorgantis	properNoun
+Gasquet	Gasquet	properNoun
+Ignacy	Ignorance	properNoun
+Hellastat	Hellastat	properNoun
+Prodis	Prodis	properNoun
+Itzhar	Itzhar	properNoun
+Helexpo	Helexpo	properNoun
+Drvar	Drvar	properNoun
+Eminescu	Eminescu	properNoun
+Cordas	Cordas	properNoun
+Tijana	Tijana	properNoun
+Papadaki	Papaaki	properNoun
+Heijmink	Heijmink	properNoun
+Arti	Arti	properNoun
+Ninel	Nénière	properNoun
+Trapeza	Trapèze	properNoun
+Nazzaro	Nazazaro	properNoun
+Sulo	Sulo	properNoun
+Panathinaiko	Panathinaiko	properNoun
+Dubravka	Dubravka	properNoun
+Halkia	Halkia	properNoun
+Infoglobi	Infoglobi	properNoun
+Tsolas	Tsolas	properNoun
+Maguri	Maguri	properNoun
+Cakmac	Cakmac	properNoun
+Breka	Brune	properNoun
+Nicolaev	Nicolaev	properNoun
+Kleist	Kleist	properNoun
+Simitli	Simitli	properNoun
+Gevgelija	Gevgelija	properNoun
+Tipos	Tipos	properNoun
+Uke	Uke	properNoun
+Satish	À Satish	properNoun
+Bier	la bière	noun
+Bier	les brancards	noun
+Bier	Bière	None
+Egeraat	Egeraat	properNoun
+Huff	souffler	verb
+Huff	Souffler	None
+Kirakossian	Kirakossian	properNoun
+Elvir	Elvir	properNoun
+Blanksma	Blancsma	properNoun
+Mitsuhashi	Mitsuhashi	properNoun
+Steed	le coursier	noun
+Steed	Coursier	None
+Mihov	Mihov	properNoun
+Buhler	Buhler	properNoun
+for a few years	pour quelques années	properNoun
+Enkhbayar	Enkhbayar	properNoun
+Katsura	Katsura	properNoun
+Fazlagica	Fazlagica	properNoun
+Mizrahi	Mizrahi	properNoun
+Kostakis	Kostakis	properNoun
+Bilbilov	Bilbilov	properNoun
+Buljubasic	Buljubasique	properNoun
+Letica	Lastica	properNoun
+Polykandriotis	Polykandriotis	properNoun
+Vlcek	Vlcek	properNoun
+Odysseas	Odysseas	properNoun
+Propylaea	Propylea	properNoun
+Maljcic	Maljcique	properNoun
+Pervizi	Pérvizi	properNoun
+Vlade	Vlade	properNoun
+Abdurrahman	Abdurrahman	properNoun
+Tegnestue	Tegnestue	properNoun
+Lebane	Lebane	properNoun
+Micro	Micro	properNoun
+Akhtamar	Akhtamar	properNoun
+Arrez	Arrez	properNoun
+Trancota	Trancota	properNoun
+Boteff	Bôlef	properNoun
+Tzanev	Tzanev	properNoun
+Podravina	Podravina	properNoun
+Vlasenica	Vlasenica	properNoun
+Kimon	Kimon	properNoun
+Musmurat	Musmurat	properNoun
+Ekeno	Ekeno	properNoun
+Mittal	Mitti	properNoun
+Gastinger	Gastines	properNoun
+Uri	Uri	properNoun
+Antal	Antalon	properNoun
+Mikuriya	Mikuriya	properNoun
+Sochi	Sotchi	properNoun
+Evren	Vif	properNoun
+Andreicut	Andredicut	properNoun
+Kolasin	Kolasin	properNoun
+Nikezic	Nikezic	properNoun
+Monte Carlo	monte Carlo	properNoun
+Kuku	Kuku	properNoun
+Tunel	Tunel	properNoun
+Karisik	Karisik	properNoun
+Cottbus	Cottbus	properNoun
+Drvengrad	Drvengrad	properNoun
+Emi	EMI	properNoun
+Azubalis	Azubalis	properNoun
+Itzik	Itzik	properNoun
+H	H	properNoun
+Fershped	Fershped	properNoun
+Comanescu	Comanescu	properNoun
+Bingde	Bingde	properNoun
+Ozugergin	Ozugegine	properNoun
+Vruh	Vrun	properNoun
+Zioga	Zioga	properNoun
+Vatamanu	Vatamanu	properNoun
+Kolyo	Kolyo	properNoun
+Kryevidhi	Krythevhi	properNoun
+Vlaski	Vlaski	properNoun
+Hayrettin	Hayrettin	properNoun
+Celayir	Célayir	properNoun
+Lulaj	Lulaj	properNoun
+Irva	Irva	properNoun
+Kallaba	Kallaba	properNoun
+Grosu	Grosu	properNoun
+Bogdanov	Bogdanov	properNoun
+Beokon	Beokon	properNoun
+Masaryk	Masarik	properNoun
+Berber	berbère	adjective
+Berber	le berbère	noun
+Berber	Berbère	noun
+Berber	berbère	None
+Erken	Erken	properNoun
+Kallianos	Kallianos	properNoun
+Blarel	Blague	properNoun
+Cakiroglu	Cakiroglu	properNoun
+Bogdanovski	Bogdanovski	properNoun
+Sredoje	Sredoje	properNoun
+Liqenas	Liqenas	properNoun
+Temizyürek	Temizyürek	properNoun
+Slavisa	Slavisa	properNoun
+Eugenia	Eugenia	properNoun
+Vlajko	Vlajko	properNoun
+Gladiste	Gladiste	properNoun
+Skalkottas	Skalkottas	properNoun
+Kukuljanovo	Kukuljanovo	properNoun
+Kagan	Kagan	properNoun
+Trsic	Trssique	properNoun
+Vatele	Vatele	properNoun
+Aspalan	Aspalan	properNoun
+Tymoshenko	Tymonchenko	properNoun
+Asine	Asine	properNoun
+Plesita	Plesita	properNoun
+Ogasawara	Ogasawara	properNoun
+Lefteris	Lefteris	properNoun
+Nudrag	Nudrag	properNoun
+Aferdita	Averdita	properNoun
+Rezkaya	Rezkaya	properNoun
+Batur	Batrait	properNoun
+become destitute	devenir démunir	properNoun
+Gorazde	Gorazde	properNoun
+Flaka	Flocon	properNoun
+Urla	Urla	properNoun
+Ekmez	Ekmez	properNoun
+Tzogopoulos	Tzogopoulos	properNoun
+Kuznetsova	Kuznetsova	properNoun
+Porin	Porin	properNoun
+Leakey	Saillance	properNoun
+Barzani	Barzani	properNoun
+AmCham	Amcham	properNoun
+Sariisik	Sariisik	properNoun
+Panteion	Panteion	properNoun
+Darlas	Darlas	properNoun
+Supersport	Supersport	properNoun
+Bout	le combat	noun
+Bout	l' accès	noun
+Bout	la période	noun
+Bout	la crise	noun
+Bout	l' assaut	noun
+Bout	l' attaque	noun
+Bout	Combat	None
+so long as	tant que	properNoun
+Rosenstein	Rosenstein	properNoun
+Maramures	Maramupes	properNoun
+Evripidis	Evripidis	properNoun
+Marashev	Marashev	properNoun
+Adani	Adani	properNoun
+Khajag	Khajag	properNoun
+Tuzmen	Tuzmen	properNoun
+Saarela	Saarela	properNoun
+Tigiev	Tigiev	properNoun
+Dubioza	DUBIOZA	properNoun
+Omerivic	Omerivique	properNoun
+Artis	Artiste	properNoun
+Thane	Querelle	properNoun
+Schoenthaler	Schoenthaler	properNoun
+Cristoiu	Cristoiu	properNoun
+Brovina	Brovina	properNoun
+Mingova	Mingova	properNoun
+Muzaferija	Muzaferija	properNoun
+Gogic	Gogique	properNoun
+Sadushi	Sadushi	properNoun
+Srdja	Srdja	properNoun
+Ankica	Ankica	properNoun
+Pozzi	Pozzi	properNoun
+Ergezen	Ergezen	properNoun
+Helmer	Houle	properNoun
+Pozanti	Pozanti	properNoun
+Granje	Granje	properNoun
+Grigorescu	Grigorescu	properNoun
+Katche	Katche	properNoun
+Badnjak	Badnjak	properNoun
+Tutui	Tutui	properNoun
+Steger	Flagrant	properNoun
+Karbinci	Karbinci	properNoun
+Pedrono	Pédrono	properNoun
+Pomorie	Pomorie	properNoun
+Brezovik	Brezovik	properNoun
+Ting	Ting	properNoun
+Serveta	Servette	properNoun
+Kistermann	Kistermann	properNoun
+Denktaš	Denktaš	properNoun
+Sandu	Sandu	properNoun
+Dullien	Ennuyeux	properNoun
+Atsushi	Atsushi	properNoun
+Zvezda	Zvezda	properNoun
+Lucev	Lucev	properNoun
+Praljak	Praljak	properNoun
+MarketWatch	Marketing	properNoun
+Kuala	Kuala	properNoun
+Turunen	Turunen	properNoun
+Kruseva	Krusevac	properNoun
+Goehring	Goehring	properNoun
+news	les nouvelles	noun
+news	la nouvelle	noun
+news	l' actualités	noun
+news	l' information	noun
+news	l' informations	noun
+news	nouvelles	None
+Markis	Marque est	properNoun
+smell bad	mauvaise odeur	properNoun
+Zivica	Zivica	properNoun
+Vama	Va	properNoun
+Zani	Zani	properNoun
+Bexheti	Bexheti	properNoun
+Nkoana	Nkoana	properNoun
+Rosica	Rosica	properNoun
+Canavan	Canavan	properNoun
+be reborn	revivre	verb
+be reborn	renaître	None
+Raikka	Raikka	properNoun
+Grieg	Grieg	properNoun
+Bazarguruev	Bazarguruev	properNoun
+Delal	Délicat	properNoun
+Kaminis	Kaminis	properNoun
+Fotios	Fotios	properNoun
+Kruja	Kruja	properNoun
+Mandafounis	Mandafounis	properNoun
+Ibric	Ibric	properNoun
+Nazarko	Nazarko	properNoun
+Sten	Sévère	properNoun
+Lengher	Lengher	properNoun
+Abdixhiku	Abdixhiku	properNoun
+Dragomiresti	Dragomiresti	properNoun
+Lipscani	Lipscani	properNoun
+Petranka	Pétrole	properNoun
+Nica	Nica	properNoun
+Kareas	Kareas	properNoun
+Zdenci	Zdenci	properNoun
+Karygiannis	Karygiannis	properNoun
+Schmunk	Schmunk	properNoun
+Kimiko	Kimiko	properNoun
+Manole	Manœuvre	properNoun
+Minh	Minh	properNoun
+Karamarko	Karamarko	properNoun
+Malstrom	Balstrom	properNoun
+Flex	fléchir	verb
+Flex	se courber	verb
+Flex	faire fléchir	verb
+Flex	faire plier	verb
+Flex	Fléchir	None
+Milea	Milea	properNoun
+Kifu	Kifu	properNoun
+Buchi	Buchi	properNoun
+Valmir	Valmir	properNoun
+Sopiste	Sopiste	properNoun
+Palme	Palme	properNoun
+Kokugikan	Kokugikan	properNoun
+Amurri	Amurri	properNoun
+whether	si	conjunction
+whether	que	conjunction
+whether	soit	conjunction
+whether	qu'il s'agisse	None
+Sefko	Sefko	properNoun
+Illes	Malles	properNoun
+Mahovljani	Mahovljani	properNoun
+Durichi	Duichi	properNoun
+Scarlat	Scarlat	properNoun
+Magbule	Magbule	properNoun
+Sommerville	Sommerville	properNoun
+Karakachanov	Karakachaanov	properNoun
+Sauvignon	Sauvignon	properNoun
+Kinoteka	Kinoteka	properNoun
+get upset	se fâcher	properNoun
+Ivackovic	Ivackovic	properNoun
+Kuneva	Kuneva	properNoun
+Drazen	Drame	properNoun
+Vesko	Vesko	properNoun
+Kapil	Kapil	properNoun
+Lulo	Lugo	properNoun
+Idrizovo	Idizovo	properNoun
+Risteska	Risteska	properNoun
+Lesvos	Lesvos	properNoun
+Natko	Natko	properNoun
+Euroart	Euroart	properNoun
+Wim	Wim	properNoun
+Astec	Astec	properNoun
+Lokumcu	Lokumcu	properNoun
+Tsacheva	Tsacheva	properNoun
+Palexo	Palexo	properNoun
+Purcelea	Curcelée	properNoun
+Karahasanovic	Karahasanovic	properNoun
+Aygun	Aygun	properNoun
+Murriqan	Murriqan	properNoun
+Cormoran	Cormorne	properNoun
+Faton	Faton	properNoun
+Shemsi	Shemsi	properNoun
+Evgenia	Evgenia	properNoun
+Witthauer	Imperméable	properNoun
+Rahovec	Rahovec	properNoun
+Svenka	Svenka	properNoun
+Gumball	Gumball	properNoun
+Onural	Inural	properNoun
+Efthalia	Efthalia	properNoun
+Petrusic	Pétrusique	properNoun
+Klikov	Klikov	properNoun
+Stanislava	Stanislava	properNoun
+Reto	Reto	properNoun
+Manaskov	Manaskov	properNoun
+Macedon	Macédon	properNoun
+Bajramovic	Bajramovic	properNoun
+Almir	Almir	properNoun
+Ozbasbug	Ozbasbug	properNoun
+Pentecost	la Pentecôte	noun
+Pentecost	Pentecôte	None
+Radichkov	Radichkov	properNoun
+Mondrian	Mondrian	properNoun
+Ege	Élever	properNoun
+Pozega	Pozéga	properNoun
+Hyun	Hyun	properNoun
+Ansa	ANSA	properNoun
+Zeljeznice	Zeljeznice	properNoun
+Aysel	Aysel	properNoun
+Khurvaleti	Khurvaleti	properNoun
+Teteks	Teteks	properNoun
+Eurostats	Eurostats	properNoun
+Abdulaziz	Abdulaziz	properNoun
+Paskov	Piquer	properNoun
+Szombathely	Szombathely	properNoun
+Koman	Koman	properNoun
+Heiko	Heiko	properNoun
+Ermoupolis	Euhoupolis	properNoun
+Siret	Siret	properNoun
+Sotir	Sotiir	properNoun
+Aksit	Aksit	properNoun
+Mimis	Mimis	properNoun
+Timea	Hornière	properNoun
+Rava	Rava	properNoun
+Prettitore	Pompier	properNoun
+Zakarpattia	Zakarpattia	properNoun
+Kubura	Kubura	properNoun
+Kizilcikli	Kizilcikli	properNoun
+Ledras	LEDRAS	properNoun
+Tarom	Tarom	properNoun
+Fisheku	Fisheku	properNoun
+Philipopolis	Philippopolis	properNoun
+Ertug	Ertug	properNoun
+Radoja	Radoja	properNoun
+Benjelloun	Benjelloun	properNoun
+Plav	Plainter	properNoun
+Oltcit	Oltcit	properNoun
+Disli	Dissiper	properNoun
+Pervagin	Pervagine	properNoun
+Glendor	Glendeur	properNoun
+Kintigler	Kintigler	properNoun
+Schiff	Schiff	properNoun
+Balkanija	Balkanija	properNoun
+Ditmir	Diterie	properNoun
+Drescher	Drescher	properNoun
+son-in-law	le beau-fils	noun
+son-in-law	gendre	None
+van	le van	noun
+van	le fourgon	noun
+van	la camionnette	noun
+van	le camion	noun
+van	la caravane	noun
+van	l' avant-garde	noun
+van	van	None
+Berrak	Berrire	properNoun
+Gurmai	Gurmai	properNoun
+Makrohori	Makrohori	properNoun
+Kosur	Kosur	properNoun
+Laakso	Laakso	properNoun
+Cig	la cigarette	noun
+Cig	Cigarette	None
+Nistor	Nistor	properNoun
+Corlatean	Corlare	properNoun
+Rabisha	Rabana	properNoun
+Lukovo	Lukovo	properNoun
+Hakson	Hakson	properNoun
+turn out well	tourner à bien	properNoun
+Mehmetaj	Mehmetaj	properNoun
+Nafisy	Nafisy	properNoun
+Decani	Décanier	properNoun
+Cupic	Tamique	properNoun
+Becks	Becks	properNoun
+Fiti	Fit	properNoun
+Kociu	Kociu	properNoun
+Rifaj	Rifaj	properNoun
+Intermezzo	l' intermezzo	noun
+Intermezzo	Intermezzo	None
+Srpske	Srpske	properNoun
+Debeljak	Debeljak	properNoun
+Matoshi	Matoshi	properNoun
+Arthuros	Arthuros	properNoun
+Americana	Americana	properNoun
+Adiyaman	Adiyaman	properNoun
+Sukhinova	Sukhinova	properNoun
+Slaviskaya	Slaviskaya	properNoun
+Samiei	Samiei	properNoun
+do research	faire des recherches	properNoun
+Pantocrator	Pantocrator	properNoun
+Kamu	Kamu	properNoun
+Rafferty	Raffert	properNoun
+Bamle	Bamilier	properNoun
+Kasoulides	Kasoulides	properNoun
+Metohija	Metohija	properNoun
+Ramush	Ramush	properNoun
+Koca	Koca	properNoun
+Dafoe	Dafoe	properNoun
+Giolas	Giolas	properNoun
+Oplasteatro	Oplasteatro	properNoun
+Librag	Boucherie	properNoun
+Sefa	SEFA	properNoun
+Vodita	Vodita	properNoun
+Geske	Geske	properNoun
+Iptana	Iptana	properNoun
+Miyagi	Miyagi	properNoun
+Dika	Dika	properNoun
+Rastu	Rastu	properNoun
+Ventil	Ventille	properNoun
+Renwick	Renwick	properNoun
+Gert	Gert	properNoun
+Lipovsek	Lipovsek	properNoun
+Makki	Makki	properNoun
+Favilla	Favilla	properNoun
+Goksel	Goksel	properNoun
+Erguven	Erguven	properNoun
+Luiz	Luiz	properNoun
+Gazproneft	Gazpromneft	properNoun
+Kalenda	Kalenda	properNoun
+Menon	Menon	properNoun
+Gubarev	Gubarev	properNoun
+Crans	Crans	properNoun
+Somogy	Somogie	properNoun
+Zdruzhenska	Zdruzhenska	properNoun
+Udre	Udre	properNoun
+Gosovic	Gosovic	properNoun
+Gadza	Gadza	properNoun
+Tanec	Tanec	properNoun
+Abdelouahed	Abdélouahed	properNoun
+richter scale	échelle de Richter	properNoun
+Marios	Marios	properNoun
+Belkacem	Belkacem	properNoun
+Reffe	Reffe	properNoun
+Halkali	Halkali	properNoun
+Stanisa	Stanisa	properNoun
+Cabletel	Cabletel	properNoun
+Pekmezi	Pekmezi	properNoun
+Gunnarsdottir	Gunnarsdottir	properNoun
+Rovinj	Rovinj	properNoun
+Matejaz	Matejaz	properNoun
+Radinovo	Radinovo	properNoun
+Fonatine	Fontaine	properNoun
+Bulucea	Bulucea	properNoun
+Biegman	Biegman	properNoun
+Didulica	Didulica	properNoun
+Ahnen	Ahnen	properNoun
+Scepanovic	Scepanovic	properNoun
+Tziralis	Tziralis	properNoun
+Koleso	Koleso	properNoun
+Penov	Penov	properNoun
+Apostol	Apostol	properNoun
+EvroKo	Évendue	properNoun
+Hermanis	Hermanos	properNoun
+Draganja	Draghanja	properNoun
+Sbirn	Sbirn	properNoun
+Potok	Pomme	properNoun
+Wieczorek	Wieczorek	properNoun
+Koksan	Koksan	properNoun
+Razimova	Razimova	properNoun
+Nikiforos	Nikiiforos	properNoun
+Popovska	Popovska	properNoun
+Nisipeanu	Nisipéanu	properNoun
+Savski	Savski	properNoun
+Dink	Dinker	properNoun
+Cosmo	Cosmo	properNoun
+Davlouros	Davlouros	properNoun
+Geleri	Geleri	properNoun
+Oztrak	Oztrak	properNoun
+Ngan	Nan	properNoun
+Bytyqi	Bytyqi	properNoun
+Radek	Radek	properNoun
+Sanovic	Sanovic	properNoun
+Sopot	Sopot	properNoun
+Latas	Latas	properNoun
+Engjellushe	Engjellushe	properNoun
+Kos	Kos	properNoun
+Tavitjan	Tavitjan	properNoun
+Lalezi	Lalezi	properNoun
+Haxha	Haxha	properNoun
+Honing	l' honing	noun
+Honing	Honing	None
+Maestra	Maestra	properNoun
+Theodosius	Theodose	properNoun
+Comak	Comak	properNoun
+Venizelos	Venizelos	properNoun
+Andjelija	Andjelija	properNoun
+Zitkovac	Zitkovac	properNoun
+Catavencu	Catavenu	properNoun
+Evliana	Evliana	properNoun
+Dorfmeister	Dorfmeister	properNoun
+Kovancilar	Kovancilaire	properNoun
+Tristariu	Tristariu	properNoun
+Aloisi	Aloisi	properNoun
+Kabakci	Kabakci	properNoun
+Deva	Deva	properNoun
+Gurbuz	Gurbuz	properNoun
+Kavadarci	Kavadarci	properNoun
+Harmanli	Harmanli	properNoun
+Ghimbav	Ghimbav	properNoun
+Danilovgrad	Danilovgrad	properNoun
+farm building with turf walls	Bâtiment de la ferme avec des murs de gazon	properNoun
+being together	être ensemble	properNoun
+baleen whale	baleine à fanons	properNoun
+parachuting	parachuter	verb
+parachuting	sauter en parachute	verb
+parachuting	le parachutisme	None
+reconstruction time	temps de reconstruction	properNoun
+Sandur	Sandur	properNoun
+bogie	le bogie	noun
+bogie	la crotte de nez	noun
+bogie	le bogey	noun
+bogie	le bogée	noun
+bogie	bogie	None
+eight o'clock	huit heures	properNoun
+unrounded	non fini	properNoun
+afraid of the dark	effrayé du noir	properNoun
+main weapon	arme principale	properNoun
+cackling	le caquetage	noun
+cackling	caquetage	None
+electrical/electric system	Système électrique / électrique	properNoun
+four	quatre	properNoun
+bon appetit	les bon appétit	noun
+bon appetit	bon appétit	None
+dashing	fringant	adjective
+dashing	superbe	adjective
+dashing	audacieux	adjective
+dashing	pimpant	adjective
+dashing	intelligent	adjective
+dashing	qui a grande allure	adjective
+dashing	fringant	None
+brambling	bravardement	properNoun
+poorly	médiocrement	adverb
+poorly	pauvrement	adverb
+poorly	malade	adjective
+poorly	souffrant	adjective
+poorly	pauvrement	None
+high jump	le saut en hauteur	noun
+high jump	grand saut	None
+make longer	rallonger	verb
+make longer	rallonger	None
+not here yet	pas encore ici	properNoun
+Jón	Jón	properNoun
+horsecart	char à cheval	properNoun
+cold weather	température froide	properNoun
+ling	la lingue	noun
+ling	la julienne	noun
+ling	la lotte de rivière	noun
+ling	lingue	None
+back and forth	aller et retour	adverb
+back and forth	allé et venue	adverb
+back and forth	va-et-vient	adverb
+back and forth	aller et retour	None
+seat belt	la ceinture de sécurité	noun
+seat belt	ceinture de sécurité	None
+like so	ainsi	properNoun
+blind drunk	bourré	adjective
+blind drunk	bituré	adjective
+blind drunk	rond	adjective
+blind drunk	l' ivre mort	noun
+blind drunk	ivre aveugle	None
+elven queen	elven reine	properNoun
+a while ago	il y a un moment	properNoun
+headlight	le phare	noun
+headlight	phare	None
+easy to travel	facile à voyager	properNoun
+old and worn-out	vieux et usé	properNoun
+earthquake scientist	Scientifique du séisme	properNoun
+scheduled trip	Voyage prévu	properNoun
+very upset	très en colère	properNoun
+August	août	noun
+August	août	None
+fug	fugue	properNoun
+blow in the face	souffler sur le visage	properNoun
+economically advantageous	économiquement avantageux	properNoun
+earshot	boue à oreille	properNoun
+ski slope	pente de ski	properNoun
+lack of self-control	manque de maîtrise de soi	properNoun
+careful about money	attention à l'argent	properNoun
+modern history	histoire moderne	properNoun
+instrumental case	instrumental	adjective
+instrumental case	cas instrumental	None
+choke with smoke	étouffer avec de la fumée	properNoun
+leg of lamb	gigot d'agneau	properNoun
+Icelandic ballad	Ballade islandaise	properNoun
+control system	Système de contrôle	properNoun
+scentless mayweed	Maylefe sans science	properNoun
+jalopy	la guimbarde	noun
+jalopy	le vieux tacot	noun
+jalopy	guimbarde	None
+baby-minder	la nourrice	noun
+baby-minder	petit amieur	None
+mashed potato	purée	properNoun
+step-mother	la belle-mère	noun
+step-mother	belle-mère	None
+disrespect	le manque de respect	noun
+disrespect	l' irrespect	noun
+disrespect	l' irrévérence	noun
+disrespect	le manque d'égards	noun
+disrespect	manque de respect	None
+x	X	properNoun
+Landsbanki	Landsbanki	properNoun
+astrological sign	signe astrologique	properNoun
+geological formation	formation géologique	properNoun
+driving instructor	moniteur d'auto-école	properNoun
+sucking	la succion	noun
+sucking	succion	None
+meat grinder	hachoir à viande	properNoun
+indescribable	indescriptible	adjective
+indescribable	indescriptible	None
+popsicle	popsicle	properNoun
+perusal	la lecture	noun
+perusal	la lecture attentive	noun
+perusal	lecture	None
+felt	le feutre	noun
+felt	les cheveux	noun
+felt	feutrer	verb
+felt	se sentait	None
+window frame	l' huisserie	noun
+window frame	cadre de fenêtre	None
+fishing voyage	Voyage de pêche	properNoun
+'tub'	la cuve	noun
+'tub'	le bac	noun
+'tub'	le baquet	noun
+'tub'	le pot	noun
+'tub'	la caisse	noun
+'tub'	la benne	noun
+'tub'	le sabot	noun
+'tub'	prendre un bain	verb
+'tub'	'baignoire'	None
+sledgehammer	slagehammer	properNoun
+itinerant worker	travailleur itinérant	properNoun
+gonorrhea	la blennorragie	noun
+gonorrhea	blennorragie	None
+doctor's visit	Visite du docteur	properNoun
+North pole	le pôle Nord	noun
+North pole	Pôle Nord	None
+belly flap	volly rabat	properNoun
+withered grass	herbe fanée	properNoun
+a black cat which takes away people who are not given new clothes at Christmas	un chat noir qui enlève des gens qui n'ont pas de nouveaux vêtements à Noël	properNoun
+dulse	dulse	properNoun
+tin foil	le papier d'étan	noun
+tin foil	le papier d'aluminium	noun
+tin foil	feuille d'étain	None
+freezer compartment	compartiment congélateur	properNoun
+indexation	l' indexage	noun
+indexation	indexation	None
+pincers	les tenailles	noun
+pincers	tenailles	None
+sixty years old	soixante ans	properNoun
+art form	Forme d'art	properNoun
+marine mammal	mammifère marin	properNoun
+tomboy	le garçon manqué	noun
+tomboy	garçon manqué	None
+stop up	boucher	verb
+stop up	bloquer	verb
+stop up	obstruer	verb
+stop up	boucher	None
+lollypop	sucette	properNoun
+wild guess	conjecture sauvage	properNoun
+revue	la revue	noun
+revue	revue	None
+piece of writing	écrit	properNoun
+riding animal	animal d'équitation	properNoun
+in debt	endetté	properNoun
+woodwork	les boiseries	noun
+woodwork	la menuiserie	noun
+woodwork	la charpente	noun
+woodwork	boiseries	None
+midget	le nain	noun
+midget	la puce	noun
+midget	minuscule	adjective
+midget	nain	None
+dumb animals	animaux stupides	properNoun
+maternal grandmother	grand-mère maternelle	properNoun
+feeling of inferiority	sentiment d'infériorité	properNoun
+the Atlantic Ocean	l'océan Atlantique	properNoun
+shrimp salad	Salade de crevettes	properNoun
+not related	pas de lien	properNoun
+financial standing	situation financière	properNoun
+sugar beet	la betterave à sucre	noun
+sugar beet	Betterave à sucre	None
+front seat	siège avant	properNoun
+salmon river	rivière saumon	properNoun
+side valley	Side Valley	properNoun
+nail file	la lime à ongles	noun
+nail file	lime à ongles	None
+regalia	l' insignes royaux	noun
+regalia	les prérogatives royales	noun
+regalia	l' accoutrement	noun
+regalia	le droit régalien	noun
+regalia	insignes royaux	None
+reed	le roseau	noun
+reed	l' anche	noun
+reed	le chalumeau	noun
+reed	le pipeau	noun
+reed	roseau	None
+racecourse	l' hippodrome	noun
+racecourse	le champ de courses	noun
+racecourse	hippodrome	None
+concentrate	concentré	adjective
+concentrate	le concentré	noun
+concentrate	concentrer	verb
+concentrate	se concentrer	verb
+concentrate	condenser	verb
+concentrate	se rassembler	verb
+concentrate	faire rassembler	verb
+concentrate	faire fortifier	verb
+concentrate	concentrer	None
+Barrow's goldeneye	Goldeneye de Barrow	properNoun
+ant hill	la fourmilière	noun
+ant hill	fourmilière	None
+arctic bitter	arctique amer	properNoun
+American president	Président américain	properNoun
+completely crazy	complètement fou	properNoun
+naive person	personne naïve	properNoun
+ordinary person	personne ordinaire	properNoun
+cloying	perdre son charme	verb
+cloying	cloutant	None
+secret society	société secrète	properNoun
+slow-witted	qui a l'esprit lourd	adjective
+slow-witted	enthousiaste	None
+distribution network/system	Réseau de distribution / système	properNoun
+waistjacket	gilette-gilet	properNoun
+extremely alike	extrêmement pareil	properNoun
+light-year	l' année lumière	noun
+light-year	année-lumière	None
+jump rope	corde à sauter	properNoun
+brown bear	ours brun	properNoun
+small items	petits articles	properNoun
+Ásbjörn	Ásbjörn	properNoun
+emergency call	Appel d'urgence	properNoun
+values	les valeurs	noun
+values	l' objets de valeur	noun
+values	valeurs	None
+day of death	jour de la mort	properNoun
+sympathy strike	grève de sympathie	properNoun
+latin school	école latine	properNoun
+fifteen minutes before	quinze minutes avant	properNoun
+very thick	très épais	properNoun
+motor scooter	scooter moteur	properNoun
+well-deserved	bien mérité	adjective
+well-deserved	bien mérité	None
+highland	les montagnes	noun
+highland	la région montagneuse	noun
+highland	l' éminence	noun
+highland	montagnes	None
+skate-dancing	skate-danse	properNoun
+up in	dans	properNoun
+tie up hard	attacher fort	properNoun
+Arnoddur	Arniddeur	properNoun
+greylag goose	l' oie cendrée	noun
+greylag goose	oie cendrée	None
+singles	le simple	noun
+singles	simple	None
+plane	plan	adjective
+plane	le plan	noun
+plane	le niveau	noun
+plane	le rabot	noun
+plane	le platane	noun
+plane	raboter	verb
+plane	planer	verb
+plane	avion	None
+cocktail food on sticks	nourriture de cocktail sur des bâtons	properNoun
+bullfighter	le torero	noun
+bullfighter	le matador	noun
+bullfighter	torero	None
+scrubby	broussailleux	adjective
+scrubby	rabougri	adjective
+scrubby	couvert de broussailles	adjective
+scrubby	broussailleux	None
+status symbol	symbole de statut	properNoun
+one or the other	un ou l'autre	properNoun
+forty winks	les petit somme	noun
+forty winks	petit somme	None
+medium length	longueur moyenne	properNoun
+reword	recomposer	verb
+reword	rédiger à nouveau	verb
+reword	reformuler	None
+unfeeling	insensible	adjective
+unfeeling	impitoyable	adjective
+unfeeling	dur	adjective
+unfeeling	sans pitié	adjective
+unfeeling	sauvage	adjective
+unfeeling	insensible	None
+walkover	las victoire facile	noun
+walkover	le walk-over	noun
+walkover	victoire facile	None
+Japanese person	Japonais	properNoun
+typesetter	le compositeur	noun
+typesetter	le linotype	noun
+typesetter	compositeur	None
+coot	la foulque	noun
+coot	la tourte	noun
+coot	foulque	None
+belongings	l' affaires	noun
+belongings	les possessions	noun
+belongings	affaires	None
+bank branch	branche de banque	properNoun
+SUV	Suv	properNoun
+make a show of	faire un spectacle	properNoun
+household contents insurance	Sommaire du ménage Assurance	properNoun
+youth association	association de jeunesse	properNoun
+commotion	l' agitation	noun
+commotion	le tumulte	noun
+commotion	l' émoi	noun
+commotion	le trouble	noun
+commotion	la révolution	noun
+commotion	la révolte	noun
+commotion	le tonnerre	noun
+commotion	agitation	None
+unrecognisable	méconnaissable	properNoun
+in every direction	dans toutes les directions	properNoun
+flickering	vacillant	adjective
+flickering	qui tremble	adjective
+flickering	le battement des cils	noun
+flickering	le cillement	noun
+flickering	vacillant	None
+act of parliament	acte du Parlement	properNoun
+total eclipse	éclipse totale	properNoun
+staggering	l' échelonnement	noun
+staggering	l' étalement	noun
+staggering	stupéfiant	adjective
+staggering	chancelant	adjective
+staggering	atterrant	adjective
+staggering	bouleversant	adjective
+staggering	soufflant	adjective
+staggering	pharamineux	None
+snap at	parler d'un ton sec	verb
+snap at	faire entrer	None
+thickset	trapu	adjective
+thickset	dense	adjective
+thickset	incrusté	adjective
+thickset	trapu	None
+untamed animal	animal indompté	properNoun
+deluxe/luxury hotel	Deluxe / Hôtel de luxe	properNoun
+near by	proche	adjective
+near by	près	adverb
+near by	tout près	adverb
+near by	à côté	adverb
+near by	auprès	adverb
+near by	proche	None
+twelve o'clock	douze heures	properNoun
+brake lining	la garniture de frein	noun
+brake lining	garniture de frein	None
+minister of fisheries	ministre des Pêches	properNoun
+long	long	adjective
+long	longue	adjective
+long	à long terme	adjective
+long	depuis longtemps	adverb
+long	longuement	adverb
+long	long	None
+Christmas present	le cadeau de Noël	noun
+Christmas present	cadeau de Noël	None
+completely reliable	complètement fiable	properNoun
+attend to	assister à	properNoun
+in excess of	en excès de	properNoun
+internally	intérieurement	adverb
+internally	intérieurement	None
+make popcorn	faire du popcorn	properNoun
+childlike	puéril	adjective
+childlike	enfantin	None
+half-moon	la demi-lune	noun
+half-moon	la lunule	noun
+half-moon	demi Lune	None
+cell wall	paroi cellulaire	properNoun
+financial institution	institution financière	properNoun
+in its place	à sa place	properNoun
+of all kinds	de toute sorte	properNoun
+feel up	se sentir	properNoun
+very nice	très agréable	properNoun
+duty doctor	dommage	properNoun
+inflectional ending	terminaison inflexale	properNoun
+removal by force	déménagement par la force	properNoun
+nine-thirty	neuf heures trente	properNoun
+unruly boy	Garçon indiscipliné	properNoun
+fumble along	marquer	properNoun
+reinforcements	le renforcement	noun
+reinforcements	les renforts	noun
+reinforcements	renforts	None
+skunk	la mouffette	noun
+skunk	le sconse	noun
+skunk	le salaud	noun
+skunk	le mufle	noun
+skunk	la canaille	noun
+skunk	duper	verb
+skunk	flanquer par terre	verb
+skunk	battre à plat	verb
+skunk	faire tromper	verb
+skunk	ne pas payer	verb
+skunk	moufette	None
+fine wool	laine finesse	properNoun
+one-sided	unilatéral	adjective
+one-sided	partial	adjective
+one-sided	unilatéral	None
+screech	hurler	verb
+screech	crisser	verb
+screech	pousser des cris perçants	verb
+screech	hululer	verb
+screech	crier de douleur	verb
+screech	le crissement	noun
+screech	l' hurlement	noun
+screech	le cri perçant	noun
+screech	hurler	None
+insusceptible	impregnable	adjective
+insusceptible	insissible	None
+nailed fast	cloué vite	properNoun
+hollow pile of snow	tas de neige creux	properNoun
+family resemblance	ressemblance de famille	properNoun
+butter churn	Baratte à beurre	properNoun
+glider flight	avion de planeur	properNoun
+electric power	pouvoir électrique	properNoun
+machine shop	atelier	properNoun
+new-born baby	le nouveau-né	noun
+new-born baby	nouveau-né	None
+indented	dentelé	adjective
+indented	découpé	adjective
+indented	utilisé	adjective
+indented	dentelé	None
+greenhorn	le jeunot	noun
+greenhorn	le blanc-bec	noun
+greenhorn	jeunot	None
+l	l	properNoun
+shooting star	l' étoile filante	noun
+shooting star	étoile filante	None
+interplanetary dust	poussière interplanétique	properNoun
+rove beetle	coléoptère	properNoun
+with prominent veins	avec des veines proéminentes	properNoun
+short circuit	le court-circuit	noun
+short circuit	se mettre en court-circuit	verb
+short circuit	court-circuiter	verb
+short circuit	court-circuit	None
+long journey	le grand voyage	noun
+long journey	long voyage	None
+grey hair	cheveux gris	properNoun
+Þórunn	ÞRunn	properNoun
+Icesave	Glace	properNoun
+Morse code	Morse	properNoun
+thankyou	Merci	properNoun
+power struggle	lutte pour le pouvoir	properNoun
+civic duty	devoir civique	properNoun
+to mind	remarquer	verb
+to mind	tenir	verb
+to mind	se rappeler	verb
+to mind	se souvenir	verb
+to mind	garder	verb
+to mind	surveiller	verb
+to mind	écouter	verb
+to mind	prendre garde	verb
+to mind	prendre soin	verb
+to mind	prêter attention à	verb
+to mind	à l'esprit	None
+showing off	frimer	verb
+showing off	crâner	verb
+showing off	se vanter	verb
+showing off	se faire remarquer	verb
+showing off	se parer	verb
+showing off	se crâner	verb
+showing off	Craner	None
+quagmire	le bourbier	noun
+quagmire	bourbier	None
+laugh loudly	rire bruyamment	properNoun
+line of work	ligne de travail	properNoun
+administration of justice	l'administration de la justice	properNoun
+Ainu language	Langage Ainu	properNoun
+private affair	affaire privée	properNoun
+gross profit	le bénéfice brut	noun
+gross profit	bénéfice brut	None
+CD-drive	Lecteur CD	properNoun
+meet	rencontrer	verb
+meet	se réunir	verb
+meet	se rencontrer	verb
+meet	faire face	verb
+meet	retrouver	verb
+meet	rejoindre	verb
+meet	se retrouver	verb
+meet	payer	verb
+meet	régler	verb
+meet	revoir	verb
+meet	faire la connaissance	verb
+meet	la réunion	noun
+meet	rencontrer	None
+exceptionless	impressionnant	properNoun
+go on strike	faire la grève	properNoun
+LP album	Album LP	properNoun
+sea monster	Monstre des mers	properNoun
+be noisy	être bruyant	properNoun
+two-faced	hypocrite	adjective
+two-faced	à deux facettes	None
+forecastle	le gaillard	noun
+forecastle	gaillard	None
+half way between	à mi-chemin entre	properNoun
+respitory arrest	arrêt respiratoire	properNoun
+tiny	minuscule	adjective
+tiny	infime	adjective
+tiny	tout petit	adjective
+tiny	tout petit	None
+introvert	l' introverti	noun
+introvert	introverti	None
+initial stage	stade initial	properNoun
+ash shower	sucrerie	properNoun
+idle talk	les paroles oiseuses	noun
+idle talk	le paroles en l'air	noun
+idle talk	conversation	None
+Julía	Julia	properNoun
+slimming	maigrir	verb
+slimming	amincir	verb
+slimming	perdre du poids	verb
+slimming	alléger	verb
+slimming	faire maigrir	verb
+slimming	suivre un régime amaigrissant	verb
+slimming	minceur	None
+be unable to attend	être incapable d'assister	properNoun
+make smaller	rapetisser	verb
+make smaller	réduire	None
+stark naked	complètement nu	adjective
+stark naked	complètement nu	None
+weight-lifter	haltérophile	noun
+weight-lifter	élévateur de poids	None
+three-thirty	trois heures et demie	properNoun
+foster father	père adoptif	properNoun
+excommunicated	excommunié	properNoun
+become teary-eyed	les yeux larmes	properNoun
+umbilical cord	le cordon ombilical	noun
+umbilical cord	cordon ombilical	None
+felt-tip pen	stylo de pointe	properNoun
+applied arts	arts appliqués	properNoun
+ballpoint pen	le stylo à bille	noun
+ballpoint pen	stylo à bille	None
+train oil	huile de train	properNoun
+throw together	jeter ensemble	properNoun
+hold up for show	tenir pour montrer	properNoun
+coffee cup	las tasse à café	noun
+coffee cup	tasse à café	None
+tear gas	gaz lacrymogène	properNoun
+bedtime	l' heure du coucher	noun
+bedtime	l' heure de dormir	noun
+bedtime	l' heure d'aller se coucher	noun
+bedtime	heure du coucher	None
+household things	choses ménagales	properNoun
+road sign	les panneau de signalisation	noun
+road sign	le signal routier	noun
+road sign	la signalisation routière	noun
+road sign	panneau de signalisation	None
+wakening	réveiller	verb
+wakening	éveiller	verb
+wakening	se réveiller	verb
+wakening	exciter	verb
+wakening	être vigilant	verb
+wakening	s'éveiller	verb
+wakening	s'animer	verb
+wakening	réveil	None
+meticulousness	le soin méticuleux	noun
+meticulousness	méticulation	None
+mountain bike	le vtt	noun
+mountain bike	le vélo tout terrain	noun
+mountain bike	vélo de montagne	None
+visual range	gamme visuelle	properNoun
+cast doubt on	jeter le doute sur	properNoun
+drive crazy	conduire fou	properNoun
+nervous habit	habitude nerveuse	properNoun
+devilry	le maléfice	noun
+devilry	la malignité	noun
+devilry	la brutalité	noun
+devilry	insouciant	adjective
+devilry	malinais	None
+small boy	le gamin	noun
+small boy	petit garçon	None
+hyoid bone	OS hyoïde	properNoun
+hiding place	la cachette	noun
+hiding place	la retraite	noun
+hiding place	cachette	None
+pop song	chanson pop	properNoun
+extra	supplémentaire	adjective
+extra	extra	adjective
+extra	l' extra	noun
+extra	le supplément	noun
+extra	le surplus	noun
+extra	le figurant	noun
+extra	en plus	adverb
+extra	de plus	adverb
+extra	particulièrement	adverb
+extra	supplémentaire	None
+ID-card	la carte d'identité	noun
+ID-card	Carte d'identité	None
+surgeon general	Chirurgien général	properNoun
+language technology	Technologie de la langue	properNoun
+dungheap	le tas de fumier	noun
+dungheap	tas de fumier	None
+impertinent	impertinent	adjective
+impertinent	insolent	adjective
+impertinent	impudent	adjective
+impertinent	impertinent	None
+harp seal	harpe phoque	properNoun
+boulder	le rocher	noun
+boulder	la grosse pierre	noun
+boulder	le bloc de roche	noun
+boulder	rocher	None
+diplomatic service	service diplomatique	properNoun
+stop over	faire une halte	verb
+stop over	faire une escale	verb
+stop over	s'arrêter	None
+hazardous journey	voyage dangereux	properNoun
+unheard of	inouï	adjective
+unheard of	sans précédent	adjective
+unheard of	du jamais vu	None
+save up	mettre de côté	verb
+save up	faire des économies	verb
+save up	économiser	None
+scattered	épars	adjective
+scattered	dispersé	adjective
+scattered	éparpillé	adjective
+scattered	disséminé	adjective
+scattered	éparpillé	None
+Adrían	Adrían	properNoun
+function word	mot de fonctionnement	properNoun
+lunch box	le panier-repas	noun
+lunch box	boîte à déjeuner	None
+coordinating conjunction	conjonction de coordination	properNoun
+West	l' Ouest	noun
+West	l' Occident	noun
+West	Ouest	None
+heavy snowstorm	tempête de neige lourde	properNoun
+fruit salad	la salade de fruits	noun
+fruit salad	salade de fruit	None
+coming and going of guests	venir et aller d'invités	properNoun
+well-provided	bien fourni	properNoun
+Júlí	Júlí	properNoun
+pleb	le prolo	noun
+pleb	prolo	None
+overcast weather	Météo Couverte	properNoun
+deep-seated	enraciné	adjective
+deep-seated	de racines profondes	adjective
+deep-seated	profond	None
+six-thirty	six heures et demie	properNoun
+demonstrative pronoun	pronom démonstratif	properNoun
+door handle	la poignée de porte	noun
+door handle	poignée de porte	None
+reserves	réserves	properNoun
+shaking	le tremblement	noun
+shaking	l' ébranlement	noun
+shaking	le bouleversement	noun
+shaking	le tremblotement	noun
+shaking	le chevrotement	noun
+shaking	la méprise	noun
+shaking	tremblotant	adjective
+shaking	tremblement	None
+energy source	source d'énergie	properNoun
+halibut	le flétan	noun
+halibut	flétan	None
+strength of character	force de caractère	properNoun
+rolled oats	avoine laminée	properNoun
+full of hope	plein d'espoir	adjective
+full of hope	plein d'espoir	None
+difficult task	tâche difficile	properNoun
+piece of cloth	morceau de vêtement	properNoun
+created	établi	adjective
+created	créé	None
+gangly	gangly	properNoun
+argue for	argumenter en faveur de	properNoun
+registered post	courrier recommandé	properNoun
+Finland	la Finlande	noun
+Finland	Finlande	None
+unswerving	inébranlable	adjective
+unswerving	indéfectible	adjective
+unswerving	inébranlable	None
+roof rack	la galerie	noun
+roof rack	porte-toit	None
+hang about	attendre	verb
+hang about	lanterner	verb
+hang about	traînasser	verb
+hang about	traîner dans les rues	verb
+hang about	attendre	None
+avoid responsibility	éviter la responsabilité	properNoun
+sperm cell	spermatozoïde	properNoun
+love poem	poème d'amour	properNoun
+very loose	Très lâche	properNoun
+icing sugar	le sucre glace	noun
+icing sugar	sucre glace	None
+drag-race	course de dragsters	properNoun
+landed	foncier	adjective
+landed	a atterri	None
+Auðmundur	Auðmundur	properNoun
+out-going	sortant	adjective
+out-going	ouvert	adjective
+out-going	en partance	adjective
+out-going	descendant	adjective
+out-going	sortant	None
+native country	les pays natal	noun

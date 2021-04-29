@@ -1,0 +1,6491 @@
+Manuelita	Manuelita	properNoun
+Shaun	Shaun	properNoun
+Anouska	Anouska	properNoun
+Gauguin	Gauguin	properNoun
+founder shareholder	actionnaire fondateur	properNoun
+Carnicero	Carnique	properNoun
+Wayre	Faire	properNoun
+perineorrhaphy	périnorraphie	properNoun
+Solsona	Solsona	properNoun
+Nadín	Nadín	properNoun
+microprogramming	microprogrammation	properNoun
+unsuccessfully	sans succès	properNoun
+Hamade	Haché	properNoun
+Angie	Angain	properNoun
+Fortea	Pour le thé	properNoun
+microcomponent	microcomposant	properNoun
+McIsaac	Mcisaac	properNoun
+Desirée	Désiré	properNoun
+Custodia	Dépositaire	properNoun
+deify	déifier	verb
+deify	se défier	verb
+deify	déifier	None
+Lutheranism	le luthéranisme	noun
+Lutheranism	luthéranisme	None
+tangentially	tangentiellement	properNoun
+Arboix	Arboix	properNoun
+Pascualina	Pascualina	properNoun
+hemocytoblast	hémocytoblast	properNoun
+victoriate	victorié	properNoun
+waterway	la voie navigable	noun
+waterway	le canal	noun
+waterway	las voie navale	noun
+waterway	la voie de navigation maritime	noun
+waterway	voie navigable	None
+Farnos	Farnos	properNoun
+Capucine	Capucine	properNoun
+clog up	s'emballer	properNoun
+Martiniano	Martiniano	properNoun
+Chana	Chana	properNoun
+Andrews	Andrews	properNoun
+Isaías	Isaías	properNoun
+Felez	Feelez	properNoun
+Kimberly	Kimberly	properNoun
+Matias	Matias	properNoun
+Magro	Magro	properNoun
+Cobo	Cobo	properNoun
+genealogist	généalogiste	properNoun
+Nova Scotia	Nouvelle-Écosse	properNoun
+well in hand	bien en main	properNoun
+Hanley	Hanley	properNoun
+Aidano	Aidano	properNoun
+orthography	l' orthographe	noun
+orthography	orthographe	None
+Makayla	Makayla	properNoun
+Heraclio	Héraclio	properNoun
+Irineo	Irineo	properNoun
+in another way	d'une autre manière	properNoun
+Mimeault	Mimault	properNoun
+foilist	foiret	properNoun
+Trilla	Trille	properNoun
+Cope	la chape	noun
+Cope	le chaperon	noun
+Cope	faire face	verb
+Cope	lutter	verb
+Cope	se débrouiller	verb
+Cope	battre	verb
+Cope	chaperonner	verb
+Cope	Se débrouiller	None
+illuminate	éclairer	verb
+illuminate	illuminer	verb
+illuminate	faire la lumière sur	verb
+illuminate	éclairer	None
+Rod	la barre	noun
+Rod	la canne	noun
+Rod	la tringle	noun
+Rod	la baguette	noun
+Rod	le bâtonnet	noun
+Rod	la perche	noun
+Rod	la canne à pêche	noun
+Rod	la bite	noun
+Rod	le flingue	noun
+Rod	la bitte	noun
+Rod	tige	None
+Doire	Pire	properNoun
+Redfern	Redonner	properNoun
+Fidelia	Fidélia	properNoun
+Stockhausen	Stockhausen	properNoun
+Lowen	Lower	properNoun
+Berardi	Berardi	properNoun
+Vertefeuille	Vertefeuille	properNoun
+Argento	Argento	properNoun
+helminthiasis	helminthiase	properNoun
+Cox	le barreur	noun
+Cox	barrer	verb
+Cox	Barreur	None
+Celma	Celma	properNoun
+Zéphir	Zéphir	properNoun
+Jorgelina	Jorgelina	properNoun
+Montaigne	Montaigne	properNoun
+Lajeunesse	Lajeunesse	properNoun
+crop	surgir	verb
+crop	couper	verb
+crop	récolter	verb
+crop	cultiver	verb
+crop	affleurer	verb
+crop	tondre	verb
+crop	couper ras	verb
+crop	couper courte	verb
+crop	la récolte	noun
+crop	le jabot	noun
+crop	le moisson	noun
+crop	la cravache	noun
+crop	la poche	noun
+crop	le ras	noun
+crop	le manche	noun
+crop	recadrer	None
+Alexandrie	Alexandrie	properNoun
+del Arco	del arco	properNoun
+Boutros	Boutros	properNoun
+tautophony	tautophonie	properNoun
+Thorello	Thorello	properNoun
+Primiani	Primiani	properNoun
+Petosa	Petitosa	properNoun
+Alcácer	Alcácer	properNoun
+Rosetta	Rosetta	properNoun
+Rabinovitch	Rabinovitch	properNoun
+Eid	Édigé	properNoun
+bonobo	bonobo	properNoun
+figuratively	métaphoriquement	adverb
+figuratively	métaphoriquement	None
+unmarked	non marqué	properNoun
+weakling	le faible	noun
+weakling	la mauviette	noun
+weakling	le gringalet	noun
+weakling	las poule mouillée	noun
+weakling	apathique	adjective
+weakling	faible	None
+Bhatti	Bhatti	properNoun
+from elsewhere	d'ailleurs	properNoun
+toposequence	toposequence	properNoun
+Pilar	Pilar	properNoun
+Llobet	Llobet	properNoun
+Trillas	Trillas	properNoun
+Athlon	Athlon	properNoun
+Masagué	Masagué	properNoun
+Moratalla	Moratalla	properNoun
+festoon	le feston	noun
+festoon	festonner	verb
+festoon	orner de festons	verb
+festoon	feston	None
+more tenaciously	plus ténacité	properNoun
+Garí	Garí	properNoun
+vastly	énormément	adverb
+vastly	immensément	adverb
+vastly	énormément	None
+twenty-eighth	vingt-huit	properNoun
+mend	réparer	verb
+mend	raccommoder	verb
+mend	corriger	verb
+mend	repriser	verb
+mend	remmailler	verb
+mend	s'améliorer	verb
+mend	le raccommodage	noun
+mend	la reprise	noun
+mend	l' amendement	noun
+mend	réparer	None
+Raad	Raad	properNoun
+del Amo	del amo	properNoun
+extracellular	extracellulaire	properNoun
+Campanella	Campanier	properNoun
+Deslauriers	Deslauriers	properNoun
+Timotea	Timotea	properNoun
+Aleutian	Aleuïtienne	properNoun
+de la Calle	de la calle	properNoun
+Ofelia	Ofelia	properNoun
+interfaith	interface	properNoun
+Carette	Carrette	properNoun
+Berdun	Berdun	properNoun
+Galois	Galois	properNoun
+orchidectomy	orchidectomie	properNoun
+Hélène	Hélène	properNoun
+Travon	Travon	properNoun
+from that moment on	dès lors	adverb
+from that moment on	dès ce moment-là	None
+Baucells	Baucelles	properNoun
+Corinthian	corinthien	adjective
+Corinthian	le Corinthien	noun
+Corinthian	Corinthien	None
+Unitarian	unitaire	adjective
+Unitarian	Unitaire	None
+Pacífico	Pacífico	properNoun
+chloromelanite	chloromélanite	properNoun
+Marandola	Marandola	properNoun
+McWhirter	McWirter	properNoun
+Calvina	Calvina	properNoun
+Dhaïti	Dhaïti	properNoun
+Dsouza	Dsouza	properNoun
+mannerism	le maniérisme	noun
+mannerism	la particularité	noun
+mannerism	maniérisme	None
+Viñuales	Vœurs	properNoun
+Akhter	Akhter	properNoun
+trichiasis	trichiasis	properNoun
+Brosseau	Brosseau	properNoun
+Manubens	Manubens	properNoun
+Jean-Baptiste	Jean-Baptiste	properNoun
+Gelsomino	Gelsomino	properNoun
+crystallization	la cristallisation	noun
+crystallization	cristallisation	None
+oligodendrocyte	oligodendrocyte	properNoun
+Cervilla	Cervicule	properNoun
+Sellarés	Sellaré	properNoun
+in equal shares	Dans des actions égales	properNoun
+Bautista	Bautista	properNoun
+Mignacca	Mignacca	properNoun
+Canciano	Canciano	properNoun
+thirty-seventh	trente-septième	properNoun
+disinflate	désinflammer	properNoun
+endoscope	endoscope	properNoun
+Wankel	Blancheur	properNoun
+Matos	Matos	properNoun
+Civico	Civico	properNoun
+Silas	Silas	properNoun
+Arès	Arès	properNoun
+telecracy	télérécratie	properNoun
+cornstarch	la maïzena	noun
+cornstarch	la farine de maïs	noun
+cornstarch	fécule de maïs	None
+Jean-Baptiste Charles Mas de Polart	Jean-Baptiste Charles Mas de Polart	properNoun
+Borgia	Borgie	properNoun
+Ostrogothic	Ostrogothique	properNoun
+easterly	d'est	adjective
+easterly	de l'est	adjective
+easterly	à l'est	adjective
+easterly	vers l'est	adverb
+easterly	à l'est	None
+Cipres	CIPRES	properNoun
+standpoint	les point de vue	noun
+standpoint	la perspective	noun
+standpoint	point de vue	None
+Morejón	PlusJón	properNoun
+Ina	Dans un	properNoun
+Dunberry	Queue	properNoun
+Zackery	Zallerie	properNoun
+Górriz	Górriz	properNoun
+stringed	à cordes	adjective
+stringed	à cordes	None
+Spanish state	État espagnol	properNoun
+stunningly	d'une manière sensationnelle	adverb
+stunningly	incroyablement	None
+Jing	Jalouse	properNoun
+Berzelius	Berzelius	properNoun
+Pedrós	Pedrós	properNoun
+diffusivity	diffusivité	properNoun
+Delanoë	Delanoë	properNoun
+phenylhydrazine	phénylhydrazine	properNoun
+Dostaler	Digue	properNoun
+Archs	Arches	properNoun
+on the airwaves	sur les ondes	properNoun
+endodontist	endodontiste	properNoun
+Laurentina	Laurentine	properNoun
+Nobert	Nobert	properNoun
+billhook	la serpette	noun
+billhook	serpette	None
+Aix	Aix	properNoun
+Suyay	Suyay	properNoun
+Samuele	Samuele	properNoun
+dressage	le dressage	noun
+dressage	dressage	None
+Lavigne	Lavigne	properNoun
+Renau	Renau	properNoun
+Merlós	Merlós	properNoun
+typify	caractériser	verb
+typify	être typique	verb
+typify	avoir le type même de	verb
+typify	caractériser	None
+Chilton	Chilton	properNoun
+McLaughlin	McLaughlin	properNoun
+cyanosis	la cyanose	noun
+cyanosis	cyanose	None
+Odysseus	l' Odusseus	noun
+Odysseus	Odysseus	None
+Tomé	le tome	noun
+Tomé	les gros volume	noun
+Tomé	Tome	None
+fibroepithelioma	fibroépithéliome	properNoun
+Alida	Alida	properNoun
+Palo Alto	Palo Alto	properNoun
+hijack	détourner	verb
+hijack	piller	verb
+hijack	le détournement	noun
+hijack	détourner	None
+Leodegario	Leodegario	properNoun
+ophthalmorrhexis	ophtalmorrhexis	properNoun
+interlocking	emboîtement	properNoun
+Amtrak	Amtrak	properNoun
+Sarcozy	Sarkozy	properNoun
+Rottenberg	Rottenberg	properNoun
+Stockton	Stockton	properNoun
+Borrull	Garroul	properNoun
+Hormuz	Hormuz	properNoun
+olfactometry	olfactométrie	properNoun
+Abdullah Gül	Abdullah gül	properNoun
+conjunctive	conjonctif	adjective
+conjunctive	le conjonctif	noun
+conjunctive	conjonctif	None
+Ravel	l' effilochage	noun
+Ravel	l' enchevêtrement	noun
+Ravel	emmêler	verb
+Ravel	embrouiller	verb
+Ravel	enchevêtrer	verb
+Ravel	embarrasser	verb
+Ravel	s'effilocher	verb
+Ravel	Effilochage	None
+olfaction	olfaction	properNoun
+Sidon	Sidon	properNoun
+Masferrer	Masiforrer	properNoun
+syngenesis	la syngénèse	noun
+syngenesis	syngénèse	None
+Harton	Harton	properNoun
+hemopathy	hémopathie	properNoun
+Kory	Kory	properNoun
+fullerene	fulminé	properNoun
+Kira	Kira	properNoun
+Auerbach	Auerbach	properNoun
+Montmigny	Montmigny	properNoun
+Bail	la caution	noun
+Bail	l' écope	noun
+Bail	mise en liberté sous caution	noun
+Bail	vider	verb
+Bail	mettre en dépôt	verb
+Bail	Caution	None
+Verdi	Verdi	properNoun
+Aranega	Aranega	properNoun
+counterfugue	contrefugeur	properNoun
+Aelohim	Aelohim	properNoun
+Vaillancourt	Vaillancourt	properNoun
+Petiquay	Péquay	properNoun
+bluntly	brutalement	properNoun
+Leide	Léché	properNoun
+Rousel	Rousseur	properNoun
+bioethanol	bioéthanol	properNoun
+Filibert	Filibert	properNoun
+Aarón	Aarón	properNoun
+Antonescu	Antonescu	properNoun
+Carnevale	Carnevale	properNoun
+pediculation	pédiculation	properNoun
+energized	travailler avec énergie	verb
+energized	énergique	None
+Lage	Lage	properNoun
+Arquimbaldo	Arquimbaldo	properNoun
+Ivana	Ivana	properNoun
+topographic	topographique	properNoun
+taekwondist	taekwondist	properNoun
+incarceration	l' incarcération	noun
+incarceration	incarcération	None
+fontanelle	fontanelle	properNoun
+Robidas	Robidas	properNoun
+internode	internode	properNoun
+nurseryman	le pépiniériste	noun
+nurseryman	pépiniériste	None
+Ranger	le ranger	noun
+Ranger	le garde forestier	noun
+Ranger	le gendarme à cheval	noun
+Ranger	Ranger	None
+antifascist	anti-fasciste	properNoun
+Casiano	Casier	properNoun
+McKinley	McKinley	properNoun
+Saussure	Pause	properNoun
+Fiorino	Fiorino	properNoun
+strenuously	énergiquement	properNoun
+Encarnita	Encarnita	properNoun
+Maupassant	Maupos	properNoun
+Lahaise	Lahaise	properNoun
+Almirón	Almirón	properNoun
+blue chip stock	Stock de puce bleue	properNoun
+Summer	l' été	noun
+Summer	passer l'été	verb
+Summer	L'été	None
+The Rioja	Le rioja	properNoun
+Achille	Achille	properNoun
+conduit	le canal	noun
+conduit	le tube	noun
+conduit	le tuyau	noun
+conduit	conduit	None
+relearning	réapprovisionnement	properNoun
+Xbox One	Xbox One	properNoun
+fibroblast	fibroblaste	properNoun
+Negró	nègre	adjective
+Negró	le Noir	noun
+Negró	Nègre	None
+McAllister	McAllister	properNoun
+topoisomerase	topoisomérase	properNoun
+Brunella	Brunella	properNoun
+Sealhunter	Phoque	properNoun
+Panhellenic	Panhellenic	properNoun
+Sergerie	Serment	properNoun
+Douce	Doucement	properNoun
+Meikle	Meikle	properNoun
+Bragulat	Bragulat	properNoun
+Anouilh	Anouilh	properNoun
+Godia	Godia	properNoun
+Elizalde	Elizalde	properNoun
+subjugate	subjuguer	verb
+subjugate	soumettre	verb
+subjugate	subjuguer	None
+Kaleigh	Kaleigh	properNoun
+Addis Abeba	Addis Abeba	properNoun
+Bertilda	Bertila	properNoun
+Millas	Millas	properNoun
+Esquivel	Esquelivel	properNoun
+Devota	Devota	properNoun
+workstation	poste de travail	properNoun
+Platero	Platero	properNoun
+Väino	Väino	properNoun
+Kaitlin	Kaitlin	properNoun
+magnetoelasticity	magnétoélasticité	properNoun
+near the top	près du sommet	properNoun
+anaphase	anaphase	properNoun
+tutelage	la tutelle	noun
+tutelage	tutelle	None
+Manso	Manso	properNoun
+flux	les flux	noun
+flux	l' écoulement	noun
+flux	la fluctuation	noun
+flux	le changement continuel	noun
+flux	l' inondation	noun
+flux	faire écouler	verb
+flux	flux	None
+Portero	Portéo	properNoun
+Gervasi	Gervasi	properNoun
+Tobajas	Tobajas	properNoun
+polyteny	polytélique	properNoun
+Navinés	Navinés	properNoun
+robustly	robustement	adverb
+robustly	avec vigueur	adverb
+robustly	de manière robuste	None
+incandescent	incandescent	adjective
+incandescent	incandescent	None
+Mariangela	Mariangela	properNoun
+Vilandré	Vilandré	properNoun
+intermodulation	intermodulation	properNoun
+deterministic finite state machine	Machine d'état fini déterministe	properNoun
+antimicrobial	antimicrobien	properNoun
+piggyback	le ferroutage	noun
+piggyback	sur les épaules	adverb
+piggyback	porter sur les épaules	verb
+piggyback	ferroutage	None
+novation	la novation	noun
+novation	novation	None
+Keagan	Keagan	properNoun
+Grados	Grades	properNoun
+mandible	la mandibule	noun
+mandible	mandibule	None
+in error	en erreur	properNoun
+Bernadette	Bernadette	properNoun
+Subias	Subal	properNoun
+Coronel	Coronel	properNoun
+in a northwardly direction	Dans une direction au nord	properNoun
+Paraná	Paraná	properNoun
+Charline	Charline	properNoun
+at short notice	dans le court temps	adverb
+at short notice	à court terme	None
+at risk	en danger	properNoun
+Taché	Taché	properNoun
+at first appearance	À première apparition	properNoun
+Leonel	Léonel	properNoun
+Pierres	Pierres	properNoun
+Gia	Gia	properNoun
+Genciano	Genciano	properNoun
+quadraphony	quadravonté	properNoun
+Everardo	Everardo	properNoun
+Dionio	Dionio	properNoun
+Gavilán	Gavilán	properNoun
+Seyer	Seyer	properNoun
+Delledonne	Delledonne	properNoun
+parasynthesis	parasynthèse	properNoun
+bicarbonate of soda	bicarbonate de soude	properNoun
+creationist	créationniste	properNoun
+Felicia	Félicie	properNoun
+Kitchen	Cuisine	properNoun
+Nichols	Nichols	properNoun
+Cassandra	Cassandra	properNoun
+Skelling	Sking	properNoun
+Paulette	Paulette	properNoun
+Getulio	Getulio	properNoun
+cello	le violoncelle	noun
+cello	violoncelle	None
+carburise	carburation	properNoun
+Pin	l' épingle	noun
+Pin	la goupille	noun
+Pin	le goujon	noun
+Pin	la fiche	noun
+Pin	la quille	noun
+Pin	la punaise	noun
+Pin	le drapeau de trou	noun
+Pin	épingler	verb
+Pin	clouer	verb
+Pin	goupiller	verb
+Pin	fixer	verb
+Pin	cheviller	verb
+Pin	attacher avec une punaise	verb
+Pin	Épingler	None
+at this very moment	à ce moment précis	properNoun
+in trust	confier	verb
+in trust	mettre au soin de	verb
+in trust	en confiance	None
+Anchundia	Anchondia	properNoun
+ever after	depuis ce temps-là	adverb
+ever after	toujours après	None
+Abdías	Abdías	properNoun
+arrogation	arrogation	properNoun
+Ash	la cendre	noun
+Ash	le frêne	noun
+Ash	Cendre	None
+Callés	Callés	properNoun
+in step	conformément	adverb
+in step	à pas	None
+Rolfe	Rolfe	properNoun
+Mimbrero	Mimbrero	properNoun
+Léo	Leo	properNoun
+trading name	nom commercial	properNoun
+Babot	Babot	properNoun
+polarimetry	polarimétrie	properNoun
+Celedonia	Celédonie	properNoun
+Ballesté	Ballesté	properNoun
+Belfast	Belfast	properNoun
+so often	si souvent	properNoun
+stereophony	stéréophonie	properNoun
+Duch	Dur	properNoun
+metallochromy	métallochromie	properNoun
+up to here and no further	jusqu'à ici et pas plus loin	properNoun
+clef	la clef	noun
+clef	la clé	noun
+clef	clef	None
+Rousseau	Rouseau	properNoun
+Vilamitjana	Vilamitjana	properNoun
+uncomfortably	inconfortablement	adverb
+uncomfortably	désagréablement	adverb
+uncomfortably	inconfortablement	None
+Nicolas Sarkozy	Nicolas Sarkozy	properNoun
+picotite	picotite	properNoun
+Aristón	Aristón	properNoun
+Calaf	Calfaire	properNoun
+top level domain	Domaine de niveau supérieur	properNoun
+Carner	Carême	properNoun
+Milligan	Milligan	properNoun
+alkalosis	alcalose	properNoun
+Atiliano	Atiliano	properNoun
+thyroidectomy	thyroïdectomie	properNoun
+Muro	Muro	properNoun
+Falip	Faucheux	properNoun
+Buxton	Bulletin	properNoun
+such	tel	adjective
+such	pareil	adjective
+such	si	adverb
+such	aussi	adverb
+such	tellement	adverb
+such	ceux	pronoun
+such	celles	pronoun
+such	tel	None
+theologically	théologiquement	properNoun
+categorise	classer par catégories	verb
+categorise	classer par catégories	None
+on account of it	en cause	properNoun
+Das	Da	properNoun
+how long	combien de temps	properNoun
+postprocessor	Post-processeur	properNoun
+Ignaci	Ignaci	properNoun
+Eutropio	Eutropio	properNoun
+Fontanillas	Fontanillas	properNoun
+ptilosis	ptitilose	properNoun
+Luisina	Luisine	properNoun
+lowercase	minuscule	adjective
+lowercase	en bas de casse	adjective
+lowercase	minuscule	None
+seniority	l' ancienneté	noun
+seniority	la priorité	noun
+seniority	la supériorité	noun
+seniority	la priorité d'âge	noun
+seniority	ancienneté	None
+Auda	Auda	properNoun
+Atilio	Atilio	properNoun
+disthene	distancer	properNoun
+Riya	Riya	properNoun
+Moar	Moar	properNoun
+Bougainville	Bougainville	properNoun
+Escudero	Esciche	properNoun
+NeXTSTEP	L'étape suivante	properNoun
+anglophone	anglophone	properNoun
+integrator	l' intégrateur	noun
+integrator	l' unificateur	noun
+integrator	intégrateur	None
+ceruminosis	céruminose	properNoun
+Norcelo	Norcelo	properNoun
+Mailhot	Mailhot	properNoun
+Kenna	Kenna	properNoun
+Subías	Subtil	properNoun
+Bouchard	Bouchard	properNoun
+Monarque	Monarque	properNoun
+Hispanic	hispanique	adjective
+Hispanic	latino-américain	adjective
+Hispanic	le Latino-américain	noun
+Hispanic	hispanique	None
+Febes	Février	properNoun
+expound	exposer	verb
+expound	expliquer	verb
+expound	soutenir	verb
+expound	faire présenter	verb
+expound	exposer	None
+Saint-Exupéry	Saint-Exupéry	properNoun
+Scullion	Scullion	properNoun
+Phelan	Phelan	properNoun
+Gerbeau	Gerbeau	properNoun
+citronellal	citronnelle	properNoun
+Filberto	Filsberto	properNoun
+founding shareholder	actionnaire fondateur	properNoun
+rad	radis	properNoun
+Oliveres	Oliveres	properNoun
+melee	la mêlée	noun
+melee	mêlée	None
+Aristóbulo	Aristóbulo	properNoun
+Vianney	Vianney	properNoun
+agonist	agoniste	properNoun
+longingly	de toute façon	properNoun
+Amani	Amani	properNoun
+multinomial	multimomial	properNoun
+Iolav	Iolav	properNoun
+floriculturist	floriculteur	properNoun
+hidrogenosome	hidrogénosome	properNoun
+crocidolite	crocodiolite	properNoun
+unethical	immoral	adjective
+unethical	peu éthique	adjective
+unethical	immoral	None
+Pissarro	Pissarro	properNoun
+Requejo	Requejo	properNoun
+Marciano	Marciano	properNoun
+Trevion	Trevion	properNoun
+Igal	Igal	properNoun
+taking one with the other	en prenant un avec l'autre	properNoun
+in the post	dans la poste	properNoun
+Imhoff	Imhoff	properNoun
+Parron	Parran	properNoun
+antiferreolectricity	antiferroélectricité	properNoun
+Zulema	Zulema	properNoun
+Guadalcanal	Guadalcanal	properNoun
+Muñiz	Muñiz	properNoun
+Deangelo	Deangelo	properNoun
+Clarisse	Claris	properNoun
+Albaro	Albaro	properNoun
+El Moussaoui	El moussaoui	properNoun
+what's more	quoi de plus	properNoun
+Homero	Homéraire	properNoun
+Larose	Larose	properNoun
+Alelf	Alterne	properNoun
+Liang	Liang	properNoun
+Carrion	la charogne	noun
+Carrion	Charogne	None
+redesign	refonte	properNoun
+Jovita	Jovita	properNoun
+de la Hoz	de la hoz	properNoun
+myelocyte	myélocyte	properNoun
+Pascacio	Pascacio	properNoun
+photomechanics	photomécanique	properNoun
+haphazardly	au hasard	adverb
+haphazardly	par hasard	adverb
+haphazardly	par accident	adverb
+haphazardly	tout au hasard	adverb
+haphazardly	sans organisation	adverb
+haphazardly	au hasard	None
+Leiza	Leiza	properNoun
+Weetaluktuk	Weetaluktuk	properNoun
+Bourré	Bourré	properNoun
+aviculture	l' aviculture	noun
+aviculture	aviculture	None
+Ivanhoe	Ivanhoe	properNoun
+Xander	Se tromper	properNoun
+Bessarabia	Bessarabia	properNoun
+nest	le nid	noun
+nest	la nichée	noun
+nest	le nichoir	noun
+nest	l' abri	noun
+nest	nicher	verb
+nest	se nicher	verb
+nest	faire un nid	verb
+nest	nid	None
+Prudenzio	Prudenzio	properNoun
+Manolete	Manolète	properNoun
+Claing	Claing	properNoun
+Francés	Francés	properNoun
+in order of priority	par ordre de priorité	properNoun
+seismologist	sismologue	noun
+seismologist	sismologue	None
+epiphysis	épiphyse	properNoun
+borer	le foret	noun
+borer	la vrille	noun
+borer	la perforatrice	noun
+borer	fanfaronnade	None
+Sauvé	Sauvé	properNoun
+turboalternator	turboalternator	properNoun
+Kovacs	Kovacs	properNoun
+exodontist	exodontiste	properNoun
+Lui	Lui	properNoun
+Goulet	Goulet	properNoun
+Gulliver	Gulliver	properNoun
+Fradera	Fradera	properNoun
+photoelectrochemistry	photoélectrochimie	properNoun
+Shields	le bouclier	noun
+Shields	l' écran	noun
+Shields	l' écu	noun
+Shields	le blason	noun
+Shields	couvrir	verb
+Shields	faire un bouclier	verb
+Shields	Boucliers	None
+Gibert	Gibert	properNoun
+Chus	Chus	properNoun
+Reykjavík	Reykjavík	properNoun
+wherever possible	la mesure du possible	properNoun
+Esqué	Esqué	properNoun
+clamping	le verrouillage	noun
+clamping	serrage	None
+teal	la sarcelle	noun
+teal	sarcelle	None
+Leilani	Leilani	properNoun
+sarcastic	sarcastique	adjective
+sarcastic	sarcastique	None
+Medialdea	Médialdea	properNoun
+Frégeau	Frégeau	properNoun
+subinfeudation	subulfeungénation	properNoun
+Sampson	Sampson	properNoun
+Manow	Manœuvre	properNoun
+Doutre	Doutre	properNoun
+hyperhidrosis	hyperhidrose	properNoun
+Juana del Pilar	Juana del Pilar	properNoun
+gargle	le gargarisme	noun
+gargle	se gargariser	verb
+gargle	se faire un gargarisme	verb
+gargle	gargarisme	None
+fasciculation	fasciculation	properNoun
+Favron	Favron	properNoun
+Leroux	Leroux	properNoun
+Afrodita	Afrodita	properNoun
+Frenza	Frenza	properNoun
+Carmel	Carmel	properNoun
+from place to place	d'un endroit à l'autre	properNoun
+Universidad Politécnica de Valencia	Universidad Politiscnica de Valence	properNoun
+Kerouac	Kérouac	properNoun
+Alexandrian	Alexandrian	properNoun
+Navía	Navire	properNoun
+unspecified	indéterminé	adjective
+unspecified	non spécifié	None
+Abdallah	Abdallah	properNoun
+Blaine	Blaine	properNoun
+Pénélope	las Pénélope	noun
+Pénélope	Pénélope	None
+Quintal	le quintal	noun
+Quintal	les cent livres	noun
+Quintal	Quintal	None
+Edna	Edna	properNoun
+batik	batik	properNoun
+lawfully	légalement	properNoun
+seventy-fourth	soixante-quatorze	properNoun
+Aurkene	Aurkene	properNoun
+Fournier	Fantanier	properNoun
+briquette	la briquette	noun
+briquette	briquette	None
+Sheryl	Sheryl	properNoun
+Helewise	Hisser	properNoun
+hydrodynamics	l' hydrodynamique	noun
+hydrodynamics	hydrodynamique	None
+paleocerebellum	paléocrébélique	properNoun
+Manresa	Manresa	properNoun
+Lavictoire	Lavictier	properNoun
+refurbishment	la remise à neuf	noun
+refurbishment	remise à neuf	None
+Recine	Récence	properNoun
+canister	la boîte	noun
+canister	boîte	None
+Xanto	Xanto	properNoun
+furnace	le four	noun
+furnace	le fourneau	noun
+furnace	la chaudière	noun
+furnace	fourneau	None
+Currie	Curriè	properNoun
+Píndaro	Píndaro	properNoun
+Freyja	Freyja	properNoun
+hydroxyl	hydroxyle	properNoun
+Ciselio	Ciselio	properNoun
+supercritical	supercritique	properNoun
+Haigh	Hou	properNoun
+in outline	en arrière-plan	properNoun
+Hatfield	Hatfield	properNoun
+Desourdy	Désorienté	properNoun
+teletypewriter	télétypewriter	properNoun
+aquaplaning	aquaplaning	properNoun
+at a glance	en un coup d'œil	properNoun
+Genevieve	Genevieve	properNoun
+digest	digérer	verb
+digest	assimiler	verb
+digest	résumer	verb
+digest	classifier	verb
+digest	supporter	verb
+digest	avoir l'espoir	verb
+digest	le résumé	noun
+digest	le sommaire	noun
+digest	les digeste	noun
+digest	l' assimilation	noun
+digest	digérer	None
+dock	le quai	noun
+dock	le dock	noun
+dock	le bassin	noun
+dock	le banc des accusés	noun
+dock	le chantier	noun
+dock	le chargement	noun
+dock	la coupure	noun
+dock	écourter	verb
+dock	mettre à quai	verb
+dock	garer	verb
+dock	Dock	None
+by a stroke of good fortune	par un coup de bonne fortune	properNoun
+all in vain	tout en vain	properNoun
+organdie	organdie	properNoun
+Kontxesi	Kontxesi	properNoun
+tonoplast	tonoplast	properNoun
+just across from	juste en face de	properNoun
+awl	le poinçon	noun
+awl	l' alêne	noun
+awl	poinçon	None
+Calvera	Calvera	properNoun
+paraprotein	paraprotéine	properNoun
+Norma	Norma	properNoun
+de Beauvoir	de Beauvoir	properNoun
+bromatometry	bromatométrie	properNoun
+Saturnina	Saturnina	properNoun
+in turns	à leur tour	properNoun
+Perálvarez	Perálvarez	properNoun
+psychotherapy	la psychothérapie	noun
+psychotherapy	psychothérapie	None
+Casañas	Casañas	properNoun
+Mary McAleese	Mary McAleese	properNoun
+Iñaki	Iñaki	properNoun
+offerer	offrant	properNoun
+Hooper	Hooper	properNoun
+Berga	Berga	properNoun
+agrogeology	agrogéologie	properNoun
+Rascón	Rascón	properNoun
+Blaya	Blaya	properNoun
+Devito	Déviation	properNoun
+as well as	aussi bien que	conjunction
+as well as	aussi bien que	None
+Melgar	Melgar	properNoun
+souffle	le souffle	noun
+souffle	souffle	None
+Pich	Pich	properNoun
+Windows Embedded	Fenêtres intégrées	properNoun
+ten to one	Dix à un	properNoun
+Zambito	Zambito	properNoun
+Morros	Morros	properNoun
+Hearn	Enthousiaste	properNoun
+Lalli	Lalli	properNoun
+Lamborghini	Lamborghini	properNoun
+Justinian	Justinien	properNoun
+Vilches	Vif	properNoun
+Coude	Caude	properNoun
+Debora	Débora	properNoun
+sluggish	paresseux	adjective
+sluggish	léthargique	adjective
+sluggish	apathique	adjective
+sluggish	mou	adjective
+sluggish	stagnant	adjective
+sluggish	calme	adjective
+sluggish	ramollo	adjective
+sluggish	paresseux	None
+Gunner	le canonnier	noun
+Gunner	l' artilleur	noun
+Gunner	le servant	noun
+Gunner	Canonnier	None
+Desgroseilliers	Desgramesilliers	properNoun
+hydrogeomorphology	hydrogéomorphologie	properNoun
+Oriel	l' oriel	noun
+Oriel	Oriel	None
+Saro	Saro	properNoun
+Diogenes	Diomes	properNoun
+vestigial	rudimentaire	adjective
+vestigial	rudimentaire	None
+cytokinesis	cytokinesis	properNoun
+Nicolle	Nicolle	properNoun
+Kiara	Kiara	properNoun
+heteronymy	hétéronie	properNoun
+electrostriction	électrostriction	properNoun
+Pereyra	Péryre	properNoun
+Christmas	le Noël	noun
+Christmas	Noël	None
+Pompeo	Pompeo	properNoun
+diverticulosis	diverticulose	properNoun
+Icahel	Icahel	properNoun
+Deja	Deja	properNoun
+Gupta	Gupta	properNoun
+pathway	le chemin	noun
+pathway	le sentier	noun
+pathway	l' allée	noun
+pathway	la route	noun
+pathway	la rue	noun
+pathway	sentier	None
+transduction	transduction	properNoun
+atherosclerotic	athéroscléreuse	properNoun
+de Castro	de Castro	properNoun
+Green	vert	adjective
+Green	écologique	adjective
+Green	inexpérimenté	adjective
+Green	naïf	adjective
+Green	las couleur verte	noun
+Green	la branche	noun
+Green	Vert	None
+fittingly	pertinemment	adverb
+fittingly	de façon appropriée	None
+Brenden	Brandir	properNoun
+Más i Marí	Más je marí	properNoun
+damping	l' amortissement	noun
+damping	le trempage	noun
+damping	amortissement	None
+helix	l' hélix	noun
+helix	hélix	None
+Iridia	Iridia	properNoun
+Yergeau	Yergerau	properNoun
+across the pond	à travers l'étang	properNoun
+by sheer force of numbers	par une force de nombres	properNoun
+after hours	après des heures	properNoun
+Zimmermann	Zimmermann	properNoun
+Hypatia	Hypatia	properNoun
+wheelchair	les fauteuil roulant	noun
+wheelchair	la voiture d'infirme	noun
+wheelchair	fauteuil roulant	None
+centroblast	centroblaste	properNoun
+spectropolarimeter	spectropolarimètre	properNoun
+Rylee	Rylee	properNoun
+Underwood	l' armature	noun
+Underwood	Sous-bois	None
+Sicotte	Sicotte	properNoun
+Chin	le menton	noun
+Chin	faire des tractions	verb
+Chin	Menton	None
+pandemic	la pandémie	noun
+pandemic	universel	adjective
+pandemic	pandémie	None
+flattener	aplatir	properNoun
+Dearborn	Charborn	properNoun
+burnishing	polir	verb
+burnishing	brunir	verb
+burnishing	brunissement	None
+Godall	Lâche	properNoun
+archivist	archiviste	noun
+archivist	archiviste	None
+Zaquiel	Zaquiel	properNoun
+Szabo	Szabo	properNoun
+stacking	empiler	verb
+stacking	remplir	verb
+stacking	amasser	verb
+stacking	mettre en meule	verb
+stacking	mettre en attente	verb
+stacking	sélectionner avec partialité	verb
+stacking	s'entasser	verb
+stacking	empilement	None
+star network	réseau étoile	properNoun
+René	René	properNoun
+Granado	Granado	properNoun
+Tur	Tur	properNoun
+worthless	vain	adjective
+worthless	qui ne vaux rien	adjective
+worthless	sans valeur	None
+Chalifour	Chalifour	properNoun
+Alexandrea	Alexandrea	properNoun
+Villagrasa	Villagrasa	properNoun
+Calista	Caliste	properNoun
+at your request	à votre demande	properNoun
+Jenkins	Jenkins	properNoun
+reviewer	critique	noun
+reviewer	critique	None
+Montpetit	Montpetit	properNoun
+adverse balance	équilibre indésirable	properNoun
+spectroscopic	spectroscopique	properNoun
+Gallup	Galuptre	properNoun
+on the straight and narrow	sur le droit et étroit	properNoun
+Grueso	Grutier	properNoun
+pyrophyllite	pyrophyllite	properNoun
+time travel	voyage dans le temps	properNoun
+cliticisation	clitication	properNoun
+Norma de la Cruz	Norma de la Cruz	properNoun
+Garabedian	Garbedian	properNoun
+Stott	Stoth	properNoun
+Edisa	Edisa	properNoun
+phleboclysis	phléboclysis	properNoun
+assembly	l' assemblage	noun
+assembly	le montage	noun
+assembly	l' assemblée	noun
+assembly	la réunion	noun
+assembly	l' association	noun
+assembly	Assemblé	None
+fimbria	fimbria	properNoun
+Soms	Soms	properNoun
+Champigny	Champignon	properNoun
+Auld	Auld	properNoun
+Farmer	l' agriculteur	noun
+Farmer	le fermier	noun
+Farmer	le paysan	noun
+Farmer	l' exploitant	noun
+Farmer	le cultivateur	noun
+Farmer	l' éleveur	noun
+Farmer	Agriculteur	None
+Krista	Krista	properNoun
+Holman	Holman	properNoun
+Alesio	Alésio	properNoun
+Carracedo	Carracedo	properNoun
+Odille	Odille	properNoun
+reliably	sérieusement	adverb
+reliably	de bonne source	adverb
+reliably	de manière fiable	None
+Navajas	Navajas	properNoun
+homopause	homopause	properNoun
+Hortelano	Horlano	properNoun
+Spence	Spence	properNoun
+Wormald	Absorbant	properNoun
+Demosthène	Démosthène	properNoun
+sirvente	sirvente	properNoun
+Débora	Débora	properNoun
+calvaria	calvaria	properNoun
+Diophantine	Diabolique	properNoun
+lukewarm	tiède	adjective
+lukewarm	peu enthousiaste	adjective
+lukewarm	tiède	None
+Lemon	citron	adjective
+Lemon	le citron	noun
+Lemon	le citronnier	noun
+Lemon	la cruche	noun
+Lemon	l' échec	noun
+Lemon	imbécile	noun
+Lemon	Citron	None
+Abi	Abi	properNoun
+Bares	découvrir	verb
+Bares	dévoiler	verb
+Bares	révéler	verb
+Bares	mettre à nu	verb
+Bares	Barres	None
+Anastasio	Anastasio	properNoun
+Madueño	Madueño	properNoun
+Socorro	Socorro	properNoun
+Coffin	le cercueil	noun
+Coffin	la bière	noun
+Coffin	las sèche	noun
+Coffin	mettre en cercueil	verb
+Coffin	Cercueil	None
+exophthalmos	exophthalmos	properNoun
+eighty-seventh	quatre-vingt septième	properNoun
+oligomer	oligomère	properNoun
+dire	terrible	adjective
+dire	sinistre	adjective
+dire	affreux	adjective
+dire	terrible	None
+Nguyen	Nguyen	properNoun
+Henson	Henson	properNoun
+Felx	Felx	properNoun
+Greaves	les jambières	noun
+Greaves	Jambières	None
+drip	goutter	verb
+drip	dégoutter	verb
+drip	ruisseler	verb
+drip	tomber goutte à goutte	verb
+drip	couler goutte à goutte	verb
+drip	s'égoutter	verb
+drip	la goutte	noun
+drip	la perfusion	noun
+drip	le larmier	noun
+drip	la lavette	noun
+drip	le goutte-à-goutte	noun
+drip	goutte	None
+Jainism	Jaïnisme	properNoun
+author	l' auteur	noun
+author	l' écrivain	noun
+author	le créateur	noun
+author	auteur	None
+Rosenberg	Rosenberg	properNoun
+Soros	Soros	properNoun
+Isolda	Isolda	properNoun
+CSMA/CA	CSMA / CA	properNoun
+Mailloux	Mailloux	properNoun
+oligoclase	oligoclase	properNoun
+Sommerfeld	Sommerfeld	properNoun
+Ortí	Ortan	properNoun
+uncontrollably	incontrôlable	properNoun
+Gironès	Gironès	properNoun
+knight	le chevalier	noun
+knight	le cavalier	noun
+knight	faire chevalier	verb
+knight	chevalier	None
+arboriculturist	l' arboriculteur	noun
+arboriculturist	arboriculteur	None
+Plans	les vues	noun
+Plans	Des plans	None
+Johinna	Johinna	properNoun
+Molinero	Molinero	properNoun
+Cheyanne	Cheyanne	properNoun
+on credit	à crédit	properNoun
+pursuivant	poursuivant	properNoun
+Paterson	Paterson	properNoun
+Roxane	Roxane	properNoun
+hello	Bonjour!	interjection
+hello	Salut!	interjection
+hello	Tiens!	interjection
+hello	Allô!	interjection
+hello	Bonjour	None
+Sedo	Sedo	properNoun
+Idefonsa	Idefonsa	properNoun
+opsonisation	opsonisation	properNoun
+Lothaire	Lotaire	properNoun
+Whedon	Whadon	properNoun
+Ulises	Ulis	properNoun
+Punjabi	Punjabi	properNoun
+Etelvino	Etelvino	properNoun
+surgically	chirurgicalement	properNoun
+Queral	Sale	properNoun
+Esperantist	Espérantiste	properNoun
+Peñimel	Peñimel	properNoun
+as things stand	en l'état	properNoun
+Masanes	Masanes	properNoun
+Mamane	Maman	properNoun
+ampere-hour	ampère-heure	properNoun
+Mas i Marí	Mas je marí	properNoun
+Rosangela	Rosangela	properNoun
+Brunilda	Brunilda	properNoun
+Giral	Giron	properNoun
+Hamer	Handicapé	properNoun
+Virgin Classics	Classiques vierges	properNoun
+Bahl	Bahl	properNoun
+viscosimeter	viscosimètre	properNoun
+Aubree	Aubree	properNoun
+this time last fall	cette fois l'automne dernier	properNoun
+Sender	l' expéditeur	noun
+Sender	l' envoyeur	noun
+Sender	Expéditeur	None
+Dyer	le teinturier	noun
+Dyer	Teinturier	None
+under preparation	sous préparation	properNoun
+Iseult	Isreté	properNoun
+Darby	Darby	properNoun
+heptameter	heptamètre	properNoun
+Folguera	Folguera	properNoun
+Martok	Martok	properNoun
+vidicon	vidicon	properNoun
+anti-clockwise	dans le sens inverse des aiguilles d'une montre	properNoun
+Scipio	Scicio	properNoun
+Barbá	Barbá	properNoun
+Rahul	Rahul	properNoun
+Aleah	Aleah	properNoun
+crackle	crépiter	verb
+crackle	grésiller	verb
+crackle	pétiller	verb
+crackle	craquer	verb
+crackle	claquer	verb
+crackle	crachoter	verb
+crackle	se craqueler	verb
+crackle	le crépitement	noun
+crackle	le pétillement	noun
+crackle	le claquement	noun
+crackle	la craquelure	noun
+crackle	crépiter	None
+Juan Manuel Fabra Valles	Juan Manuel Fabra Valles	properNoun
+Quijada	Quijada	properNoun
+cardinality	cardinalité	properNoun
+Vani	Vani	properNoun
+Saviadjuk	Saviadjuk	properNoun
+fabrication	la fabrication	noun
+fabrication	l' invention	noun
+fabrication	fabrication	None
+Tookalook	A jeté un oeil	properNoun
+Calistrato	Calistrato	properNoun
+Nicanor	Nicanor	properNoun
+Rosalí	Rosalí	properNoun
+Fátima	Fátima	properNoun
+weaponry	l' armes	noun
+weaponry	l' armements	noun
+weaponry	le matériel de guerre	noun
+weaponry	armes	None
+Bolivarian	Bolivarien	properNoun
+Ardanuy	Ardanuy	properNoun
+Jawara	Jawara	properNoun
+Selassie	Selassie	properNoun
+McCallum	McCallum	properNoun
+Partridge	la perdrix	noun
+Partridge	le perdreau	noun
+Partridge	Perdrix	None
+Santacana	Santaacane	properNoun
+Aymé	Aymé	properNoun
+Montiel	Montiel	properNoun
+cursive	la cursive	noun
+cursive	cursif	adjective
+cursive	cursive	None
+Ryann	Ryann	properNoun
+Esdrás	Esdrás	properNoun
+engulf	engloutir	verb
+engulf	engouffrer	verb
+engulf	sombrer dans	verb
+engulf	engloutir	None
+Odulio	Odoulo	properNoun
+unlimited	illimité	adjective
+unlimited	sans bornes	adjective
+unlimited	indéfini	adjective
+unlimited	illimité	None
+Guixá	Guixá	properNoun
+Llordes	Llordes	properNoun
+Lowe	Lower	properNoun
+Cárdenas	Cárdenas	properNoun
+Saurí	Saurí	properNoun
+stem-and-leaf plot	Terrain à tige et feuille	properNoun
+Pedret	Pédé	properNoun
+heliograph	l' héliographe	noun
+heliograph	héliographe	None
+factually	exact dans les faits	adverb
+factually	factuellement	None
+cannula	la canule	noun
+cannula	canule	None
+Harriet	Harriet	properNoun
+cabinetmaker	l' ébéniste	noun
+cabinetmaker	ébéniste	None
+on all fours	à quatre pattes	adverb
+on all fours	à quatre pattes	None
+according to legend	selon la légende	properNoun
+Tejeda	Tejeda	properNoun
+Rimbau	Rimbau	properNoun
+Burnham	Burnham	properNoun
+chamaephyte	chamaphyte	properNoun
+Casamitjana	Casamitjana	properNoun
+Nasrallah	Nasrallah	properNoun
+Deleon	Deleon	properNoun
+copolymerisation	copolymérisation	properNoun
+Eder	Eder	properNoun
+Eutimio	Eutimio	properNoun
+tacking	cliquetage	properNoun
+Yamine	Yamine	properNoun
+Quinciano	Quinciano	properNoun
+Magnan	Magnan	properNoun
+Mélissa	Mélisse	properNoun
+devoutly	dévoué	properNoun
+Seraphine	Séraphine	properNoun
+around there	autour d'ici	properNoun
+Pollard	le têtard	noun
+Pollard	l' animal sans cornes	noun
+Pollard	écimer	verb
+Pollard	étêter	verb
+Pollard	décorner	verb
+Pollard	Têtard	None
+at the height of the season	À la hauteur de la saison	properNoun
+Amireault	Amirault	properNoun
+Sicart	Sicart	properNoun
+Culebras	Culaire	properNoun
+GameCube	Gamecube	properNoun
+in our opinion	selon nous	properNoun
+bundle	le paquet	noun
+bundle	la liasse	noun
+bundle	la botte	noun
+bundle	le ballot	noun
+bundle	le fagot	noun
+bundle	le baluchon	noun
+bundle	la poignée	noun
+bundle	empaqueter	verb
+bundle	mettre en paquet	verb
+bundle	empaqueter	None
+Collado	Collado	properNoun
+bronzite	bronzite	properNoun
+Forgione	Pardonner	properNoun
+Epifanio	Épifanio	properNoun
+Mondale	Mondale	properNoun
+River	la rivière	noun
+River	le fleuve	noun
+River	la coulée	noun
+River	fleuve	None
+in the early afternoon	En début d'après-midi	properNoun
+Mongrain	Moindou	properNoun
+ravioli	le ravioli	noun
+ravioli	Ravioli	None
+Josue	Josué	properNoun
+greenhouse gas	gaz à effet de serre	properNoun
+Van	le van	noun
+Van	le fourgon	noun
+Van	la camionnette	noun
+Van	le camion	noun
+Van	la caravane	noun
+Van	l' avant-garde	noun
+Van	Van	None
+Bryson	Bryson	properNoun
+burgling	cambrioler	verb
+burgling	bourg	None
+Yague	Yague	properNoun
+Cason	Cason	properNoun
+spectrin	spectrule	properNoun
+dodecasyllable	dodécasyllabile	properNoun
+for years	pendant des années	properNoun
+Django	Django	properNoun
+Mensa	Mensa	properNoun
+bookbinder	le relieur	noun
+bookbinder	relieur	None
+Wilfredo	Wilfredo	properNoun
+Nestore	Nid	properNoun
+Bailén	Bailén	properNoun
+hyperthyroidism	hyperthyroïdie	properNoun
+celebratory	célébration	properNoun
+spherically	sphérique	properNoun
+anglicized	anglicisé	properNoun
+in the months ahead	Dans les mois à venir	properNoun
+in power	au pouvoir	adverb
+in power	en puissance	None
+Journeault	Journalier	properNoun
+disaggregate	désagréger	properNoun
+old share	vieille action	properNoun
+stridor	strideur	properNoun
+Faura	Faura	properNoun
+to my mind	à mon avis	adverb
+to my mind	à mon opinion	adverb
+to my mind	à mon avis	None
+Agassiz	Agassiz	properNoun
+José María	José María	properNoun
+pressurizer	pressurisant	properNoun
+siderophiline	sréderophiline	properNoun
+Mainard	Mainard	properNoun
+Felicitas	Félicitas	properNoun
+metaphase	métaphase	properNoun
+Napoléon	le napoléon	noun
+Napoléon	la mille-feuille	noun
+Napoléon	Napoléon	None
+ammonal	ammonal	properNoun
+by moonlight	au clair de la lune	adverb
+by moonlight	au clair de lune	None
+Denton	Denton	properNoun
+Sayegh	Sayegh	properNoun
+Aboriginal	aborigène	adjective
+Aboriginal	aborigène d'australie	noun
+Aboriginal	Aborigène	None
+Bartolí	Barolie	properNoun
+Sun Microsystems	Sun Microsystems	properNoun
+Mayers	Mayers	properNoun
+Ampère	l' ampère	noun
+Ampère	Ampère	None
+Sansá	Sansá	properNoun
+network address translator	Traducteur d'adresse réseau	properNoun
+Fiorilli	Fiorilli	properNoun
+Darveau	Dareveau	properNoun
+Dramé	Dramé	properNoun
+flattening	l' aplanissement	noun
+flattening	aplanissement	None
+Merchán	Marchandise	properNoun
+Iannir	Ichannir	properNoun
+dataphone	dataaphone	properNoun
+Arles	Arles	properNoun
+Cabañero	Cabane	properNoun
+sensational	sensationnel	adjective
+sensational	formidable	adjective
+sensational	impressionnant	adjective
+sensational	sensass	adjective
+sensational	sensationnel	None
+Taniya	Taniya	properNoun
+Urilla	Urilla	properNoun
+Vicente Mas	Viceme mas	properNoun
+Palomas	Palomas	properNoun
+Llado	Llado	properNoun
+Canal	le canal	noun
+Canal	le conduit	noun
+Canal	Canal	None
+Vilanova	Vilanova	properNoun
+sorghum	le sorgho	noun
+sorghum	sorgho	None
+Inéz	Inéz	properNoun
+Annabel	Annabelle	properNoun
+Estellé	Esthé	properNoun
+palmer	paleuse	properNoun
+before dark	avant la nuit	properNoun
+Fresno	Fresno	properNoun
+Arnoldo	Arnoldo	properNoun
+modafinil	modafinil	properNoun
+phthisis	la phtisie	noun
+phthisis	phtisie	None
+iodimetry	iodimétrie	properNoun
+Tyne	Tyne	properNoun
+Deslières	Deslières	properNoun
+Conejo	Conejo	properNoun
+Quiñónez	Quiñónez	properNoun
+and neither	et non plus	properNoun
+Bofarull	Bofarull	properNoun
+Clotet	Clotet	properNoun
+lion-hearted	d'un courage de lion	adjective
+lion-hearted	au cœur des lions	None
+in a sense	dans un sens	properNoun
+Alexios	Alexios	properNoun
+Saveria	Saveria	properNoun
+Shahir	Shahir	properNoun
+Izaguirre	Izaguire	properNoun
+reflexivity	réflexivité	properNoun
+Soliz	Soliz	properNoun
+Filemón	Filemón	properNoun
+testability	testabilité	properNoun
+hierarchically	hiérarchiquement	properNoun
+Voghel	Voghel	properNoun
+Berges	Berges	properNoun
+one way or another	en fin le compte	adverb
+one way or another	D'une façon ou d'une autre	None
+Aucoin	Aucoin	properNoun
+distinguishable	distingué	adjective
+distinguishable	distinguable	None
+Pantaleón	Pantaleón	properNoun
+nyctalopia	nyctalopie	properNoun
+Ivon	Ivon	properNoun
+geomorphology	géomorphologie	properNoun
+meaningfully	de manière significative	properNoun
+Edmonton	Edmonton	properNoun
+Baker	le boulanger	noun
+Baker	Boulanger	None
+Bain	Bain	properNoun
+Camuñas	Camuñas	properNoun
+Joubert	Joubert	properNoun
+reprofiling	reprofilant	properNoun
+Bergkamp	Bergkamp	properNoun
+Clementino	Clementino	properNoun
+anethole	anéthole	properNoun
+ensiling	ensiler	verb
+ensiling	conserver	None
+congratulations	toutes nos félicitations	properNoun
+morphophoneme	morphophoneme	properNoun
+Raffarin	Raffarine	properNoun
+Cécile	Cécile	properNoun
+Sol Pía	Sol pía	properNoun
+Joan Antoni	Joan Antoni	properNoun
+Hoel	Houle	properNoun
+fattening	l' engraissement	noun
+fattening	qui fait grossir	adjective
+fattening	engraissement	None
+Salame	Salame	properNoun
+games console	console de jeux	properNoun
+Ronquillo	Ronquillo	properNoun
+in safe hands	en mains sûres	adverb
+in safe hands	dans des mains sûres	None
+siderocyte	siderocyte	properNoun
+Huilen	Huilen	properNoun
+oscillometry	oscillometrie	properNoun
+one-legged	à un seul pied	adjective
+one-legged	à une patte	None
+anticadence	anticadence	properNoun
+de la Iglesia	de la iglesia	properNoun
+Kelsey	Kelsey	properNoun
+Loyer	Loyers	properNoun
+Suissa	Suissa	properNoun
+coronal	coronaire	adjective
+coronal	coronaire	None
+stichtite	stichtite	properNoun
+victimology	victimologie	properNoun
+isoantibody	isoantibodie	properNoun
+Alava	Alava	properNoun
+lacrosse	le lacrosse	noun
+lacrosse	lacrosse	None
+Perras	Perras	properNoun
+channeling	canaliser	verb
+channeling	canneler	verb
+channeling	creuser des canaux	verb
+channeling	canalisation	None
+to a limited extent	dans une mesure limitée	properNoun
+Viladomat	Viladomat	properNoun
+Angel	l' ange	noun
+Angel	las belle femme	noun
+Angel	le supporteur	noun
+Angel	ange	None
+swindler	l' escroc	noun
+swindler	le pirate	noun
+swindler	escroc	None
+flagship	le vaisseau amiral	noun
+flagship	le produit vedette	noun
+flagship	vaisseau amiral	None
+Zapata	Zapata	properNoun
+Betsabeth	Betsabeth	properNoun
+Giordano	Giordano	properNoun
+superheater	le surchauffeur	noun
+superheater	surchauffeur	None
+Vegas	Vegas	properNoun
+tribometer	tribomètre	properNoun
+Maimará	Maimará	properNoun
+Niceto	Heureux de	properNoun
+Hortencia	Hortencia	properNoun
+Dennett	Dennett	properNoun
+in the direction	dans la direction	adverb
+in the direction	dans la direction	None
+Robertina	Robertina	properNoun
+test-item bank	banque de test	properNoun
+Natanael	Nattanael	properNoun
+for nought	pour rien	properNoun
+Ariza	Ariza	properNoun
+Hilaria	Hilaria	properNoun
+Bouvette	Bouvette	properNoun
+Florentino	Florentino	properNoun
+electroshock	l' électrochoc	noun
+electroshock	électrochoc	None
+Imogen	Imogénier	properNoun
+Codinachs	Codinachs	properNoun
+Escabias	Escabouie	properNoun
+Miñano	Miñano	properNoun
+infallibility	infaillibilité	properNoun
+Laudelina	Laudelina	properNoun
+Knafo	Knafo	properNoun
+Malgier	Malgier	properNoun
+quinhydrone	quinhydrone	properNoun
+Etapp	Etapp	properNoun
+Pujades	Pujades	properNoun
+Labrosse	Labrosse	properNoun
+it could be the case that	Cela pourrait être le cas que	properNoun
+Aldea	Aldea	properNoun
+Cantarero	Cantarero	properNoun
+Thalia	Thalia	properNoun
+pedogenesis	pédogenèse	properNoun
+Payant	Payant	properNoun
+anteriorly	antérieurement	properNoun
+Bertina	Bertina	properNoun
+Sandhu	Sandhu	properNoun
+periodontosis	parodonose	properNoun
+Higia	Higia	properNoun
+Alejandrino	Alejandrino	properNoun
+superimposition	superposition	properNoun
+seismically	sismiquement	properNoun
+in the public eye	aux yeux du public	properNoun
+Dalphond	Dalphond	properNoun
+Samper	Sondeur	properNoun
+melanosis	mélanose	properNoun
+Manuel Mas Ribó	Manuel Mas Ribó	properNoun
+most of the way	la plupart du temps	properNoun
+Harpin	Harpin	properNoun
+breve	la brève	noun
+breve	la double ronde	noun
+breve	brève	None
+Codinach	Codinach	properNoun
+Bellerive	Bellérif	properNoun
+Morancho	Morcho	properNoun
+odontogenesis	odontogenèse	properNoun
+Lastra	Lastra	properNoun
+Cassá	Cassá	properNoun
+estragon	estragon	properNoun
+Illyrian	Illyrian	properNoun
+toolbar	barre d'outils	properNoun
+Patrícia	Patrícia	properNoun
+Torrero	Torrero	properNoun
+Matencio	MATENCIO	properNoun
+Fibonacci	Fibonacci	properNoun
+arithmetician	l' arithméticien	noun
+arithmetician	arithméticien	None
+Pardo	Pardonner	properNoun
+subcondition	submontation	properNoun
+Linares	Linares	properNoun
+Vieira	Vieira	properNoun
+Microsoft Word	Microsoft Word	properNoun
+Delfo	Delfo	properNoun
+Próscoro	Próscoro	properNoun
+Bradshaw	Bradshaw	properNoun
+Katowice	Katowice	properNoun
+Salvadorian	Salvadorien	properNoun
+Aristeo	Aristeo	properNoun
+Farrerons	Farrerons	properNoun
+debilitating	débilitant	adjective
+debilitating	ramollissant	adjective
+debilitating	débilitant	None
+Virgilia	Virgilia	properNoun
+Vernón	Vernón	properNoun
+McLean	Mclean	properNoun
+Tesira	Tesira	properNoun
+Burlington	Burlington	properNoun
+parasitosis	la parasitose	noun
+parasitosis	parasitose	None
+Angers	Angers	properNoun
+in jest	en plaisantant	adverb
+in jest	en plaisantant	None
+microanalysis	microanalyse	properNoun
+Makarena	Makarena	properNoun
+propane	le propane	noun
+propane	propane	None
+Pilligua	Pilligua	properNoun
+Schaeffer	Schaeffer	properNoun
+covertly	secrètement	adverb
+covertly	secrètement	None
+Abenza	Abenza	properNoun
+Provençal	provençal	adjective
+Provençal	le provençal	noun
+Provençal	le Provençal	noun
+Provençal	Provençal	None
+Hitachi	Hitachi	properNoun
+Andersen	Andersen	properNoun
+hydrogeography	hydrogéographie	properNoun
+Marsá	Marsá	properNoun
+as far as I am concerned	en ce qui me concerne	properNoun
+St-Amand	St-amand	properNoun
+desolate	désolé	adjective
+desolate	déserté	adjective
+desolate	solitaire	adjective
+desolate	ravagé	adjective
+desolate	délaissé	adjective
+desolate	affligé	adjective
+desolate	au désespoir	adjective
+desolate	ravager	verb
+desolate	détruire	verb
+desolate	se désoler	verb
+desolate	s'affliger	verb
+desolate	désolé	None
+without hesitation	sans hésitation	adverb
+without hesitation	sans hésitation	None
+Kelvin	Kelvin	properNoun
+Jardí	Jardin	properNoun
+Pythagorean	pythagoricien	adjective
+Pythagorean	le pythagoricien	noun
+Pythagorean	Pythagoricien	None
+Odile	Oiseau	properNoun
+Robyn	Royal	properNoun
+Hawaiian	hawaïen	adjective
+Hawaiian	l' hawaïen	noun
+Hawaiian	l' Hawaïen	noun
+Hawaiian	Hawaïen	None
+Majoral	Majestueux	properNoun
+Kiss	le baiser	noun
+Kiss	la bise	noun
+Kiss	l' étreinte	noun
+Kiss	embrasser	verb
+Kiss	donner un baiser	verb
+Kiss	toucher légèrement	verb
+Kiss	s'embrasser	verb
+Kiss	Embrasser	None
+Weetaltuk	Weetaltuk	properNoun
+Fuertes	Fugertes	properNoun
+Ario	Ario	properNoun
+mother tongue	la langue maternelle	noun
+mother tongue	langue maternelle	None
+Savino	Sauvin	properNoun
+scenery	le paysage	noun
+scenery	le décor	noun
+scenery	la vue	noun
+scenery	le spectacle	noun
+scenery	paysage	None
+Favá	Favá	properNoun
+Letellier	Letellier	properNoun
+Gascons	Gascons	properNoun
+psychically	psychiquement	properNoun
+Viñeta	Viñeta	properNoun
+Zionist	Sioniste	noun
+Zionist	sionist	adjective
+Zionist	Sioniste	None
+Torroella	Torroella	properNoun
+tentatively	provisoirement	adverb
+tentatively	timidement	adverb
+tentatively	provisoirement	None
+geomagnetism	géomagnétisme	properNoun
+Eliseo	Éliso	properNoun
+Aderito	Aderito	properNoun
+staunchly	de mauvaise humeur	properNoun
+Sydni	Sydni	properNoun
+Prim	guindé	adjective
+Prim	collet monté	adjective
+Prim	compassé	adjective
+Prim	très convenable	adjective
+Prim	correct	adjective
+Prim	contraint	adjective
+Prim	trop coquet	adjective
+Prim	coqueter	verb
+Prim	se guinder	verb
+Prim	Imbécile	None
+silvery	argenté	adjective
+silvery	argenté	None
+Petrona	Pétrien	properNoun
+Quan	Quan	properNoun
+Empedocles	Émpedocles	properNoun
+stud	le goujon	noun
+stud	le montant	noun
+stud	le téton	noun
+stud	le clou	noun
+stud	l' étalon	noun
+stud	le jules	noun
+stud	le baiseur	noun
+stud	le jeune mec	noun
+stud	le clou décoratif	noun
+stud	le clou à soulier	noun
+stud	le clou à caboche	noun
+stud	l' écurie de course	noun
+stud	clouter	verb
+stud	piqueter	verb
+stud	garnir	verb
+stud	Goujon	None
+read-only	lecture seulement	properNoun
+Syvret	Syvret	properNoun
+Artaldo	Artalaire	properNoun
+Lafranchise	Lafranchise	properNoun
+Richie	Richieux	properNoun
+Prescott	Prescott	properNoun
+fifth	cinquième	adjective
+fifth	fifth, five	cinquième
+fifth	la quinte	noun
+fifth	cinquième	None
+Caisse	Caisse	properNoun
+microtome	microtome	properNoun
+on Wednesdays	le mercredi	properNoun
+Baldwin	Chaude	properNoun
+at issue	dans le vif de sujet	adverb
+at issue	un mouchoir	None
+Fulbert	Fulbert	properNoun
+Dilmé	Dilmé	properNoun
+Garaud	Garaud	properNoun
+backgammon	le jacquet	noun
+backgammon	le trictrac	noun
+backgammon	le jeu de backgammon	noun
+backgammon	jacquet	None
+Necéforo	Necéforo	properNoun
+adenosinetriphosphatase	adénosinétriphosphatase	properNoun
+Otón	Otón	properNoun
+attributable	attribuable	adjective
+attributable	attribuable	None
+of the moment	du moment	properNoun
+Waringhien	Waringhien	properNoun
+Fidencio	Fidencio	properNoun
+Bussières	Bussières	properNoun
+Waterhouse	Eau	properNoun
+Walton	Walton	properNoun
+Tennyson	Tennyson	properNoun
+Magaña	Magaña	properNoun
+conformation	la conformation	noun
+conformation	conformation	None
+causative	causal	adjective
+causative	causatif	adjective
+causative	causal	None
+GIMP	le boiteux	noun
+GIMP	Gimp	None
+matte	mat	adjective
+matte	mat	None
+callose	expieur	properNoun
+delabialisation	delabialisation	properNoun
+electrocardiography	électrocardiographie	properNoun
+Doris Grau	Doris Grau	properNoun
+frequency meter	métier de fréquence	properNoun
+Emiliana	Emiliana	properNoun
+Howells	Howells	properNoun
+underlet	louer moins cher	verb
+underlet	soumission	None
+postsynaptic	postsynaptique	properNoun
+Munger	Munger	properNoun
+Jung	Jung	properNoun
+histochemistry	histochimie	properNoun
+Niamh	Niamh	properNoun
+Asterix	Astérits	properNoun
+Malaquías	Malaques	properNoun
+Lizette	Lizette	properNoun
+otosclerosis	otosclerose	properNoun
+maturation	la maturation	noun
+maturation	maturation	None
+Hashimoto Tetsuya	Hashimoto Tetsuya	properNoun
+assure the media	assurer les médias	properNoun
+Fullum	Garnir	properNoun
+Iserhoff	Iserhoff	properNoun
+Labadie	Labadie	properNoun
+Artero	Artéro	properNoun
+Beauparlant	Beauparlant	properNoun
+Slackware	Slackware	properNoun
+de Pablo	de pablo	properNoun
+Clermont	Clermont	properNoun
+tetany	tétanique	properNoun
+transcriptional	transcriptionnel	properNoun
+Singh	Singh	properNoun
+Cheung	Chiquer	properNoun
+Lobera	Lobère	properNoun
+Vitalia	Vitalia	properNoun
+Æthelwulf	ÆThelwulf	properNoun
+Późna	Pónna	properNoun
+Casadesús	Casadesús	properNoun
+Cateura	Cameeur	properNoun
+Bellingham	Bellingham	properNoun
+Léon	Léon	properNoun
+Set	l' ensemble	noun
+Set	le set	noun
+Set	la série	noun
+Set	l' appareil	noun
+Set	le poste	noun
+Set	l' assortiment	noun
+Set	la parure	noun
+Set	la mise en scène	noun
+Set	la bande	noun
+Set	fixé	adjective
+Set	fixer	verb
+Set	installer	verb
+Set	Ensemble	None
+Solá	Solá	properNoun
+rinsing	le rinçage	noun
+rinsing	rinçage	None
+Blanchette	Blanchette	properNoun
+Groucho	Grognon	properNoun
+Batllori	Batllori	properNoun
+Ainhoa Arteta	Ainhoa Arteta	properNoun
+Arderiu	Arderiu	properNoun
+Hope	Espoir	properNoun
+Ledezma	LEDEZMA	properNoun
+hospitalise	hospitalier	properNoun
+Tamra	Tamra	properNoun
+Angolan	Angolais	properNoun
+from this day onwards	À partir de cette journée	properNoun
+disruptive	perturbateur	adjective
+disruptive	perturbateur	None
+Nuño	Nuño	properNoun
+axinite	axinite	properNoun
+Torras	Torras	properNoun
+Barri	Barri	properNoun
+stimulator	le stimulateur	noun
+stimulator	stimulateur	None
+yesterday noon	hier midi	properNoun
+Llabería	Llabería	properNoun
+stylise	styliser	properNoun
+pair	la paire	noun
+pair	le couple	noun
+pair	apparier	verb
+pair	appareiller	verb
+pair	faire la paire	verb
+pair	s'apparier	verb
+pair	s'accoupler	verb
+pair	paire	None
+Cejas	CEJAS	properNoun
+Bouthot	Bouton	properNoun
+Adona	Adona	properNoun
+Labossière	Labossière	properNoun
+Seaborg	Marteau	properNoun
+Cleary	Clair	properNoun
+Rubinat	Rubinat	properNoun
+Pagán	Païen	properNoun
+Magdaleno	Magdaleno	properNoun
+abstractionism	abstraction	properNoun
+myxomatosis	myxomatose	properNoun
+Faba	Faba	properNoun
+Guangzhou	Guangzhou	properNoun
+Patrocinia	Patrucinia	properNoun
+Guinois	Guinois	properNoun
+unproven	non prouvé	properNoun
+inter	enterrer	verb
+inter	inhumer	verb
+inter	ensevelir	verb
+inter	Inter	None
+Fantine	Fantaisiste	properNoun
+Philemon	Philemon	properNoun
+sulphoricinate	sulforacinate	properNoun
+Naiquén	Naiquén	properNoun
+intensely	intensément	properNoun
+Gionet	Gionet	properNoun
+Waldo	Waldo	properNoun
+southeastwards	au sud-est	properNoun
+Kadri	Kadi	properNoun
+Lucario	Lucario	properNoun
+Panciano	Panciano	properNoun
+del Peral	péral	properNoun
+omniscient	omniscient	adjective
+omniscient	omniscient	None
+Rémillard	Rémillard	properNoun
+macroworld	macroworld	properNoun
+de Almeida	de almeida	properNoun
+Amancio	Amancio	properNoun
+de la Vega	de la vega	properNoun
+Peláez	Peláez	properNoun
+ell	l' aune	noun
+ell	aune	None
+on his part	de sa part	properNoun
+Alexandro	Alexandro	properNoun
+unreasonably	déraisonnablement	properNoun
+Hobson	Hobson	properNoun
+Salla	Salla	properNoun
+Miville-Deschênes	Miville-Deschênes	properNoun
+Ferrás	Ferrás	properNoun
+Kassidy	Kassidé	properNoun
+Esquius	Esquius	properNoun
+Hunt	la chasse	noun
+Hunt	chasser	verb
+Hunt	poursuivre	verb
+Hunt	utiliser	verb
+Hunt	Chasser	None
+Even	même	adverb
+Even	encore	adverb
+Even	seulement	adverb
+Even	jusqu'à	adverb
+Even	égaliser	verb
+Even	niveler	verb
+Even	faire aplanir	verb
+Even	pair	adjective
+Even	égal	adjective
+Even	régulier	adjective
+Even	plat	adjective
+Even	facile	adjective
+Even	tranquille	adjective
+Even	uni	adjective
+Even	Même	None
+quite long enough	assez longtemps	properNoun
+scrupulously	rigoureusement	adverb
+scrupulously	scrupuleusement	None
+Morisco	Morisco	properNoun
+Gygax	Gygax	properNoun
+Teodomiro	Teodomiro	properNoun
+heteroantibody	hétéroanticie	properNoun
+Wellman	Wellman	properNoun
+Anael	Anael	properNoun
+Campanelli	Campanélité	properNoun
+Vilamajó	Vilamajó	properNoun
+Obiol	Obiol	properNoun
+seraph	le séraphin	noun
+seraph	séraphin	None
+Giles	Giles	properNoun
+surreal	surréaliste	properNoun
+Grosz	Grosz	properNoun
+contractually	contractuellement	properNoun
+Jorba	Jorba	properNoun
+day after day	jour après jour	properNoun
+unopposed	sans opposition	properNoun
+Bonin	Bonin	properNoun
+bolt upright	redressa	properNoun
+Monchamp	Monchamp	properNoun
+Fenoy	Fantaisie	properNoun
+radiosensitivity	radiosensibilité	properNoun
+hereabouts	par ici	adverb
+hereabouts	dans les parages	adverb
+hereabouts	par ici	None
+rhinopathy	rhinopathie	properNoun
+Wardle	Cahoter	properNoun
+Lurdes	Lurdes	properNoun
+Béchard	BÉCHARD	properNoun
+Blackman	le noir	noun
+Blackman	Homme noir	None
+Macey	Macy	properNoun
+admixture	le mélange	noun
+admixture	l' incorporation	noun
+admixture	mélange	None
+Eufémia	Eufémie	properNoun
+Espadas	Espadas	properNoun
+Herminia	Herminia	properNoun
+Marcogliese	Marcogliese	properNoun
+dyskeratosis	dyskeratose	properNoun
+Lebel	Lebel	properNoun
+Blizzard Entertainment	Blizzard Entertainment	properNoun
+Lyric	lyrique	adjective
+Lyric	las lyrique	noun
+Lyric	Lyrique	None
+Macario	Macario	properNoun
+Misael	Maligner	properNoun
+Cadenas	Cadenas	properNoun
+Londonderry	Londonderry	properNoun
+Chiarina	Chiarina	properNoun
+Gorman	Gorgin	properNoun
+syncondrosis	synchrondrose	properNoun
+Targa	Targa	properNoun
+Ava	Ava	properNoun
+Latre	Latre	properNoun
+Antoni Mas i Borràs	Antoni Mas I Borràs	properNoun
+Jemma	Jemma	properNoun
+Sarawak	Sarawak	properNoun
+McConnell	McConnell	properNoun
+Traveset	Traveset	properNoun
+contrapuntist	contraponceur	properNoun
+Goebbels	Goebbels	properNoun
+Marciel	Marciel	properNoun
+Snoopy	Snoopy	properNoun
+Celsa	Celsa	properNoun
+ionization	ionisation	properNoun
+tick	cocher	verb
+tick	marquer	verb
+tick	tictaquer	verb
+tick	passer	verb
+tick	faire crédit à qn	verb
+tick	faire tic-tac	verb
+tick	s'écouler	verb
+tick	la tique	noun
+tick	la marque	noun
+tick	le crédit	noun
+tick	l' instant	noun
+tick	la toile	noun
+tick	le tic-tac	noun
+tick	cocher	None
+Dalek	Dalek	properNoun
+Oria	Oria	properNoun
+Maude	Maude	properNoun
+Berthelot	Berthelot	properNoun
+Cirillo	Cirillo	properNoun
+Kuala Lumpur	Kuala Lumpur	properNoun
+Orfilia	Orfilie	properNoun
+preemption	la préemption	noun
+preemption	les droit de préemption	noun
+preemption	préemption	None
+Hart	le cerf	noun
+Hart	Cerf	None
+Tufi	Tufi	properNoun
+devolve	déléguer	verb
+devolve	déconcentrer	verb
+devolve	retomber	verb
+devolve	transmettre à	verb
+devolve	se transmettre	verb
+devolve	déléguer	None
+Lajoie	Lajoie	properNoun
+Jaen	Jaen	properNoun
+Javed	Jave	properNoun
+ghostly	fantomatique	adjective
+ghostly	spectral	adjective
+ghostly	spirituel	adjective
+ghostly	fantomatique	None
+Peñas	Peñas	properNoun
+de las Heras	de las heras	properNoun
+Kimei	Kimei	properNoun
+Anatolian	Anatolien	properNoun
+Sylvester Stallone	Sylvester Stallone	properNoun
+converse	converser	verb
+converse	dialoguer	verb
+converse	parler	verb
+converse	avoir des entretiens	verb
+converse	inverse	adjective
+converse	contraire	adjective
+converse	l' inverse	noun
+converse	le contraire	noun
+converse	converser	None
+Bertin	Bertin	properNoun
+unlocking	déverrouillage	properNoun
+inking	encadré	properNoun
+retaliatory	de représailles	adjective
+retaliatory	de représailles	None
+Guernon	Guernon	properNoun
+Gdynia	Gdynia	properNoun
+Enix	Énigme	properNoun
+Gongora	Gangora	properNoun
+photoautotrophic	photoautotrophe	properNoun
+Manjón	Manjón	properNoun
+Herberto	Herberto	properNoun
+Annett	Annanter	properNoun
+in twelfth place	dans la douzième place	properNoun
+Ezequías	Ezequías	properNoun
+Letterman	Lettrage	properNoun
+storage area network	Réseau de zones de mémorisation	properNoun
+box off	bûcher	properNoun
+Toral	Toral	properNoun
+heptathlete	hepthlete	properNoun
+otomycosis	otomycose	properNoun
+Maira	Mairienne	properNoun
+Niel	Niel	properNoun
+every single day	chaque jour	properNoun
+organizationally	de manière organisationnelle	properNoun
+Golgi	Golgi	properNoun
+Haytham	Haytham	properNoun
+Viñes	Viñes	properNoun
+Malva	Malvoy	properNoun
+Danes	Danois	properNoun
+Costello	Costello	properNoun
+Lao	Lao	properNoun
+Léonne	Léonne	properNoun
+Amazonian	Amazonien	properNoun
+Harissa	Harissa	properNoun
+Athot	Athlète	properNoun
+Nirmana	Nirmana	properNoun
+Pedrajas	Pédajas	properNoun
+Alguero	Alguero	properNoun
+trichomycosis	trichomycose	properNoun
+Cassie	Cassie	properNoun
+Barré	Barré	properNoun
+Sucarrats	Sucrat	properNoun
+Qinuajuak	Qinuajuak	properNoun
+uranoplegy	uranoplegie	properNoun
+Reims	Reims	properNoun
+Huamán	Huamán	properNoun
+Yebra	Yebra	properNoun
+circumflex	le circonflexe	noun
+circumflex	circonflexe	None
+Balart	Baladerie	properNoun
+port	le port	noun
+port	les bâbord	noun
+port	le porto	noun
+port	le sabord	noun
+port	portuaire	adjective
+port	Port	None
+piedmont	Piémont	properNoun
+Hurdle	l' obstacle	noun
+Hurdle	l' haie	noun
+Hurdle	la claie	noun
+Hurdle	la course de haies	noun
+Hurdle	franchir	verb
+Hurdle	Obstacle	None
+Huberdeau	Huberdeau	properNoun
+anthropic	anthropique	properNoun
+Verville	Verville	properNoun
+Kraus	Kraus	properNoun
+Lataille	Lattaille	properNoun
+hodograph	hodographe	properNoun
+Croteau	Crocoteau	properNoun
+Edvard	Edvard	properNoun
+Aurelian	Aurélien	properNoun
+Gasulla	Gasulla	properNoun
+Bartra	Barra	properNoun
+phenotypic	phénotypique	properNoun
+Loscos	Loscos	properNoun
+kraurosis	kraurose	properNoun
+Echaquan	Echaquan	properNoun
+Cassista	Cassista	properNoun
+tensammetry	tensamétrie	properNoun
+Pierrelouis	Pierrelouis	properNoun
+heuristics	heuristique	properNoun
+Olarte	Olarte	properNoun
+suzerainty	la suzeraineté	noun
+suzerainty	suzeraineté	None
+Ecio	Éco	properNoun
+Fallu	Fallu	properNoun
+cohesive	cohésif	adjective
+cohesive	uni	adjective
+cohesive	cohésif	None
+Miville	Miville	properNoun
+ASCII	Ascii	properNoun
+Clotaire	Cloter	properNoun
+enslavement	l' asservissement	noun
+enslavement	asservissement	None
+thermobalance	thermobalance	properNoun
+Gunville	Gunville	properNoun
+Salguero	Salope	properNoun
+Tristany	Tristany	properNoun
+Percevel	Percé	properNoun
+Icav	Icav	properNoun
+Favreau	Favreau	properNoun
+Abbey	l' abbaye	noun
+Abbey	une abbaye	None
+Mantas	Mantas	properNoun
+Rocafort	Rocafort	properNoun
+Nodiel	Nodiel	properNoun
+by birth	par naissance	properNoun
+Teodoro	Teodoro	properNoun
+allelotype	allelotype	properNoun
+Braeden	Bourreau	properNoun
+Fors	Pour	properNoun
+Galo	Galo	properNoun
+Estirado	Estirado	properNoun
+debit balance	le solde débiteur	noun
+debit balance	solde débiteur	None
+Derepentigny	Derepentigny	properNoun
+kimono	le kimono	noun
+kimono	kimono	None
+Chea	Creat	properNoun
+Akkad	Akkad	properNoun
+Bizet	Bizet	properNoun
+Goffredo	Goffredo	properNoun
+Mesoamerican	Méso-américain	properNoun
+Kristen	Kristen	properNoun
+Vilarnau	Vilarnau	properNoun
+deprivatisation	privatisation	properNoun
+Ctesiphon	Ctessiphon	properNoun
+Guilmain	Guilmain	properNoun
+Fitzback	Fitzback	properNoun
+Brindle	Bringue	properNoun
+forty-seventh	quarante-septième	properNoun
+Rabaneda	Rabaneda	properNoun
+Fontdevila	Fondrevila	properNoun
+Mariano Andreu	Mariano Andreu	properNoun
+radiometric	radiométrique	properNoun
+Bolet	Boulier	properNoun
+Purroy	Pistolet	properNoun
+Liberge	Liberger	properNoun
+Rubiales	Rubiaux	properNoun
+Boné	l' os	noun
+Boné	l' arête	noun
+Boné	las squelette	noun
+Boné	l' ivoire	noun
+Boné	le corps	noun
+Boné	désosser	verb
+Boné	piquer	verb
+Boné	OS	None
+Hampstead	Hampstead	properNoun
+electrography	électrographie	properNoun
+Nya	Nya	properNoun
+Trallero	Trallero	properNoun
+Líala	Líala	properNoun
+anachronistically	anachronisme	properNoun
+deterministically	déterminemment	properNoun
+Luciana	Luciana	properNoun
+Bonita	Bonita	properNoun
+Larrivée	Larrivée	properNoun
+exoplanet	exoplanète	properNoun
+in a northwestwardly direction	Dans une direction nord-ouest	properNoun
+Karime	Karime	properNoun
+dishonesty	la malhonnêteté	noun
+dishonesty	la déloyauté	noun
+dishonesty	l' acte de mauvaise foi	noun
+dishonesty	malhonnêteté	None
+Aniya	Aniya	properNoun
+Nintendo DS	Nintendo DS	properNoun
+Silver	l' argent	noun
+Silver	l' argenterie	noun
+Silver	la monnaie	noun
+Silver	le pièces d'argent	noun
+Silver	argenté	adjective
+Silver	argentin	adjective
+Silver	argenter	verb
+Silver	Argent	None
+Castell	Castell	properNoun
+in consequence	l' inconséquence	noun
+in consequence	en conséquence	None
+materiality	la matérialité	noun
+materiality	matérialité	None
+mascot	la mascotte	noun
+mascot	mascotte	None
+transcript	la transcription	noun
+transcript	transcription	None
+Nardi	Nardi	properNoun
+phacosclerosis	phacosclerose	properNoun
+Taing	Taillage	properNoun
+Casamayor	Casamayor	properNoun
+Elizabethan	élisabéthain	adjective
+Elizabethan	l' Élisabéthain	noun
+Elizabethan	Élisabéthain	None
+Laperrière	Laperrière	properNoun
+Aixalá	Aixalá	properNoun
+Julen	Julan	properNoun
+recursively	de récursivité	properNoun
+Perona	Perona	properNoun
+Juan Carlos	Juan Carlos	properNoun
+amblygonite	ambloconite	properNoun
+Kaiya	Kaiya	properNoun
+pragmatist	pragmatiste	noun
+pragmatist	pragmatiste	None
+Eugènio	Eugènio	properNoun
+Manich	Manichant	properNoun
+Couturier	Couturier	properNoun
+postulate	le postulat	noun
+postulate	postuler	verb
+postulate	poser comme principe	verb
+postulate	postulat	None
+Subirana	Subirana	properNoun
+Rolland	Rolland	properNoun
+María Begonia	María Begonia	properNoun
+Hang	accrocher	verb
+Hang	pendre	verb
+Hang	suspendre	verb
+Hang	se pendre	verb
+Hang	exposer	verb
+Hang	être pendu	verb
+Hang	coller	verb
+Hang	percher	verb
+Hang	faire descendre	verb
+Hang	faire tomber	verb
+Hang	mettre en place	verb
+Hang	pendiller	verb
+Hang	accorder	verb
+Hang	la pendaison	noun
+Hang	la fréquentation	noun
+Hang	l' ornement	noun
+Hang	Pendre	None
+Rufiange	Rufiane	properNoun
+Poudrette	Poudrette	properNoun
+basion	basion	properNoun
+Giuseppa	Giuseppa	properNoun
+Dot	le point	noun
+Dot	pointiller	verb
+Dot	marquer avec des points	verb
+Dot	tacher	verb
+Dot	Point	None
+Thessalonica	Thessalonique	properNoun
+Complaisance	la complaisance	noun
+Complaisance	Complaisance	None
+manipulative	manipulateur	properNoun
+turner	le tourneur	noun
+turner	tourneur	None
+Berkman	Berkman	properNoun
+Llambrich	Llambrich	properNoun
+Volta	Volta	properNoun
+statehood	l' indépendance	noun
+statehood	indépendance	None
+almond tree	amandier	properNoun
+supremum	supremum	properNoun
+Gagnier	Gagnier	properNoun
+out here	là dehors	properNoun
+in plenty	dans beaucoup de	properNoun
+Chabot	Chabot	properNoun
+Ramiá	Ramiá	properNoun
+Hamlin	Hamlin	properNoun
+antistrophe	antistrophe	properNoun
+Gorlois	Gorlois	properNoun
+agronomic	agronomique	adjective
+agronomic	agronomique	None
+Maliyah	Maliyah	properNoun
+Filiatrault	Filiatrault	properNoun
+Clovis	Clovis	properNoun
+Diallo	Diallo	properNoun
+Diabo	Diable	properNoun
+chiffonier	le chiffonnier	noun
+chiffonier	chiffonnier	None
+on good terms	en bons termes	adverb
+on good terms	en excellents termes	adverb
+on good terms	en bons termes	None
+Gras	Gras	properNoun
+Frabrizzio	Fabrizio	properNoun
+Godmer	Goder	properNoun
+Minoan	Minoan	properNoun
+Elkaim	Elkaim	properNoun
+Richard Stallman	Richard Stallman	properNoun
+Machuca	Machuca	properNoun
+Bannister	la rampe	noun
+Bannister	Rampe	None
+Rufina	Rufina	properNoun
+Felìcita	Felìcita	properNoun
+podzolisation	podzolisation	properNoun
+Valls	Valls	properNoun
+de Francisco	de francisco	properNoun
+Saurina	Saurina	properNoun
+polio	la polio	noun
+polio	polio	None
+Clément	Clément	properNoun
+knickknack	le bibelot	noun
+knickknack	la babiole	noun
+knickknack	objet décoratif	None
+Abélard	Abélard	properNoun
+Meagan	Meagan	properNoun
+Casadevall	Casadevall	properNoun
+Broomfield	Balancel	properNoun
+payload	la charge utile	noun
+payload	l' emport	noun
+payload	la charge payante	noun
+payload	la puissance	noun
+payload	charge utile	None
+so many	tant	properNoun
+Rusu	Ruse	properNoun
+Areste	Arreste	properNoun
+Betts	Betts	properNoun
+Brunswick	Brunswick	properNoun
+Richer	Riche	properNoun
+epidemiologist	épidémiologiste	properNoun
+Vuong	Vuong	properNoun
+Nirma	Nirma	properNoun
+Divico	Divico	properNoun
+emphyteusis	emphyteusis	properNoun
+concubinage	le concubinage	noun
+concubinage	concubinage	None
+Renda	Rendu	properNoun
+Benedicto	Benedicto	properNoun
+Brando	Brando	properNoun
+Hailey	Hailey	properNoun
+Planellas	Planellas	properNoun
+Alano	Alano	properNoun
+Malia	Malade	properNoun
+Desroches	Desroches	properNoun
+Hank	la pelote	noun
+Hank	Hommier	None
+Laforge	Laforge	properNoun
+Zoeli	Zoeli	properNoun
+Gascon	Gascon	properNoun
+epidometry	épidométrie	properNoun
+Rosalba	Rosalba	properNoun
+Giovannina	Giovannina	properNoun
+larval	larvaire	adjective
+larval	larvé	adjective
+larval	larvaire	None
+Hébert	Hébert	properNoun
+Malmö	Malmö	properNoun
+straight after that	tout droit après ça	properNoun
+Tino	Tino	properNoun
+scutching	teiller	verb
+scutching	scrapage	None
+in future	prochainement	adverb
+in future	dans l'avenir	adverb
+in future	dans le futur	None
+Rousselot	Rouselot	properNoun
+Anais	Anais	properNoun
+sterling	le sterling	noun
+sterling	fin	adjective
+sterling	de bon aloi	adjective
+sterling	de confiance	adjective
+sterling	sûr	adjective
+sterling	sterling	None
+Ramo	Ramo	properNoun
+Iles	Ililes	properNoun
+Santina	Santina	properNoun
+Hill	la colline	noun
+Hill	le coteau	noun
+Hill	l' hauteur	noun
+Hill	le mamelon	noun
+Hill	entourer	verb
+Hill	dissimuler	verb
+Hill	colline	None
+Damore	Dommager	properNoun
+Vieille	Vieille	properNoun
+Daneau	Daneau	properNoun
+Paiement	Paume	properNoun
+unicameral	unicaméral	properNoun
+Phaneuf	Phaneeuf	properNoun
+Monleon	Monléon	properNoun
+Whitebean	l' haricot blanc	noun
+Whitebean	Haricot blanc	None
+Boland	Boland	properNoun
+José Montilla Aguilera	José Montililla Aguilera	properNoun
+Elmira	Elmira	properNoun
+et al	et al	properNoun
+hillbilly	hillbilly	properNoun
+at high noon	au midi	properNoun
+Alabart	Alabart	properNoun
+well enough	bien assez	properNoun
+Larios	Larios	properNoun
+Pamina	Pamina	properNoun
+West	l' Ouest	noun
+West	l' Occident	noun
+West	Ouest	None
+hypnotism	l' hypnotisme	noun
+hypnotism	hypnotisme	None
+Morier	Morieux	properNoun
+Périgny	Périgno	properNoun
+racing	les courses	noun
+racing	l' hippisme	noun
+racing	coureur	adjective
+racing	courses	None
+Armindo de Jesus de Sousa Ribeiro	Armindo de Jesus de Sousa Ribeiro	properNoun
+Claraso	Claraso	properNoun
+thyrotomy	thyrotomie	properNoun
+Tommy	Tommy	properNoun
+Puntí	Puntí	properNoun
+Thisdale	Thisdale	properNoun
+Matches	Allumettes	properNoun
+Easter	les Pâques	noun
+Easter	de Pâques	adjective
+Easter	pascal	adjective
+Easter	Pâques	None
+Citlali	Cilali	properNoun
+Susanita	Susanita	properNoun
+slum	les taudis	noun
+slum	les quartiers pauvres	noun
+slum	le gourbi	noun
+slum	les quartiers misérables	noun
+slum	s'encanailler	verb
+slum	taudis	None
+Roa	Roa	properNoun
+phosphor	le phosphore	noun
+phosphor	le luminophore	noun
+phosphor	phosphore	None
+Beatriz	Beatriz	properNoun
+Fedele	Fedele	properNoun
+Bearskin	le bonnet à poil	noun
+Bearskin	la peau d'ours	noun
+Bearskin	Bonnet à poil	None
+Faisal	Fulgurant	properNoun
+Savard	Savard	properNoun
+Sem	SEM	properNoun
+Costas	Costas	properNoun
+paleontologist	paléontologiste	noun
+paleontologist	paléontologiste	None
+retainer	la provision	noun
+retainer	le serviteur	noun
+retainer	la caution	noun
+retainer	l' avance sur honoraire	noun
+retainer	l' acompte avancé	noun
+retainer	retenue	None
+Corvillo	Corvillo	properNoun
+countably	de manière comptablement	properNoun
+Bayer	Bayer	properNoun
+dioptase	dioptase	properNoun
+Giuseppina	Giuseppina	properNoun
+marking	le marquage	noun
+marking	la notation	noun
+marking	les marques	noun
+marking	la correction	noun
+marking	le tracé	noun
+marking	les taches	noun
+marking	l' attribution de notes	noun
+marking	marquage	None
+Mabby	Mabby	properNoun
+gothic	gothique	adjective
+gothic	Goth:des Goths	adjective
+gothic	le gothique	noun
+gothic	gothique	None
+fulling	le foulonnier	noun
+fulling	plein de	None
+Viso	Viso	properNoun
+contravariant	contravariatif	properNoun
+Bretones	Bretones	properNoun
+Borrego	Borrego	properNoun
+Bosque	Bosque	properNoun
+Lacasse	Lacasse	properNoun
+Moderie	Moderie	properNoun
+Mallory	Classique	properNoun
+Vautour	Vautour	properNoun
+Vrindavana	Vrindavana	properNoun
+Marouan	Marouan	properNoun
+Yadhira	Yadhira	properNoun
+Alamo	Alamo	properNoun
+Arbonés	Arborescents	properNoun
+transgender	transgenres	properNoun
+Luba	Luba	properNoun
+Cesarión	Cesarión	properNoun
+pecylocyte	annonce de paiement	properNoun
+Dinardo	Dinardo	properNoun
+Colombina	Colombin	properNoun
+causally	causalement	properNoun
+micromanometer	micromanomètre	properNoun
+Alysha	Alysha	properNoun
+Whitmore	Whitmore	properNoun
+Chatillon	Chatillon	properNoun
+Nantais	Nantais	properNoun
+Gertrudis	Gertrudis	properNoun
+Toussaint	Toussaint	properNoun
+Orteu	Orteu	properNoun
+Gagnon	Gagnon	properNoun
+Marfil	Marfil	properNoun
+Antichrist	l' Antéchrist	noun
+Antichrist	Antéchrist	None
+hemopericardium	hémopédium	properNoun
+OFDMA	De l'OFDMA	properNoun
+Cossette	Cossette	properNoun
+Ryder	Ryder	properNoun
+Cadice	Cadave	properNoun
+Palmiro	Palmiro	properNoun
+exitance	sortie	properNoun
+iris	l' iris	noun
+iris	iris	None
+Julianne	Julianne	properNoun
+Plasse	Plasse	properNoun
+Murga	Murga	properNoun
+Dubeau	Dubeau	properNoun
+jam	la confiture	noun
+jam	l' embouteillage	noun
+jam	le coincement	noun
+jam	le pétrin	noun
+jam	l' encombrement	noun
+jam	la panne	noun
+jam	bloquer	verb
+jam	coincer	verb
+jam	brouiller	verb
+jam	enrayer	verb
+jam	gripper	verb
+jam	serrer	verb
+jam	confiture	None
+Ritchie	Ritchie	properNoun
+pigeon-toed	pigeonnier	properNoun
+out of debt	hors de la dette	properNoun
+Fontaine	Fontaine	properNoun
+Gyatso	Gyatso	properNoun
+Tersilia	Ersilia	properNoun
+Grau	Grau	properNoun
+Fede	Fédéral	properNoun
+percussionist	percussionniste	properNoun
+centripetal	centripète	adjective
+centripetal	centripète	None
+disproportionation	disproportionnement	properNoun
+Broz	Brosse	properNoun
+Bigorda	Bigorda	properNoun
+Camel	le chameau	noun
+Camel	la chamelle	noun
+Camel	chameau	None
+Centellas	Centellas	properNoun
+Molloy	Molloy	properNoun
+obstructionism	l' obstructionnisme	noun
+obstructionism	obstructionnisme	None
+Marsolais	Marsolais	properNoun
+with one thing and another	avec une chose et une autre	properNoun
+Arminius	Arminius	properNoun
+Lebreux	Lebreux	properNoun
+Dombrowski	Dombrowski	properNoun
+Concha	la conque	noun
+Concha	la voûte	noun
+Concha	Conque	None
+Léone	Léone	properNoun
+Escriba	Escrate	properNoun
+Pétrin	Piétrin	properNoun
+Tartu	Tatu	properNoun
+Choudhury	Choudhury	properNoun
+Bernardetta	Bernardetta	properNoun
+malicious	malveillant	adjective
+malicious	méchant	adjective
+malicious	criminel	adjective
+malicious	calomnieux	adjective
+malicious	malicieux	None
+Doric	dorique	adjective
+Doric	dorique	None
+Dalmatian	le dalmatien	noun
+Dalmatian	Dalmatien	None
+Coma	le coma	noun
+Coma	Coma	None
+Torán	Courir	properNoun
+unawares	au dépourvu	adverb
+unawares	à l'improviste	adverb
+unawares	au dépourvu	None
+Grabulosa	Grabulosa	properNoun
+part way	partiellement	adverb
+part way	en partie	adverb
+part way	partiellement	None
+revert	revenir	verb
+revert	retourner	verb
+revert	faire retour	verb
+revert	revenir	None
+Adalbert	Adalbert	properNoun
+biblically	bibliquement	properNoun
+unintended	non voulu	properNoun
+Léa	Léa	properNoun
+Berengária	Berengária	properNoun
+power	la puissance	noun
+power	le pouvoir	noun
+power	l' énergie	noun
+power	la force	noun
+power	la capacité	noun
+power	la faculté	noun
+power	l' autorités	noun
+power	faire fonctionner	verb
+power	faire marcher	verb
+power	Puissance	None
+acanthosome	acanthosome	properNoun
+Arcand	Arcand	properNoun
+Salas	Sales	properNoun
+Doncel	Donel	properNoun
+Baroque	baroque	adjective
+Baroque	le baroque	noun
+Baroque	Baroque	None
+chondroblast	chondroblaste	properNoun
+Berto	Berte	properNoun
+countermark	renforce	properNoun
+Gamero	Gamero	properNoun
+Addison	Addition	properNoun
+Malec	Malédé	properNoun
+philharmonic	philharmonique	adjective
+philharmonic	philharmonique	None
+Haskell	Haskell	properNoun
+Lawlor	Lawlor	properNoun
+Goyette	Goyauté	properNoun
+Scherer	Scherner	properNoun
+irrationalism	irrationnisme	properNoun
+uniformitarianism	uniformitarisme	properNoun
+otherworldly	autrui-monde	properNoun
+survivability	survivabilité	properNoun
+Redo	refaire	verb
+Redo	réarranger	verb
+Redo	Refaire	None
+Lihue	Lire	properNoun
+conceivably	concevable	properNoun
+Archimedean	Archimédien	properNoun
+Gastone	Gasté	properNoun
+deleterious	délétère	adjective
+deleterious	nuisible	adjective
+deleterious	délétère	None
+Youssouf	Ysssouf	properNoun
+ameloblast	améloblast	properNoun
+HyperCard	Hypercard	properNoun
+hydropericardium	hydropericardium	properNoun
+Leninism	le léninisme	noun
+Leninism	léninisme	None
+Sacristán	le sacristain	noun
+Sacristán	la sacristine	noun
+Sacristán	Sacristain	None
+Rotllan	Rotllan	properNoun
+garment	le vêtement	noun
+garment	l' habit	noun
+garment	l' habits	noun
+garment	faire habiller	verb
+garment	vêtement	None
+Kaelyn	Kaelyn	properNoun
+orthoclase	orthoclase	properNoun
+actualism	réalisation	properNoun
+inflexible	inflexible	adjective
+inflexible	rigide	adjective
+inflexible	inflexible	None
+Aliana	Aliana	properNoun
+Docklands	Docklands	properNoun
+evolvent	évolvent	properNoun
+dividend share	Partage de dividendes	properNoun
+Parfait	Cerfait	properNoun
+Barth	Barque	properNoun
+archetypal	archétypal	properNoun
+complimentary	gracieux	adjective
+complimentary	flatteur	adjective
+complimentary	à titre gracieux	adjective
+complimentary	compliment	None
+Munro	Munro	properNoun
+Moreta	Moreta	properNoun
+monasticism	monachisme	properNoun
+Marien	Marien	properNoun
+Guinovart	Guinovart	properNoun
+mesentery	mésenterie	properNoun
+Asuncion	Ascuncion	properNoun
+McKenna	McKenna	properNoun
+Sumner	Sumner	properNoun
+Costafreda	Costafreda	properNoun
+Altisent	Altéré	properNoun
+Río	Río	properNoun
+right at the beginning	juste au début	properNoun
+scleroderma	sclérodermie	properNoun
+Pueyo	Pueyo	properNoun
+megohmmeter	mégohmmeter	properNoun
+Braian	Braian	properNoun
+joyfully	avec joie	properNoun
+Ruana	Ruana	properNoun
+Kelton	Kelton	properNoun
+Nogueras	Nogueras	properNoun
+so to speak	pour ainsi dire	adverb
+so to speak	pour ainsi dire	None
+Nador	Nador	properNoun
+short-haired	aux cheveux courts	adjective
+short-haired	cheveux courts	None
+Bové	Bové	properNoun
+arm in arm	dans les bras l'un de l'autre	properNoun
+Ely	Éliminat	properNoun
+Falcón	le faucon	noun
+Falcón	Faucon	None
+aprotic	aprotique	properNoun
+Serral	Serrure	properNoun
+vulvectomy	vulvectomie	properNoun
+Saray	Saray	properNoun
+acidimeter	acidimètre	properNoun
+Mirón	Miron	properNoun
+in brackets	entre parenthèses	properNoun
+Tyler	Tyler	properNoun
+in a vacuum	dans le vide	properNoun
+berm	berme	properNoun
+Mathilde	Mathilde	properNoun
+Petit	Petit	properNoun
+Cappelli	Cappelli	properNoun
+Decarufel	Décarufel	properNoun
+from top to toe	de haut à orteil	properNoun
+four-legged	à quatre pattes	properNoun
+Fíguls	Fíguls	properNoun
+maxilliped	maxilliped	properNoun
+avionics	avionique	properNoun
+Minguella	Minguella	properNoun
+Bronislao	Bronislao	properNoun
+Mazur	Mazour	properNoun
+Rafecas	Rafecas	properNoun
+Maharashtra	Maharashtra	properNoun
+with difficulty	difficilement	adverb
+with difficulty	avec peine	adverb
+with difficulty	péniblement	adverb
+with difficulty	avec difficulté	None
+Malo	Malo	properNoun
+Prévereau	Prévère	properNoun
+chronocoulometry	chronocoulométrie	properNoun
+usher	l' huissier	noun
+usher	le placeur	noun
+usher	l' appariteur	noun
+usher	le portier	noun
+usher	l' huisseur	noun
+usher	inaugurer	verb
+usher	introduire	verb
+usher	annoncer	verb
+usher	faire entrer	verb
+usher	huissier	None
+Alcock	Alcock	properNoun
+typhus	le typhus	noun
+typhus	les typhoïde	noun
+typhus	typhus	None
+Eustace	Eustace	properNoun
+felony	le crime	noun
+felony	la félonie	noun
+felony	le forfait	noun
+felony	crime	None
+mine	la mine	noun
+mine	mien	adjective
+mine	le mien	pronoun
+mine	la mienne	pronoun
+mine	à moi	pronoun
+mine	exploiter	verb
+mine	extraire	verb
+mine	miner	verb
+mine	exploiter un gisement	verb
+mine	mouiller des mines	verb
+mine	poser des mines	verb
+mine	mien	None
+Eber	Franc	properNoun
+Hamblin	Hamblin	properNoun
+Chaim	Chaire	properNoun
+deaf-mutism	sourd-mutisme	properNoun
+Esquerré	Esquerré	properNoun
+piezometer	piézomètre	properNoun
+Bolló	Bolló	properNoun
+Dravidian	Dravide	properNoun
+ordinate	ordonner	properNoun
+Marlee	Marge	properNoun
+Balthazar	Ballazar	properNoun
+finale	le final	noun
+finale	final	None
+Delmas	Delmas	properNoun
+Sinibaldo de Mas	Sinibaldo de mas	properNoun
+miosis	miose	properNoun
+Le Pensec	Le Pensec	properNoun
+enzymology	Enzymologie	properNoun
+tag	la marque	noun
+tag	l' étiquette	noun
+tag	la balise	noun
+tag	la plaque	noun
+tag	le slogan	noun
+tag	l' onglet	noun
+tag	le ferret	noun
+tag	le ruban	noun
+tag	la citation	noun
+tag	la bride	noun
+tag	marquer	verb
+tag	étiqueter	verb
+tag	étiqueter	None
+Dulude	Dulude	properNoun
+overcrowded	surchargé	adjective
+overcrowded	bondé	adjective
+overcrowded	encombré	adjective
+overcrowded	surchargé	None
+set free	délivrer	verb
+set free	relâcher	verb
+set free	se libérer	verb
+set free	faire libérer	verb
+set free	détacher	verb
+set free	libérer	None
+Raissa	Raissa	properNoun
+Arrufat	Arrubin	properNoun
+mold	le moule	noun
+mold	la moisissure	noun
+mold	la forme	noun
+mold	le terreau	noun
+mold	le modèle	noun
+mold	le gabarit	noun
+mold	l' humus	noun
+mold	mouler	verb
+mold	modeler	verb
+mold	façonner	verb
+mold	former	verb
+mold	moisir	verb
+mold	fondre	verb
+mold	se moisir	verb
+mold	formuler	verb
+mold	mouler	None
+at this point in time	en ce moment	properNoun
+Suray	Suryl	properNoun
+straightness	la rectitude	noun
+straightness	la franchise	noun
+straightness	la régularité	noun
+straightness	l' égalité	noun
+straightness	rectitude	None
+KFC	Kfc	properNoun
+glyptogenesis	glyptogenèse	properNoun
+ontogenesis	ontogenèse	properNoun
+but then	mais alors	properNoun
+sparring	chasseur	properNoun
+ally	l' allié	noun
+ally	l' alliance	noun
+ally	le coalisé	noun
+ally	collecter	verb
+ally	s'allier	verb
+ally	s'allier avec	verb
+ally	allié	None
+Roxette	Roxette	properNoun
+Yucatán	Yucatán	properNoun
+Alix	Alixture	properNoun
+perform fellatio	effectuer fellatio	properNoun
+equanimity	l' équanimité	noun
+equanimity	la sérénité	noun
+equanimity	équanimité	None
+Jenaro	Jenaro	properNoun
+Poitras	Poitras	properNoun
+Friolet	Friolet	properNoun
+callable share	Partager appelable	properNoun
+as a consequence of	c'est la conséquence de	properNoun
+Vigilio	Vigilio	properNoun
+Turenne	Turenne	properNoun
+ideography	idéographie	properNoun
+Laureano	Laureano	properNoun
+Victorio	Vicorio	properNoun
+methamphetamine	méthamphétamine	properNoun
+Madore	Mideore	properNoun
+round and round	rond	properNoun
+Bonifacia	Bonifacia	properNoun
+fibromatosis	fibromatose	properNoun
+Soleno	Solenno	properNoun
+octogenarian	octogénaire	adjective
+octogenarian	octogénaire	noun
+octogenarian	octogénaire	None
+ginning	goutte	properNoun
+Rayza	Rayza	properNoun
+Estradé	Estradé	properNoun
+Boethius	Boethius	properNoun
+Joly	Joyeux	properNoun
+phonetic	phonétique	adjective
+phonetic	phonétique	None
+Amaia	Amaïa	properNoun
+a long while	un long moment	properNoun
+thenceforth	dès lors	adverb
+thenceforth	dès lors	None
+Airoldi	Airoldi	properNoun
+Natalina	Natalina	properNoun
+in self-defence	en légitime défense	properNoun
+shall	devoir	auxiliary verb
+shall	doit	None
+this time last summer	cette fois l'été dernier	properNoun
+holomorphism	holomorphisme	properNoun
+Silvita	Silvita	properNoun
+generativist	générateur générateur	properNoun
+Chillón	Chillón	properNoun
+Munt	Munter	properNoun
+Hawaiian	hawaïen	adjective
+Hawaiian	l' hawaïen	noun
+Hawaiian	l' Hawaïen	noun
+Hawaiian	Hawaïen	None
+Preciado	Précision	properNoun
+Elkhoury	Elkhoury	properNoun
+contemplative	contemplatif	adjective
+contemplative	méditatif	adjective
+contemplative	le contemplatif	noun
+contemplative	contemplatif	None
+Almira	Almira	properNoun
+McGill	Mcgill	properNoun
+network service provider	Fournisseur de service réseau	properNoun
+under review	à l'étude	properNoun
+Félez	Félez	properNoun
+Rabouin	Rabouin	properNoun
+Rossellini	Rossellini	properNoun
+above sea level	au dessus du niveau de la mer	properNoun
+Alenyani	Alenyani	properNoun
+Lerin	Lérin	properNoun
+Bàrtolo	Bàrtolo	properNoun
+LucasArts	Lucasarts	properNoun
+Naves	Nette	properNoun
+Gielgud	Gielgud	properNoun
+Alvarado	Alvarado	properNoun
+perforator	le perforateur	noun
+perforator	le perçoit	noun
+perforator	perforateur	None
+Cerone	Cérone	properNoun
+Hawke	Hawke	properNoun
+wartime	les temps de guerre	noun
+wartime	la période de guerre	noun
+wartime	temps de guerre	None
+Gaige	Gaige	properNoun
+Botello	Botello	properNoun
+Pouliot	Poulot	properNoun
+Granger	le fermier	noun
+Granger	Granger	None
+Boucher	Boucher	properNoun
+Miarnau	Miarnau	properNoun
+Aster	l' aster	noun
+Aster	Aster	None
+Avelino	Avelino	properNoun
+Arisá	Arisá	properNoun
+astronomically	astronomiquement	properNoun
+Papadakis	Papatakis	properNoun
+Cintia	Cintia	properNoun
+parser	analyseur	properNoun
+Clot	le caillot	noun
+Clot	le bloc	noun
+Clot	le veau	noun
+Clot	coaguler	verb
+Clot	cailler	verb
+Clot	faire coaguler	verb
+Clot	devenir blocs	verb
+Clot	Caillot	None
+Cornellier	Cornelle	properNoun
+Mireio	Mireio	properNoun
+for certain	certainement	properNoun
+Angelats	Angelats	properNoun
+Marcia	Marcia	properNoun
+Nickner	Nicker	properNoun
+Dusablon	Dusablon	properNoun
+Massot	Massot	properNoun
+Najar	Najar	properNoun
+Dorado	Dorado	properNoun
+Ling	la lingue	noun
+Ling	la julienne	noun
+Ling	la lotte de rivière	noun
+Ling	Lingue	None
+palaeoceanography	paléocanographie	properNoun
+Fraile	Fraîchement	properNoun
+anciently	anticontement	properNoun
+colluvium	colluvions	properNoun
+Loubert	Loubert	properNoun
+Anisio	Anisio	properNoun
+Chiquette	Chiquette	properNoun
+Bariteau	Baritéau	properNoun
+filmlet	film	properNoun
+Birka	Birka	properNoun
+Tromen	Trône	properNoun
+garrison	la garnison	noun
+garrison	mettre en garnison	verb
+garrison	placer une garnison dans	verb
+garrison	garnison	None
+princely	princier	adjective
+princely	princier	None
+preferred share	Partage préféré	properNoun
+scapolite	scapolite	properNoun
+van Leeuwenhoek	van leeuwenhoek	properNoun
+Joscelin	Josceline	properNoun
+Guardeño	Guardeño	properNoun
+hysteresis	l' hystérèse	noun
+hysteresis	hystérèse	None
+Quiñonero	Quiñonero	properNoun
+Recaséns	Recéléréns	properNoun
+perceptual	percepteur	adjective
+perceptual	perceptuelle	None
+of sound mind	sage	adjective
+of sound mind	d'esprit sain	None
+Bladimiro	Bladimiro	properNoun
+Neptunian	Neptunien	properNoun
+theatrically	scéniquement	adverb
+theatrically	théâtralement	None
+Sinatra	Sinatra	properNoun
+to the north-east	au nord-est	properNoun
+pollinosis	pollinose	properNoun
+del Castillo	del castillo	properNoun
+Magan	Magan	properNoun
+Eucharistic	eucharistique	adjective
+Eucharistic	eucharistique	None
+seventy-sixth	soixante-dix-sixième	properNoun
+Pando	Pando	properNoun
+manicurist	la manucure	noun
+manicurist	manucure	None
+Rehel	Rééblire	properNoun
+Jourdenais	JOURDENAIS	properNoun
+Munera	Munera	properNoun
+Thérèse	Thérèse	properNoun
+bevatron	bevatron	properNoun
+Rigol	Rigueur	properNoun
+Graus	Graus	properNoun
+Rut	le rut	noun
+Rut	l' ornière	noun
+Rut	la routine	noun
+Rut	sillonner	verb
+Rut	creuser	verb
+Rut	devenir routinier	verb
+Rut	être en rut	verb
+Rut	Rut	None
+Domenic	Domené	properNoun
+TfL	Tfl	properNoun
+polytope	polyope	properNoun
+Bergés	Bergés	properNoun
+Lallemand	Lallemand	properNoun
+Whyte	Whyte	properNoun
+Copernican	Copernicien	properNoun
+below the ground	Sous le sol	properNoun
+entente	l' entente	noun
+entente	entente	None
+variolation	variole	properNoun
+Anícar	Anícar	properNoun
+Esmée	Esmée	properNoun
+Nicasia	Nicasie	properNoun
+Allué	Allué	properNoun
+Ghattas	Ghattas	properNoun
+Issa	Issa	properNoun
+Brittonic	Brittonique	properNoun
+Torrent	le torrent	noun
+Torrent	Torrent	None
+Melvin	Melvin	properNoun
+Bettino	Bettino	properNoun
+Castillón	Castillón	properNoun
+Sergi Mas y Abad	Sergi Mas Y Abad	properNoun
+Auriol	Auuriol	properNoun
+Charlys	Charlys	properNoun
+Coupal	Coupé	properNoun
+Gabarri	Gabarri	properNoun
+monel	monel	properNoun
+Ludendorff	Ludendorff	properNoun
+Belhaj	Belhaj	properNoun
+Amarilis	Amarilis	properNoun
+Davel	Davel	properNoun
+early in the morning	tôt le matin	properNoun
+tiger nut	noix de tigre	properNoun
+Pifarré	Pifuré	properNoun
+Athanasian	Athaanasien	properNoun
+Nehru	Nehru	properNoun
+raster	raster	properNoun
+Bryanna	Bryanna	properNoun
+in the months to come	Dans les mois à venir	properNoun
+Boza	Boza	properNoun
+chloasma	chloasma	properNoun
+positronium	positronium	properNoun
+multivibrator	multivibrateur	properNoun
+Tabitha	Tabitha	properNoun
+World Bank Group	Groupe de la Banque mondiale	properNoun
+Gassol	Gassol	properNoun
+Soldado	Soldado	properNoun
+Manx	Manx	properNoun
+smithsonite	smithsonite	properNoun
+scrap	la ferraille	noun
+scrap	le bout	noun
+scrap	le fragment	noun
+scrap	la bagarre	noun
+scrap	la bribe	noun
+scrap	le reste	noun
+scrap	abandonner	verb
+scrap	mettre au rebut	verb
+scrap	envoyer à la casse	verb
+scrap	se débarrasser de	verb
+scrap	se bagarrer	verb
+scrap	abandonner	None
+Gluck	Gluck	properNoun
+amfetamine	amfétamine	properNoun
+infiltrometer	infiltrometer	properNoun
+Publia	Publia	properNoun
+as far as I'm concerned	En ce qui me concerne	properNoun
+Rémi	Rémi	properNoun
+Boyer	Boyeur	properNoun
+Grau Juan	Grau Juan	properNoun
+offal	les déchets	noun
+offal	les détritus	noun
+offal	l' ordures	noun
+offal	déchets	None
+Freixanet	Freixanet	properNoun
+Whitehead	Whitehead	properNoun
+Edelmiro	Edelmiro	properNoun
+Kamryn	Kamryn	properNoun
+wollastonite	wollastonite	properNoun
+crochet	faire au crochet	verb
+crochet	l' ouvrage au crochet	noun
+crochet	crochet	None
+symphysis	symphyse	properNoun
+Juanse	Juanse	properNoun
+Dagenais	Dagenais	properNoun
+Urko	Urko	properNoun
+limnimeter	limnimètre	properNoun
+Amherst	Amherst	properNoun
+Laínez	Laínez	properNoun
+Harcid	Harcité	properNoun
+taking everything into consideration	tout prendre en considération	properNoun
+at first glance	à première vue	properNoun
+on its own	sur son	properNoun
+Kaiden	Kaiden	properNoun
+endwise	bout à bout	adverb
+endwise	en long	adverb
+endwise	bout à bout	None
+Aicardo	Aicardo	properNoun
+Cerón	Cerón	properNoun
+Caldes	Calmes	properNoun
+Elio	Élio	properNoun
+Barcelonan	Barcelonan	properNoun
+Ravenelle	Ravenelle	properNoun
+Solanas	Solanas	properNoun
+isoimmunisation	isoimmunisation	properNoun
+McCabe	Mccabe	properNoun
+McCann	McCann	properNoun
+below ground	en sous-sol	properNoun
+The Hague	La Haye	properNoun
+Salvino	Salvino	properNoun
+Agnès	Agnès	properNoun
+Aceituno	Aceituno	properNoun
+on the march	en mars	properNoun
+Grey	gris	adjective
+Grey	grisonnant	adjective
+Grey	sombre	adjective
+Grey	morne	adjective
+Grey	triste	adjective
+Grey	le gris	noun
+Grey	Gris	None
+courbature	courage	properNoun
+regimental	régimentaire	adjective
+regimental	régimentaire	None
+Guerrino	Guerrino	properNoun
+Celeste	Céleste	properNoun
+Somaliland	Somaliland	properNoun
+Gracie	Gracieux	properNoun
+Peregrina	Pérégrina	properNoun
+from that moment onwards	À partir de ce moment	properNoun
+Brassard	le brassard	noun
+Brassard	Brassard	None
+Cardona	Cardona	properNoun
+Solaris	Solaris	properNoun
+Tiana	Tiana	properNoun
+Geoffrion	GeoFrion	properNoun
+Arturo	Arturo	properNoun
+Bonamusa	Bonamusa	properNoun
+Bonhomme	Bonhomme	properNoun
+Laperle	Loyer	properNoun
+optoelectronics	optoélectronique	properNoun
+Bond	la liaison	noun
+Bond	le lien	noun
+Bond	l' obligation	noun
+Bond	le bon	noun
+Bond	l' engagement	noun
+Bond	le titre	noun
+Bond	l' attachement	noun
+Bond	les cordes	noun
+Bond	lier	verb
+Bond	coller	verb
+Bond	attacher	verb
+Bond	entreposer	verb
+Bond	placer sous caution	verb
+Bond	mettre sous caution	verb
+Bond	Lier	None
+Jodar	Jodar	properNoun
+grey	gris	adjective
+grey	grisonnant	adjective
+grey	sombre	adjective
+grey	morne	adjective
+grey	triste	adjective
+grey	le gris	noun
+grey	Gris	None
+fricative	fricatif	adjective
+fricative	le constrictif	noun
+fricative	fricatif	None
+Deluca	Délua	properNoun
+hypokinesia	hypokinésie	properNoun
+mockingly	moqueur	properNoun
+Tadiel	Tadiel	properNoun
+resettle	rétablir	verb
+resettle	repeupler	verb
+resettle	implanter	verb
+resettle	réinstaller	None
+Tiburcia	Tiburcia	properNoun
+Singaporean	singapourien	adjective
+Singaporean	le Singapourien	noun
+Singaporean	singapourien	None
+Owusu	Owusu	properNoun
+owing to circumstances	En raison de circonstances	properNoun
+Makaila	Maquille	properNoun
+stencil	le pochoir	noun
+stencil	le stencil	noun
+stencil	le poncif	noun
+stencil	la peinture	noun
+stencil	marquer au pochoir	verb
+stencil	pochoir	None
+Rossana	Rossana	properNoun
+Spanish-speaking	Hispanophone	properNoun
+rediscount	rediscale	properNoun
+Lheureux	Lierux	properNoun
+Neisy	Noisette	properNoun
+rework	retravailler	properNoun
+preoccupation	la préoccupation	noun
+preoccupation	préoccupation	None
+eternally	éternellement	adverb
+eternally	perpétuellement	adverb
+eternally	éternellement	None
+Andíjar	Andíjar	properNoun
+pretty well	plutôt bien	properNoun
+Karnataka	Karnataka	properNoun
+premium share	prime part	properNoun
+very good	très bon	adjective
+very good	très bien	None
+Esdras	Esdras	properNoun
+grad student	étudiant diplômé	properNoun
+Carisa	Carisa	properNoun
+personify	personnifier	verb
+personify	incarner	verb
+personify	jouer un rôle	verb
+personify	se faire passer pour	verb
+personify	personnifier	None
+to and fro	d'avant en arrière	adverb
+to and fro	à et fro	None
+Alide	Alide	properNoun
+Filippone	Filippone	properNoun
+heterosphere	hétérosphère	properNoun
+Columbanus	Columbanus	properNoun
+groveler	grogneur	properNoun
+Anjelica Huston	Anjelica Huston	properNoun
+psoriasis	le psoriasis	noun
+psoriasis	psoriasis	None
+prophetically	prophétiquement	adverb
+prophetically	prophétiquement	None
+Rouette	Rouette	properNoun
+multiprocessing	multiprocession	properNoun
+Marruecos	Marruecos	properNoun
+Batlles	Batailles	properNoun
+Cayla	Cayla	properNoun
+Muntadas	Muntadas	properNoun
+psychopatologist	psychopatologue	properNoun
+in so far	jusqu'à présent	properNoun
+bubonic	bubonique	adjective
+bubonic	bubonique	None
+Villalón	Villalón	properNoun
+Marlborough	Marlborough	properNoun
+Ferrera	Ferrera	properNoun
+thrombolysis	thrombolyse	properNoun
+Luano	Luano	properNoun
+Galactus	Galactus	properNoun
+Páez	Páez	properNoun
+Gasse	Gage	properNoun
+Espuña	Espuña	properNoun
+Bertrán	Bertrán	properNoun
+Saiz	Saiz	properNoun
+Edda	Edda	properNoun
+on credit terms	sur des conditions de crédit	properNoun
+Fleta	Flèche	properNoun
+Willard	Vacher	properNoun
+gynarchy	gynarchie	properNoun
+McBride	McBride	properNoun
+enact	promulguer	verb
+enact	décréter	verb
+enact	donner force	verb
+enact	jouer un rôle	verb
+enact	promulguer	None
+Antwan	Antwan	properNoun
+Altimira	Altimira	properNoun
+Lilio	Lilio	properNoun
+own share	propre part	properNoun
+hydrolyse	hydrolyse	properNoun
+Rivero	Rivero	properNoun
+Ercilio	Ercilio	properNoun
+all told	en tout	adverb
+all told	en tout	None
+Wenceslao	Wenceslao	properNoun
+Vela	Vela	properNoun
+Reneé	Renéré	properNoun
+Transport for London	Transports pour Londres	properNoun
+Caplan	Caplan	properNoun
+Pardos	Pardos	properNoun
+Alvarenga	Alvarenga	properNoun
+Dubček	Dubček	properNoun
+Santoyo	Santoyo	properNoun
+Deserres	Desserres	properNoun
+Kassem	Kassem	properNoun
+Windows Server	Windows Server	properNoun
+Millington	Millington	properNoun
+in no time at all	En un rien de temps	properNoun
+around these parts	autour de ces parties	properNoun
+Calduch	Calduch	properNoun
+Neida	Néida	properNoun
+for lack of evidence	faute de preuves	properNoun
+arteriole	l' artériole	noun
+arteriole	artériole	None
+Germaine	Gerlaine	properNoun
+darkly	obscurément	adverb
+darkly	mystérieusement	adverb
+darkly	tristement	adverb
+darkly	obscurément	None
+neo-Nazi	néo-nazi	properNoun
+Willamette	Willamette	properNoun
+excavating	creuser	verb
+excavating	excaver	verb
+excavating	dégager	verb
+excavating	exhumer	verb
+excavating	faire des fouilles	verb
+excavating	excavation	None
+photovaristor	photovaristor	properNoun
+hemeralopia	héméralopie	properNoun
+alluviation	alluviation	properNoun
+Romanian	roumain	adjective
+Romanian	le roumain	noun
+Romanian	le Roumain	noun
+Romanian	Roumain	None
+Soulières	SOULIÈRES	properNoun
+hyperparathyroidism	hyperparathyroïdie	properNoun
+Digiovanni	Digiovanni	properNoun
+Gosselin	Gosselin	properNoun
+Axiel	Axe	properNoun
+apodosis	apodose	properNoun
+Tarrats	Tarrates	properNoun
+sixty-second	soixante-deuxième	properNoun
+Fabrina	Fabrina	properNoun
+Ezra	Ezra	properNoun
+Ghio	Ghio	properNoun
+Christelle	Christelle	properNoun
+Petronila	Petronila	properNoun
+Wilcott	Wilcott	properNoun
+Labine	Labine	properNoun
+Pompilio	Pompilio	properNoun
+Thiboutot	Thibouteux	properNoun
+Noelí del Lourdes	Noelí del Lourdes	properNoun
+Jennie	Jennie	properNoun
+Campoverde	Campoverde	properNoun
+Gaveston	Gavereston	properNoun
+sixty-seventh	soixante-septième	properNoun
+Zuleika	Zuleika	properNoun
+Heyerdahl	Heyerdahl	properNoun
+Tercero	Tercero	properNoun
+half-open	à moitié ouvert	properNoun
+Besner	Besner	properNoun
+grade	la qualité	noun
+grade	le grade	noun
+grade	la note	noun
+grade	la catégorie	noun
+grade	la classe	noun
+grade	le niveau	noun
+grade	le degré	noun
+grade	la pente	noun
+grade	l' échelon	noun
+grade	le rang	noun
+grade	le calibre	noun
+grade	la période	noun
+grade	noter	None
+Amano Hiroshi	Amano hiroshi	properNoun
+Egido	Egido	properNoun
+of old times	des vieux temps	properNoun
+Pelham	Pelham	properNoun
+Wachowski	Wachowski	properNoun
+Jobidon	Jobidon	properNoun
+unintelligence	inintelligence	properNoun
+Avellaneda	Avellaneda	properNoun
+Neltor	Nélateur	properNoun
+Camarero	Camaro	properNoun
+captain	le capitaine	noun
+captain	le commandant	noun
+captain	commander	verb
+captain	être le capitaine	verb
+captain	capitaine	None
+Sadurní	Sadurní	properNoun
+Segu	Seiguer	properNoun
+corundum	le corindon	noun
+corundum	corindon	None
+Godefrey	Godefoy	properNoun
+Durette	Durette	properNoun
+Zhang	Zhang	properNoun
+some time or other	quelque temps ou autre	properNoun
+Echevarria	Échevarria	properNoun
+jeopardy	le péril	noun
+jeopardy	le danger	noun
+jeopardy	péril	None
+Desaulniers	Desaulniers	properNoun
+Almendro	Almendro	properNoun
+at the last moment	au dernier moment	properNoun
+Massicotte	Massicotte	properNoun
+Dionisio	Dionisio	properNoun
+Andrades	Andrades	properNoun
+autolysis	autolyse	properNoun
+Nesserin	Nessérine	properNoun
+Needham	Needham	properNoun
+Delangis	Délanier	properNoun
+Ezio	Ezio	properNoun
+twice a week	deux fois par semaine	properNoun
+Prats	Pratriés	properNoun
+Nicodemus	Nicodème	properNoun
+Yorktown	Yorktown	properNoun
+Luis María	Luis María	properNoun
+Saratoga	Saratoga	properNoun
+get out of a jam	sortir d'une confiture	properNoun
+Da Costa	Da costa	properNoun
+Aris	Aris	properNoun
+by a piece of good luck	par un morceau de bonne chance	properNoun
+Aberdare	Aberdare	properNoun
+Idelfonsa	Idelfonsa	properNoun
+Chandler	le shipchandler	noun
+Chandler	Cordonnier	None
+Riley	Riley	properNoun
+Anichinapeo	Anichinapeo	properNoun
+mortising	mortalité	properNoun
+Madhim	Madhim	properNoun
+Valère	Valère	properNoun
+Angeline	Angeline	properNoun
+Trepat	Trépau	properNoun
+monogenism	monogénisme	properNoun
+Rochelle	Rochelle	properNoun
+Apollonius	Apollonius	properNoun
+on the agenda	à l'ordre du jour	properNoun
+upwind	au vent	properNoun
+Prades	Prade	properNoun
+reputable	honorable	adjective
+reputable	réputable	adjective
+reputable	qui a une bonne réputation	adjective
+reputable	honorable	None
+Aquin	D'aquine	properNoun
+epididymis	épididyme	properNoun
+Grossman	Homme dégoutant	properNoun
+Ortega y Gasset	Ortega y gasset	properNoun
+Isaciar	Isaciar	properNoun
+heretic	hérétique	noun
+heretic	hérétique	None
+Eranio	Eranio	properNoun
+entangle	emmêler	verb
+entangle	empêtrer	verb
+entangle	impliquer	verb
+entangle	faire compliquer	verb
+entangle	emmêler	None
+Ardiaca	Ardiaca	properNoun
+in the opposite situation	Dans la situation opposée	properNoun
+multitasking	multitâche	properNoun
+Renedo	Renedo	properNoun
+Coles	Coles	properNoun
+Gòdia	Gòdia	properNoun
+Sakr	Sakr	properNoun
+Trieu	Trieu	properNoun
+Corpas	Corpas	properNoun
+inning	le tour de batte	noun
+inning	tour de batte	None
+cheetah	le guépard	noun
+cheetah	guépard	None
+Lucretius	Lurétius	properNoun
+Dalmira	Dalmira	properNoun
+Casilda	Casilda	properNoun
+Tourville	Tourville	properNoun
+Provost	le prévôt	noun
+Provost	le doyen	noun
+Provost	le principal	noun
+Provost	le maire	noun
+Provost	Prévôt	None
+Escayola	Escayola	properNoun
+pneumologist	pneumologue	properNoun
+univalve	le mollusque univalve	noun
+univalve	mollusque univalve	None
+Benevento	Bénéfice	properNoun
+Obeid	Obéissant	properNoun
+institutionally	institutionnellement	properNoun
+Chaban	Chaban	properNoun
+Usmaro	Usmaro	properNoun
+Astoria	Astoria	properNoun
+Brideau	Bride	properNoun
+as it turned out	comme ça s'est apparu	properNoun
+Cándido	Cándido	properNoun
+Brufau	Brufau	properNoun
+on line	en ligne	properNoun
+Ambrós	Ambrós	properNoun
+in all but name	en tout sauf	properNoun
+Celerino	Célerino	properNoun
+Espejo	Espejo	properNoun
+slice	la tranche	noun
+slice	la part	noun
+slice	le slice	noun
+slice	la portion	noun
+slice	la rondelle	noun
+slice	la partie	noun
+slice	la spatule	noun
+slice	la truelle	noun
+slice	la balle coupée	noun
+slice	couper en tranches	verb
+slice	tailler	verb
+slice	slicer	verb
+slice	débiter en tranches	verb
+slice	tranche	None
+sociogram	sociogramme	properNoun
+Daudelin	Daudelin	properNoun
+Dominick	Dominick	properNoun
+dragoon	le dragon	noun
+dragoon	dragon	None
+in the weeks ahead	Dans les semaines à venir	properNoun
+Parés	rogner	verb
+Parés	réduire	verb
+Parés	éplucher	verb
+Parés	couper	verb
+Parés	peler	verb
+Parés	Parodie	None
+Lockhead	Lockheed	properNoun
+hyperostosis	hyperostose	properNoun
+Lou Reed	Lou Reed	properNoun
+Cabarrocas	Cabarrocas	properNoun
+Careli	Careli	properNoun
+Saxon	saxon	adjective
+Saxon	les saxon	noun
+Saxon	le Saxon	noun
+Saxon	Saxon	None
+megalocyte	mégalocyte	properNoun
+garnet	le grenat	noun
+garnet	grenat	None
+Erwin	Erwin	properNoun
+labradorite	labradorite	properNoun
+Albi	Albi	properNoun
+malware	malware	properNoun
+Mississippian	Mississippian	properNoun
+Boudriau	Boudriau	properNoun
+purposefully	volontairement	properNoun
+pastor	le pasteur	noun
+pastor	pasteur	None
+stamina	l' endurance	noun
+stamina	la résistance	noun
+stamina	la vigueur	noun
+stamina	endurance	None
+Carro	Carro	properNoun
+Buono	Buono	properNoun
+in this regard	à cet égard	properNoun
+Lavigueur	Lavigueureur	properNoun
+Jaganath	Jagannath	properNoun
+Delinda	Delinda	properNoun
+axon	axon	properNoun
+Girardeau	Girardeau	properNoun
+Sofronio	Canofronique	properNoun
+Vilardebo	Vilardebo	properNoun
+horseriding	l' équitation	noun
+horseriding	équitation	None
+Samaniego	Samaniego	properNoun
+Activision	Actionnement	properNoun
+Cyriac	Cyride	properNoun
+impresario	l' impresario	noun
+impresario	impresario	None
+Fito	File	properNoun
+Abaco	Abaco	properNoun
+Brenda	Brancher	properNoun
+in attendance	en attendant	properNoun
+Gosse	Gosse	properNoun
+Sylviane	Sylviane	properNoun
+Rigat	Raide	properNoun
+hither and thither	ça et là	adverb
+hither and thither	ça et là	None
+what is more	de plus	properNoun
+Vilmar	Vilmar	properNoun
+Lian	Lian	properNoun
+Ives	Ives	properNoun
+Martino	Martino	properNoun
+Sabra	Sabra	properNoun
+stage by stage	étape par étape	properNoun
+Élément	Élément	properNoun
+napping	personne qui fait une sieste	noun
+napping	plaque	None
+da Palestrina	da palestrina	properNoun
+Pulice	Pulice	properNoun
+Whitehorse	Cheval Blanc	properNoun
+out of condition	hors de condition	properNoun
+Torta	Torta	properNoun
+cursory	superficiel	adjective
+cursory	hâtif	adjective
+cursory	superficiel	None
+Ponton	Ponton	properNoun
+Concepción	Concepción	properNoun
+insult	insulter	verb
+insult	injurier	verb
+insult	offenser	verb
+insult	outrager	verb
+insult	invectiver	verb
+insult	l' insulte	noun
+insult	l' offense	noun
+insult	l' injure	noun
+insult	l' affront	noun
+insult	l' outrage	noun
+insult	la gifle	noun
+insult	l' invective	noun
+insult	insulter	None
+Lacoste	Lacoste	properNoun
+Lledó	Lledó	properNoun
+Sheehy	Berceau	properNoun
+eutrophy	eutrophie	properNoun
+homophobia	homophobie	properNoun
+Jabari	Jabari	properNoun
+Cols	Cols	properNoun
+sexist	sexiste	adjective
+sexist	sexiste	None
+Caitlyn	Caitlyn	properNoun
+Rosmida	Rosmida	properNoun
+Tarrida	Tarrida	properNoun
+Clairene	Clirene	properNoun
+Coral	le corail	noun
+Coral	de corail	adjective
+Coral	corail	None
+implicate	impliquer	verb
+implicate	faire impliquer	verb
+implicate	impliquer	None
+bioclimate	bioclimat	properNoun
+ideality	l' idéalité	noun
+ideality	idéalité	None
+Dióscoro	Dióscoro	properNoun
+Parris	Parris	properNoun
+Haylie	Haylie	properNoun
+Iyanna	Iyanna	properNoun
+kornerupine	bourru	properNoun
+Lanthier	Lanthier	properNoun
+Nofuentes	Nofuentes	properNoun
+Himmler	Himpleur	properNoun
+Nahir	Nahir	properNoun
+Chisholm	Chisholm	properNoun
+bootloader	chargeur de démarrage	properNoun
+Ratnam	Ratamade	properNoun
+Galapagos Islands	les îles Galapagos	properNoun
+Romans	Romains	properNoun
+Marro	Marro	properNoun
+Zabad	Zabad	properNoun
+whatever the case may be	quel que soit le cas	properNoun
+thermocauterisation	thermocautérisation	properNoun
+Bourret	Bourret	properNoun
+Piera	Piera	properNoun
+stomatoplasty	stomatoplastie	properNoun
+Paolucci	Paolucci	properNoun
+singled out	distinguer	verb
+singled out	sélectionner	verb
+singled out	faire signe	verb
+singled out	distingué	None
+vaporizer	le vaporisateur	noun
+vaporizer	vaporisateur	None
+Bienvenida	Bienvenida	properNoun
+Marcaurèle	Marcaure	properNoun
+Dure	Dreindre	properNoun
+from the start	dès le début	properNoun
+Charland	Charlander	properNoun
+Hyundai	Hyundai	properNoun
+Torré	Torré	properNoun
+therm	la thermie	noun
+therm	les joules	noun
+therm	thermie	None
+mutualist	mutualiste	properNoun
+Papillon	Papillon	properNoun
+and so on	et ainsi de suite	adverb
+and so on	et caetera	adverb
+and so on	et comme ça	adverb
+and so on	et voici que	adverb
+and so on	etc	None
+Drolet	Drôle	properNoun
+Liñán	Liñán	properNoun
+Mangas	Mangas	properNoun
+oersted	oteté	properNoun
+Bandera	Bandera	properNoun
+Casavant	Casavant	properNoun
+radiation balance	solde de rayonnement	properNoun
+ophthalmopathy	ophtalmopathie	properNoun
+Caumartin	Chaumartin	properNoun
+Cairns	le cairn	noun
+Cairns	Cairns	None
+alcoholometry	alcoolométrie	properNoun
+Vigneault	Vignette	properNoun
+Bety	Botté	properNoun
+checkroom	le vestiaire	noun
+checkroom	vestiaire	None
+widthways	largeur	properNoun
+the third time	la troisième fois	properNoun
+granulator	granulateur	properNoun
+Espina	Espina	properNoun
+repertory	le répertoire	noun
+repertory	répertoire	None
+harden	durcir	verb
+harden	endurcir	verb
+harden	solidifier	verb
+harden	tremper	verb
+harden	affermir	verb
+harden	blinder	verb
+harden	indurer	verb
+harden	insensibiliser	verb
+harden	racornir	verb
+harden	supporter	verb
+harden	durcir	None
+Coco	la noix de coco	noun
+Coco	coco	None
+thermosequence	thermose	properNoun
+Bénézet	Bénézet	properNoun
+Étienne	Étienne	properNoun
+Destrempes	Destrempes	properNoun
+sapropel	sapropel	properNoun
+Ginchereau	Ginchereau	properNoun
+network architecture	Architecture de réseau	properNoun
+fertilising	fertiliser	verb
+fertilising	féconder	verb
+fertilising	fertilisant	None
+Ruby	le rubis	noun
+Ruby	de rubis	adjective
+Ruby	vermeil	adjective
+Ruby	Rubis	None
+next door	voisin	adjective
+next door	d'à côté	adjective
+next door	la porte à côté	None
+bitmap	bitmap	properNoun
+Xerox	la photocopie	noun
+Xerox	la photocopieuse	noun
+Xerox	Photocopier	None
+hepatologist	hépatologue	properNoun
+nailing	le cloutage	noun
+nailing	cloutage	None
+ornate	très orné	adjective
+ornate	orné	None
+of her own free will	de son propre volonté	properNoun
+Caravaggio	Caravaggio	properNoun
+polytechnic	polytechnique	adjective
+polytechnic	polytechnique	None
+Bellini	Bellini	properNoun
+Dugrenier	Dugrenier	properNoun
+Mulligan	Mulligan	properNoun
+oneirism	oneirisme	properNoun
+acetylene	l' acétylène	noun
+acetylene	acétylène	None
+Faith	Foi	properNoun
+Jamison	Jamison	properNoun
+Gadoury	Gadury	properNoun
+Hurst	Hurster	properNoun
+Hemenegilda	Hémenegilda	properNoun
+Coulibaly	Coulibalie	properNoun
+Desantis	Dessantis	properNoun
+overshadow	éclipser	verb
+overshadow	ombrager	verb
+overshadow	devenir sombre	verb
+overshadow	rendre sombre	verb
+overshadow	éclipser	None
+sudatory	expuratoire	properNoun
+Gricel	Gric	properNoun
+computerised	informatisé	adjective
+computerised	mis sur ordinateur	adjective
+computerised	programmé	adjective
+computerised	informatisé	None
+the second time	la deuxième fois	properNoun
+Térmens	Térmens	properNoun
+Annalise	Annaliser	properNoun
+Drouin	Drouin	properNoun
+with all possible speed	avec toute vitesse possible	properNoun
+Merida	Mérida	properNoun
+Duggan	Duggan	properNoun
+a short while	le moment	noun
+a short while	peu de temps	None
+Alleyne	Allée	properNoun
+Novella	Novella	properNoun
+Wittelsbach	Wittelsbach	properNoun
+aspirator	l' aspirateur	noun
+aspirator	aspirateur	None
+Despots	Despotes	properNoun
+Beaulac	Beaulac	properNoun
+Carlos Mas Samora	Carlos Mas Samora	properNoun
+normocyte	normocyte	properNoun
+Vivo	Vivo	properNoun
+Josep Antoni	Josep Antoni	properNoun
+eluate	éluer	properNoun
+Daira	Daira	properNoun
+Lacalle	Lacalle	properNoun
+Bénard	Bénard	properNoun
+Herculano	Herculano	properNoun
+anhydrous	anhydrite	adjective
+anhydrous	anhydre	None
+Baeta	Baétale	properNoun
+brachycephaly	brachycephalie	properNoun
+Tombaugh	Tombaugh	properNoun
+Tiziano	Tiziano	properNoun
+Oscar Más	Oscar más	properNoun
+Rohan	Rohan	properNoun
+reproval	reprochabilité	properNoun
+Marlow	Boulow	properNoun
+cognoscibility	cognosibilité	properNoun
+Poitiers	Poitrine	properNoun
+indissolubility	indissolubilité	properNoun
+transesterification	transestérification	properNoun
+Torrez	Torrez	properNoun
+Assayag	Assemblage	properNoun
+disconnect	couper	verb
+disconnect	détacher	verb
+disconnect	séparer	verb
+disconnect	déboîter	verb
+disconnect	déconnecter	None
+Campmany	Campanier	properNoun
+paralogism	le paralogisme	noun
+paralogism	paralogisme	None
+Dwight	Dwight	properNoun
+afloat	à flot	adjective
+afloat	répandu	adjective
+afloat	abondant	adjective
+afloat	connu	adjective
+afloat	à flot	adverb
+afloat	à flot	None
+intricately	complexe	properNoun
+macroglossia	macroglossia	properNoun
+St-Aubin	St-Aubin	properNoun
+Michaudville	Michaudville	properNoun
+Palomo	Palomo	properNoun
+Rennes	Rennes	properNoun
+Yubero	Yubero	properNoun
+Prenafeta	Prénafeta	properNoun
+Kleinberger	Kleinberger	properNoun
+Vallières	Vallières	properNoun
+Pasto	Pasto	properNoun
+always at your service	toujours à votre service	properNoun
+Ratcliffe	Ratcliffe	properNoun
+Carle	Carter	properNoun
+operationally	de manière opérationnelle	properNoun
+Riccio	Riccio	properNoun
+Henríquez	Henríquez	properNoun
+fleuron	fleuron	properNoun
+Ripollés	Ripollées	properNoun
+somewhere else	ailleurs	adverb
+somewhere else	autre part	adverb
+somewhere else	ailleurs	None
+Chavero	Chavero	properNoun
+Ravary	Ravariste	properNoun
+Grande Prairie	Grande prairie	properNoun
+moussaka	Moussaka	properNoun
+Zíngara	Zíngara	properNoun
+Jazmín	Jazmín	properNoun
+Balagué	Balagué	properNoun
+Prénovost	Prénovost	properNoun
+Rius	Ridicule	properNoun
+sushi	Sushi	properNoun
+Magnolia	le magnolia	noun
+Magnolia	Magnolia	None
+Santaló	Santaló	properNoun
+emissivity	émissivité	properNoun
+Albalate	Albalète	properNoun
+unmanned	sans équipage	adjective
+unmanned	inhabité	adjective
+unmanned	sans équipage	None
+Rondon	Rondon	properNoun
+since time immemorial	Depuis le temps immémorial	properNoun
+treasonable	trahisonable	properNoun
+Tafalla	Tafalla	properNoun
+Cassidy	Casseur	properNoun
+McComber	Mccomber	properNoun
+Trottier	Trottier	properNoun
+Veilleux	Veilleux	properNoun
+Patel	Patel	properNoun
+Brewer	le brasseur	noun
+Brewer	Brasseur	None
+Bianco	Bianco	properNoun
+Discworld	Discworld	properNoun
+on the off-chance	à tout hasard	properNoun
+videotext	VideoText	properNoun
+Stein	Stein	properNoun
+in desperate straits	dans des détroits désespérés	properNoun
+therapeutically	thérapeutiquement	properNoun
+Picola	Picola	properNoun
+messianic	messianique	adjective
+messianic	messianique	None
+repellent	repoussant	adjective
+repellent	répugnant	adjective
+repellent	rebutant	adjective
+repellent	le produit anti-moustique	noun
+repellent	repoussant	None
+Auden	Autoriser	properNoun
+Florens	Florens	properNoun
+coffer	le coffre	noun
+coffer	la caisse	noun
+coffer	coffre	None
+Larue	La rue	properNoun
+Saumier	Saumier	properNoun
+scutcher	la machine à tailler	noun
+scutcher	machine à tailler	None
+Bercier	Bercier	properNoun
+Jebari	Jebari	properNoun
+Madyson	Madyson	properNoun
+lymphomatosis	lymphomatose	properNoun
+Llunell	Llunell	properNoun
+Puig i Godes	Puig je grèves	properNoun
+Maycol	Maycol	properNoun
+Arboleda	Arboleda	properNoun
+wainscot	les lambris	noun
+wainscot	lambrisser	verb
+wainscot	lambrir	verb
+wainscot	lambris	None
+Alpuente	Alpuente	properNoun
+bigeminy	bigeminy	properNoun
+Rogelia	Rogelia	properNoun
+Medici	Médicis	properNoun
+Agnese	Agne	properNoun
+sine	les sinus	noun
+sine	sinus	None
+suffragist	suffragiste	properNoun
+Naldo	Naldo	properNoun
+Esman	Esman	properNoun
+Beneitez	Avantage	properNoun
+Bonneville	Benneville	properNoun
+Canalejo	Canalejo	properNoun
+Florensa	Florensa	properNoun
+any moment now	tout moment maintenant	properNoun
+Viennese	Viennois	properNoun
+Domingue	Dominue	properNoun
+Savignac	Savignac	properNoun
+bog	la tourbière	noun
+bog	les marais	noun
+bog	le marécage	noun
+bog	enliser	verb
+bog	embourber	verb
+bog	tourbière	None
+plutonism	plutonisme	properNoun
+Octavio	Octavio	properNoun
+Laurencio	Laurencio	properNoun
+Billette	Billette	properNoun
+Bonfilia	Bonfilia	properNoun
+Evita	Evita	properNoun
+Ozanne	Ozanne	properNoun
+erythrocytolysis	érythrocytose	properNoun
+Icart	Icart	properNoun
+Obdulio	Obdio	properNoun
+Muntané	Muntane	properNoun
+Heston	Heston	properNoun
+histiocytosis	histiocytose	properNoun
+Cos	Car	properNoun
+Desbois	Desbois	properNoun
+Lucea	Lucarent	properNoun
+cummin	cumuler	properNoun
+Jimeno	Jimeno	properNoun
+multicast backbone	Backbone de multidiffusion	properNoun
+Aitana	Aitana	properNoun
+Iara	IARA	properNoun
+Schubert	Schubert	properNoun
+iconoscope	l' iconoscope	noun
+iconoscope	iconoscope	None
+in the world	dans le monde	properNoun
+Ladislas	Ladislas	properNoun
+Patulli	Patulli	properNoun
+protide	protéger	properNoun
+Campanario	Campanario	properNoun
+Bhutanese	Bhoutanais	properNoun
+flocculate	floculer	properNoun
+Plummer	Plaindre	properNoun
+Velasquez	Velasquez	properNoun
+Trisha	Trisha	properNoun
+Triguero	Triguuero	properNoun
+comprehensibility	compréhensibilité	properNoun
+Anfruns	Andruns	properNoun
+Masri	Masri	properNoun
+Gianina	Gianina	properNoun
+Said	dit	adjective
+Said	Mentionné	None
+Pedraza	Pédraza	properNoun
+semidiesel	demi midi	properNoun
+false positive	faux positif	properNoun
+mbone	mbone	properNoun
+Wye	Wye	properNoun
+Libby	Libby	properNoun
+Frazer	Frozer	properNoun
+Pressé	Pressé	properNoun
+Macaria	Macaria	properNoun
+Parente	Parent	properNoun
+Janumi	Milli	properNoun
+Loreto	Loreto	properNoun
+potocytosis	potocytose	properNoun
+Poon	Faire du poon	properNoun
+Connors	Connors	properNoun
+Kolby	Kolby	properNoun
+in most places	Dans la plupart des endroits	properNoun
+thoracocentesis	thoracocentèse	properNoun
+Persechino	Perséchage	properNoun
+cariokinesis	karyokinesis	properNoun
+MacGregor	Macregor	properNoun
+Valldeoriola	Valldeoriola	properNoun
+Vallejos	Valléjos	properNoun
+Portilla	Portillon	properNoun
+Gretzky	Gretzky	properNoun
+more closely still	plus étroitement encore	properNoun
+Notre-Dame	Notre Dame	properNoun
+Ryley	Royeux	properNoun
+Delmo	Delmo	properNoun
+ectodermosis	ectodermose	properNoun
+decarbonatisation	décarbonatisation	properNoun
+egoist	égoïste	noun
+egoist	égoïste	None
+Lalumière	Lalumière	properNoun
+soundly	judicieusement	adverb
+soundly	sans risque	adverb
+soundly	avec compétence	adverb
+soundly	de façon sensé	adverb
+soundly	profondément	None
+Cuthbert	Cuthbert	properNoun
+Henri Donnedieu de Vabres	Henri Donnediu de Vabres	properNoun
+equivocity	équivoque	properNoun
+Masramon	Masramon	properNoun
+Abdala	Abdala	properNoun
+Roquet	Rouquet	properNoun
+Sudbury	Sudbury	properNoun
+feinter	feinter	properNoun
+Ariano	Ariano	properNoun
+Mas Fornés	Mas fornés	properNoun
+Gallant	galant	adjective
+Gallant	brave	adjective
+Gallant	vaillant	adjective
+Gallant	courageux	adjective
+Gallant	noble	adjective
+Gallant	élégant	adjective
+Gallant	superbe	adjective
+Gallant	chic	adjective
+Gallant	agréable	adjective
+Gallant	le galant	noun
+Gallant	Galant	None
+centric	central	adjective
+centric	central	None
+Vicenta	Vicenta	properNoun
+Surette	Surette	properNoun
+trolleybus	trolleybus	adjective
+trolleybus	trolleybus	None
+Courcy	Courage	properNoun
+Mascagni	Mascagni	properNoun
+fruition	la réalisation	noun
+fruition	la jouissance	noun
+fruition	la fécondité	noun
+fruition	réalisation	None
+theoretic	théorique	adjective
+theoretic	théorique	None
+kyphosis	kyphose	properNoun
+irreflexive	irréfléchi	properNoun
+Minguillón	Minguillón	properNoun
+Gotardo	Gotardo	properNoun
+mononucleosis	mononucléose	properNoun
+Viger	Viger	properNoun
+Mihai	Mihai	properNoun
+Haman	Haman	properNoun
+Olea	Olée	properNoun
+metacartography	métacartographie	properNoun
+Berrouard	Berrouard	properNoun
+multilinearity	multilinéarité	properNoun
+Parmenio	Parmenio	properNoun
+Manitoba	Manitoba	properNoun
+Pépin	Pépin	properNoun
+misleadingly	inhabituellement	properNoun
+Fililberto	Fililberto	properNoun
+come hell or high water	viens enfer ou eau élevée	properNoun
+capacitor	le condensateur	noun
+capacitor	condensateur	None
+Aristión	Aristión	properNoun
+Norelia	Norélien	properNoun
+cytolysis	cytolyse	properNoun
+unwillingness	la réticence	noun
+unwillingness	le manque d'enthousiasme	noun
+unwillingness	réticence	None
+magnetoacoustics	acoustique magnéto	properNoun
+densimeter	le densimètre	noun
+densimeter	densimètre	None
+typometer	typètre	properNoun
+Armengol	Armengol	properNoun
+Vancouver	Vancouver	properNoun
+Nelda	Nelda	properNoun
+Manon	Manon	properNoun
+Hermitian	Hermitien	properNoun
+Mazda	Mazda	properNoun
+Cera	Cerner	properNoun
+Rabanal	Rabanal	properNoun
+this very instant	Ce très instantané	properNoun
+esteem	l' estime	noun
+esteem	la considération	noun
+esteem	l' appréciation	noun
+esteem	estimer	verb
+esteem	apprécier	verb
+esteem	respecter	verb
+esteem	estime	None
+cloak	le manteau	noun
+cloak	le voile	noun
+cloak	cacher	verb
+cloak	manteau	None
+Tellier	Tellier	properNoun
+Yseult	Oseult	properNoun
+Ghaddar	Ghaddar	properNoun
+Crosas	Crosas	properNoun
+Martimbault	Martimbault	properNoun
+Maeso	Maeso	properNoun
+elaborately	de manière élaborée	properNoun
+Sayers	Sayers	properNoun
+as far as she is concerned	En ce qui elle est concerné	properNoun
+Quincy Jones	Quincy Jones	properNoun
+Dmitriy	Dmitriy	properNoun
+Esaú	Esaú	properNoun
+Hislop	Hislop	properNoun
+Hermánn	Hermánn	properNoun
+Steadman	Steadman	properNoun
+pluviogram	pluviogramme	properNoun
+Fafard	Fafard	properNoun
+eustatism	eustatisme	properNoun
+Silvestro	Silvestro	properNoun
+WordStar	Wordstar	properNoun
+Bigeault	Gigantesque	properNoun
+wet season	saison humide	properNoun
+oligodendroglia	oligodendroglia	properNoun
+Barón	Baron	properNoun
+Bellon	Bellon	properNoun
+Castelli	Castelli	properNoun
+Maddie	Madadie	properNoun
+Boadas	Boadas	properNoun
+network information centre	Centre d'information sur le réseau	properNoun
+Cande	Se candir	properNoun
+garrigue	garrigue	properNoun
+Chatelois	Chatelois	properNoun
+suppletion	complétion	properNoun
+polarograph	polarographe	properNoun
+Buck	le mâle	noun
+Buck	le dollar	noun
+Buck	le mec	noun
+Buck	l' élégant	noun
+Buck	le mâle de gazelle	noun
+Buck	le lapin mâle	noun
+Buck	l' Indien rouge	noun
+Buck	lancer une ruade	verb
+Buck	mâle	None
+Esmaralda	Esmaralda	properNoun
+sclerometer	scléromètre	properNoun
+Satorra	Satorra	properNoun
+Houle	Houle	properNoun
+Gasull	Gaspiller	properNoun
+in moderation	modérément	adverb
+in moderation	raisonnablement	adverb
+in moderation	avec moderation	None
+Miclette	Miclette	properNoun
+telangiectasis	télangiectasie	properNoun
+fragrance	le parfum	noun
+fragrance	la fragrance	noun
+fragrance	la senteur	noun
+fragrance	l' arôme	noun
+fragrance	l' arome	noun
+fragrance	fragrance	None
+sepiolite	sépaiolé	properNoun
+microwave network	réseau à micro-ondes	properNoun
+Gualterio	Gualterio	properNoun
+urea	l' urée	noun
+urea	urée	None
+Hamelin	Hamelin	properNoun
+Danila	Danila	properNoun
+bergère	Bergère	properNoun
+Ferrant	Ferrant	properNoun
+polygonal	polygonal	adjective
+polygonal	polygonal	None
+thirty-fourth	trente-quatrième	properNoun
+Casseus	Casse	properNoun
+Gramunt	Gramunt	properNoun
+Guillamet	Guillamet	properNoun
+in charge	en charge	properNoun
+Mancera	MANCERA	properNoun
+subspace	sous-espace	properNoun
+Lothair	Lothir	properNoun
+triphthong	la triphtongue	noun
+triphthong	triphtongue	None
+Ivanka	Ivanka	properNoun
+Miñarro	Miñarro	properNoun
+Mai	Mai	properNoun
+xanthoma	xanthome	properNoun
+rediscovery	redécouvert	properNoun
+Hérard	Hérard	properNoun
+Antigonus	Antigonus	properNoun
+Daschle	Daschle	properNoun
+Hall	la salle	noun
+Hall	hall	noun
+Hall	l' entrée	noun
+Hall	le couloir	noun
+Hall	le vestibule	noun
+Hall	le corridor	noun
+Hall	le château	noun
+Hall	le manoir	noun
+Hall	la boîte de nuit	noun
+Hall	salle	None
+Maegan	Maegan	properNoun
+Rossí	Rossí	properNoun
+bibliomaniac	bibliomane	noun
+bibliomaniac	bibliomane	None
+Byrns	Byrns	properNoun
+ad hoc network	Réseau ad hoc	properNoun
+Diago	Diabolique	properNoun
+deglutition	déglutition	properNoun
+eleventh	onzième	adjective
+eleventh	eleventh	onzième
+eleventh	onzième	None
+refute	réfuter	verb
+refute	démentir	verb
+refute	réfuter	None
+freeware	logiciel libre	properNoun
+Adroher	Adroit	properNoun
+Lucili	Lucili	properNoun
+Odalis	Odalis	properNoun
+Straczynski	Straczynski	properNoun
+accusative	accusatif	adjective
+accusative	l' accusatif	noun
+accusative	accusatif	None
+Alesandra	Alesandra	properNoun
+bravery	la bravoure	noun
+bravery	le courage	noun
+bravery	la vaillance	noun
+bravery	bravoure	None
+Lisette	Lisette	properNoun
+Castellarnau	Castellarnau	properNoun
+laryngologist	laryngologiste	properNoun
+Saget	Saget	properNoun
+Angélica	l' angélique	noun
+Angélica	Angélique	None
+Gilpin	Gilpin	properNoun
+by name	nommément	adverb
+by name	de nom	None
+Mulero	Muero	properNoun
+Fabrés	Fabrés	properNoun
+Abu Bakr	Abu bakr	properNoun
+bipedal	bipède	adjective
+bipedal	bipède	None
+mechanistic	mécaniste	adjective
+mechanistic	mécaniste	None
+pedophilia	pédophilie	properNoun
+Hueso	Hue	properNoun
+Goldstein	Goldstein	properNoun
+Gregor	Grégor	properNoun
+Bernades	Bernades	properNoun
+Reynold	Reynold	properNoun
+Vandal	vandale	adjective
+Vandal	vandale	noun
+Vandal	Vandale	None
+Fawkes	Fawkes	properNoun
+Bernèche	BERNÈCHE	properNoun
+hypotaxis	hypotaxis	properNoun
+Llano	Llano	properNoun
+foreign balance	solde étranger	properNoun
+oddly	bizarrement	adverb
+oddly	étrangement	adverb
+oddly	singulièrement	adverb
+oddly	de façon étrange	adverb
+oddly	de façon bizarre	adverb
+oddly	bizarrement	None
+Villeneuve	Villeneuve	properNoun
+Navalon	Navalon	properNoun
+Lecina	Lecina	properNoun
+Manases	Manières	properNoun
+Jean-Martin	Jean-Martin	properNoun
+Moyano	Moyano	properNoun
+by cheque	par chèque	properNoun
+glossectomy	glosectomie	properNoun
+Fellini	Fellini	properNoun
+bullion	l' encaisse-or	noun
+bullion	lingot	None
+Hamilcar	Hamilcar	properNoun
+Caucci	Caucci	properNoun
+sonar	le sonar	noun
+sonar	sonar	None
+Ciudad	Ciudad	properNoun
+Andrónico	Andrónico	properNoun
+Danette	Danette	properNoun
+convertibility	la convertibilité	noun
+convertibility	convertibilité	None
+fingerprint	l' empreinte digitale	noun
+fingerprint	empreinte digitale	None
+dissaving	dissuasion	properNoun
+headmaster	le directeur	noun
+headmaster	le proviseur	noun
+headmaster	le principal	noun
+headmaster	Directeur	None
+Baldoma	Baldoma	properNoun
+Joaquín Almunia Amann	Joaquín Almunia Amann	properNoun
+Arslan	Arslan	properNoun
+dilapidate	délabrer	verb
+dilapidate	délabrer	None
+Pelosse	Pelosse	properNoun
+Satanism	le satanisme	noun
+Satanism	satanisme	None
+Barrado	Barrado	properNoun
+Guilbault	Guilbault	properNoun
+Espiridión	Espiridión	properNoun
+Colombe	Colombe	properNoun
+Hammersmith	Hammersmith	properNoun
+paraphrase	la paraphrase	noun
+paraphrase	paraphraser	verb
+paraphrase	paraphrase	None
+no choice	pas le choix	properNoun
+Adolphe	Adolphe	properNoun
+Sparks	l' étincelle	noun
+Sparks	la lueur	noun
+Sparks	le germe	noun
+Sparks	la perle	noun
+Sparks	susciter	verb
+Sparks	Étincelles	None
+Bresse	Bresse	properNoun
+Sousa	Sousa	properNoun
+Portell	Portueux	properNoun
+lepton	Lepton	properNoun
+Dossantos	Dossantos	properNoun
+Flix	Flix	properNoun
+replicate	reproduire	verb
+replicate	replier	verb
+replicate	replié	adjective
+replicate	reproduire	None
+Karissa	Karissa	properNoun
+from the outside	de l'exterieur	properNoun
+metaphysis	métaphyse	properNoun
+frequency domain	domaine de fréquence	properNoun
+Amela	Amela	properNoun
+pitching	tangage	properNoun
+Gisberto	Gisberto	properNoun
+Dumais	Dumais	properNoun
+militarist	militariste	noun
+militarist	militariste	None
+gemmologist	gemmmologiste	properNoun
+Casafont	Casafont	properNoun
+karst	karst	properNoun
+Portales	Portaux	properNoun
+freon	frénétique	properNoun
+Argyll	Argramme	properNoun
+Amorina	Amorina	properNoun
+Rebelo	Rebelle	properNoun
+by the year	de l'année	properNoun
+Reyes	Reyes	properNoun
+Andreu Fontàs	Andreu Fontàs	properNoun
+Lacourse	Laconner	properNoun
+inadvertently	par inadvertance	properNoun
+in the foreseeable future	dans un avenir prévisible	properNoun
+border	la frontière	noun
+border	la bordure	noun
+border	le bord	noun
+border	le cadre	noun
+border	la lisière	noun
+border	la côte	noun
+border	l' encadrement	noun
+border	la rive	noun
+border	border	verb
+border	limiter	verb
+border	entourer	verb
+border	encercler	verb
+border	tracer les frontières	verb
+border	faire un cadre	verb
+border	frontière	None
+Plácida	Plácida	properNoun
+Erié	Érié	properNoun
+Omedes	Omedes	properNoun
+Arbó	Arbó	properNoun
+Réveillé	le réveil	noun
+Réveillé	Réveil	None
+Weaver	le tisserand	noun
+Weaver	le tisseur	noun
+Weaver	le tisserin	noun
+Weaver	Tisserand	None
+Munn	Munn	properNoun
+magnetohydrodynamics	magnéthydrodynamique	properNoun
+on Mondays	le Lundi	properNoun
+Jourdain	Journalier	properNoun
+Mullins	Mullins	properNoun
+supersaturate	sursaturer	verb
+supersaturate	sursaturer	None
+Kirby	Kirby	properNoun
+Purcell	Purceller	properNoun
+Ottereyes	Ottériles	properNoun
+destitute	dépourvu	adjective
+destitute	dans le dénuement	adjective
+destitute	indigent	adjective
+destitute	pauvre	adjective
+destitute	sans ressource	adjective
+destitute	dépourvu	None
+Josu	Josu	properNoun
+Burelle	Burelle	properNoun
+Molnar	Molnaire	properNoun
+Codorníu	Codorníu	properNoun
+glycogenesis	glycogenèse	properNoun
+panegyrist	panégyriste	noun
+panegyrist	panégyriste	None
+Justa	Justa	properNoun
+Panamanian	panaméen	adjective
+Panamanian	le Panaméen	noun
+Panamanian	Panaméen	None
+Carola	Carola	properNoun
+revere	révérer	verb
+revere	vénérer	verb
+revere	révérer	None
+profess	professer	verb
+profess	prétendre	verb
+profess	affirmer	verb
+profess	déclarer	verb
+profess	faire profession de	verb
+profess	professer	None
+House of Lords	la Chambre des lords	noun
+House of Lords	Chambre des lords	None
+Devereux	Devereux	properNoun
+McMillan	McMillan	properNoun
+Khoury	Khoury	properNoun
+Afra	Afra	properNoun
+Orihuela	Orihuela	properNoun
+of great moment	d'un grand moment	properNoun
+straight off	tout droit	properNoun
+transitivity	transitivité	properNoun
+rue	la rue	noun
+rue	regretter	verb
+rue	regretter amèrement	verb
+rue	se repentir de	verb
+rue	rue	None
+Guitart	Guitage	properNoun
+Dandonneau	Dandonneau	properNoun
+Balcazar	Balcazar	properNoun
+Adonaí	Adonaí	properNoun
+Gauwyn	Gauwyn	properNoun
+Darius	Darius	properNoun
+Carolayn	Carolayn	properNoun
+Ruperthouse	Ruperthouse	properNoun
+Pujolrás	Pujolrás	properNoun
+Siconnelly	Siconnelly	properNoun
+Ronit	Ronné	properNoun
+Reynna	Reynna	properNoun
+Nella	Nella	properNoun
+Olilla	Olilla	properNoun
+Franche	Franche	properNoun
+Arguello	Arguello	properNoun
+Vérène	Vérène	properNoun
+essentialism	essentialité	properNoun
+horribly	horriblement	properNoun
+Vert	le vert héraldique	noun
+Vert	Vert	None
+Hodge	Huge	properNoun
+ungulate	l' ongulé	noun
+ungulate	l' animal ongulé	noun
+ungulate	ongulé	None
+Asiatic	asiatique	adjective
+Asiatic	asiatique	None
+Linteau	Linteau	properNoun
+Yazmin	Yazmin	properNoun
+coarseness	la grossièreté	noun
+coarseness	la rudesse	noun
+coarseness	la vulgarité	noun
+coarseness	la faute	noun
+coarseness	grossièreté	None
+Ulderico	Ulderico	properNoun
+assemblage	l' assemblage	noun
+assemblage	l' assemblée	noun
+assemblage	assemblage	None
+Fidelio	Fidélio	properNoun
+McGhee	Mcghee	properNoun
+Baltrons	Balustras	properNoun
+Bowers	la tonnelle	noun
+Bowers	le berceau de verdure	noun
+Bowers	la chaumière	noun
+Bowers	petite maison à la campagne	noun
+Bowers	la maison de l'été	noun
+Bowers	Bowers	None
+Levasseur	Levasseur	properNoun
+for the second time around	Pour la deuxième fois autour	properNoun
+enantiomer	énantiomère	properNoun
+microtelephone	microtelephone	properNoun
+Barrientos	Barrientos	properNoun
+prefect	le préfet	noun
+prefect	préfet	None
+Ugandan	ougandais	adjective
+Ugandan	l' Ougandais	noun
+Ugandan	Ougandais	None
+Middleton	Middleton	properNoun
+Dominguez	Dominguez	properNoun
+Bresco	Bresco	properNoun
+Sherwood	Sherwood	properNoun
+Atienza	Atienza	properNoun
+Lacey	Lacé	properNoun
+Léveillé	Léveillé	properNoun
+Gironella	Gironella	properNoun
+only for a moment	seulement pour un moment	properNoun
+neutralism	le neutralisme	noun
+neutralism	neutralisme	None
+Daniel Ortega	Daniel Ortega	properNoun
+pseudoacrosome	pseudoacrosome	properNoun
+Galarneau	Galéneau	properNoun
+otology	l' otologie	noun
+otology	otologie	None
+prototypical	prototypique	properNoun
+Madalyn	Madalyn	properNoun
+Agota	Agota	properNoun
+phonemics	phonémiques	properNoun
+from top to bottom	du haut jusqu'en bas	adverb
+from top to bottom	du haut jusqu'en bas	None
+Duplain	Duplain	properNoun
+idocrase	Idocrase	properNoun
+Baruf	Barduf	properNoun
+Bartolomea	Bartolomea	properNoun
+barotropy	barotropie	properNoun
+Ele	Ele	properNoun
+Doña	Doña	properNoun
+philanthropic	philanthropique	adjective
+philanthropic	philanthropique	None
+Prézeau	Prezeau	properNoun
+Llobera	Llobera	properNoun
+Serafino	Sérafino	properNoun
+Sondheim	Sondheim	properNoun
+Israël	l' Israël	noun
+Israël	Israël	None
+Portelance	Portance	properNoun
+Lagüe	Lagüe	properNoun
+Chartrand	Chartrand	properNoun
+as many	autant	properNoun
+Vaqué	Vaqué	properNoun
+Gabaldon	Gabaldon	properNoun
+moot	discutable	adjective
+moot	controversé	adjective
+moot	discuter	verb
+moot	discutable	None
+traditionalist	traditionaliste	noun
+traditionalist	traditionaliste	None
+Essence	l' essence	noun
+Essence	l' essentiel	noun
+Essence	le fond	noun
+Essence	l' extrait	noun
+Essence	Essence	None
+imbalance	le déséquilibre	noun
+imbalance	déséquilibre	None
+dentistry	la dentisterie	noun
+dentistry	dentisterie	None
+klystron	le klystron	noun
+klystron	klystron	None
+Clairmont	Clairmont	properNoun
+Laverrière	Laverrière	properNoun
+al-Hazmi	al-hayes	properNoun
+San Martin	San Martin	properNoun
+autosomal	autosomique	properNoun
+Busqué	Busqué	properNoun
+Lebrun	Lebrun	properNoun
+Delicia	Délicieux	properNoun
+Whittington	Whittington	properNoun
+Virma	Virma	properNoun
+morphophysiologic	morphophysiologique	properNoun
+in foreign parts	dans les parties étrangères	properNoun
+Louttit	Louttit	properNoun
+protract	prolonger	verb
+protract	retarder	verb
+protract	faire durer	verb
+protract	faire traîner	verb
+protract	planifier	verb
+protract	dessiner	verb
+protract	prolonger	None
+Laganière	Laganière	properNoun
+Keynesian	Kénésien	properNoun
+pesticide	le pesticide	noun
+pesticide	pesticide	None
+postulant	le postulant	noun
+postulant	postulant	None
+Rebull	Taureau rouge	properNoun
+Poblet	Potable	properNoun
+sulphurizer	sulfurisant	properNoun
+Triviño	Triviño	properNoun
+pimp	le souteneur	noun
+pimp	le maquereau	noun
+pimp	le marlou	noun
+pimp	être souteneur	verb
+pimp	faire le maquereau	verb
+pimp	souteneur	None
+Stahel	Stahel	properNoun
+Sinforiano	Sinforiano	properNoun
+Cristóbal	Cristoire	properNoun
+bottleneck	le goulot	noun
+bottleneck	la tête de bouteille	noun
+bottleneck	la route étroite	noun
+bottleneck	goulot	None
+for a year and a day	Pendant un an et une journée	properNoun
+Giancola	Giancola	properNoun
+bilinear	bilinéaire	properNoun
+Cañas	Cañas	properNoun
+Isabelle	Isabelle	properNoun
+Mianscum	Mianscum	properNoun
+Terencio	Terrenio	properNoun
+once only	une seule fois	properNoun
+Cucurella	Cucurella	properNoun
+of their own free will	de leur propre volonté	properNoun
+Naoum	Naoux	properNoun
+Bernadine	Bernadine	properNoun
+codename	nom de code	properNoun
+Arimany	Arrixe	properNoun
+Olivia	Olivia	properNoun
+Cornelius	Cornelius	properNoun
+Hargreaves	Hargreaves	properNoun
+Cortiella	Cortielle	properNoun
+Latremouille	Latremouille	properNoun
+Agrippine	Agrippin	properNoun
+Benwell	Benwell	properNoun
+St-Vil	Style	properNoun
+Jansson	Jansson	properNoun
+Miyén	Miyén	properNoun
+Camila	Camila	properNoun
+Ellen	Ellen	properNoun
+Hasidic	Hasside	properNoun
+Desgens	Desgents	properNoun
+Photoshop	Photoshop	properNoun
+Joav	Joav	properNoun
+commencement	le commencement	noun
+commencement	commencement	None
+Jaxon	Jaxon	properNoun
+de Paz	de paz	properNoun
+Cleves	Cleves	properNoun
+Lirette	Loie	properNoun
+oscillograph	l' oscillographe	noun
+oscillograph	oscillographe	None
+Bains	Bêtises	properNoun
+Zenobio	Zénobio	properNoun
+Eleuterio	Eleuterio	properNoun
+Maymó	Maymó	properNoun
+syllogistics	syllogistique	properNoun
+Cherta	Cherta	properNoun
+scotoma	scotome	properNoun
+sideboard	le buffet	noun
+sideboard	buffet	None
+Rudolph	Rudolph	properNoun
+Jou	Jou	properNoun
+Orfelina	Orfelina	properNoun
+Concetta	Conte	properNoun
+on the up and up	sur le haut et le haut	properNoun
+half the time	la moitié du temps	properNoun
+Bernadete	Bernadete	properNoun
+Heliana	Heliana	properNoun
+reprise	la reprise	noun
+reprise	reprise	None
+Engel	Mettre en colère	properNoun
+perionychium	périonychium	properNoun
+by half	de moitié	adverb
+by half	de moitié	None
+Ovidio	Ovidio	properNoun
+Rauf	Rauf	properNoun
+Naiemias	Nairémias	properNoun
+Dieudonné	Bieudonné	properNoun
+most of the year	la majeure partie de l'année	properNoun
+Alujas	Alujas	properNoun
+Wills	Testaments	properNoun
+Felices	Félicitations	properNoun
+Lisbona	Lisbona	properNoun
+Virtudes	Vertus	properNoun
+Tahiri	Tahiri	properNoun
+Nercy	Nerveux	properNoun
+Lumbreras	Lumbreras	properNoun
+Famicom	Familier	properNoun
+Giovannetta	Giovannetta	properNoun
+Carim	Carim	properNoun
+Sorolla	Sorolla	properNoun
+Orbán	Orbán	properNoun
+Torrellas	Torrellas	properNoun
+Fagnan	Fagnan	properNoun
+Honorina	Honoraire	properNoun
+Galatas	Galatas	properNoun
+lipodystrophy	lipodystrophie	properNoun
+Uclés	UCLÉS	properNoun
+Médée	Médée	properNoun
+with time	avec le temps	properNoun
+Raja	Raja	properNoun
+Servando	Servande	properNoun
+Anders	Anders	properNoun
+Osmán	Osmán	properNoun
+Jovani	Jovani	properNoun
+Membrado	Membrado	properNoun
+for hours	Pendant des heures	properNoun
+diapirism	diaprisme	properNoun
+lymphosarcoma	lymphosarcome	properNoun
+Emely	À plein essor	properNoun
+Amarion	Amarion	properNoun
+atomise	atomiser	properNoun
+randomness	aléatoire	properNoun
+Yugoslavian	Yougoslave	properNoun
+in bad repair	en mauvaise réparation	properNoun
+damascene	damascène	properNoun
+Anette	Anette	properNoun
+Appiah	Appia	properNoun
+Matar	Matar	properNoun
+Ruzafa	Ruzafa	properNoun
+Feamma	Feamma	properNoun
+Whalen	Baleine	properNoun
+Terrades	Terrades	properNoun
+average	la moyenne	noun
+average	l' avarie	noun
+average	moyen	adjective
+average	faire la moyenne de	verb
+average	atteindre la moyenne de	verb
+average	prendre la moyenne	verb
+average	moyenne	None
+Cook	cuire	verb
+Cook	cuisiner	verb
+Cook	faire	verb
+Cook	faire la cuisine	verb
+Cook	truquer	verb
+Cook	falsifier	verb
+Cook	le cuisinier	noun
+Cook	la cuisine	noun
+Cook	Cuisinier	None
+Monterrey	Monterrey	properNoun
+Perdigón	Perdigón	properNoun
+Coso	Coso	properNoun
+poultry	la volaille	noun
+poultry	les volailles	noun
+poultry	la volaille	None
+Callau	Callau	properNoun
+Jeannette Amelie	Jeannette Amélie	properNoun
+dredger	le dragueur	noun
+dredger	le saupoudrage	noun
+dredger	dragueur	None
+preexisting	préexistant	properNoun
+dumortierite	donnortierite	properNoun
+Elyssa	Elysa	properNoun
+Marginet	Marge	properNoun
+Machiavellian	machiavélique	adjective
+Machiavellian	machiavélique	None
+speculum	le spéculum	noun
+speculum	le miroir	noun
+speculum	le réflecteur	noun
+speculum	spéculum	None
+sulfide	le sulfure	noun
+sulfide	sulfure	None
+Shostakovich	Shostakovich	properNoun
+epicardium	épicardum	properNoun
+Obon	Obon	properNoun
+Oliverio	Oliverio	properNoun
+Souchon	Soucheme	properNoun
+blend	le mélange	noun
+blend	la fusion	noun
+blend	l' alliance	noun
+blend	mélanger	verb
+blend	se mélanger	verb
+blend	incorporer	verb
+blend	mixer	verb
+blend	se mêler	verb
+blend	faire fusion	verb
+blend	mélange	None
+surreptitiously	subrepticement	adverb
+surreptitiously	clandestinement	adverb
+surreptitiously	furtivement	adverb
+surreptitiously	subrepticement	None
+Puebla	Puebla	properNoun
+consort	l' épouse	noun
+consort	l' époux	noun
+consort	camarade	noun
+consort	le petit ensemble	noun
+consort	épouse	None
+Barcia	Barcia	properNoun
+Bachiller	Bachiller	properNoun
+PAL	le copain	noun
+PAL	la copine	noun
+PAL	le mon vieux	noun
+PAL	COPAIN	None
+Cristiana	Cristiana	properNoun
+Volvo	Volvo	properNoun
+derby	le Derby	noun
+derby	Derby	None
+Fresia	Fresia	properNoun
+to all appearances	à toutes les apparitions	properNoun
+Mitjans	Mitjans	properNoun
+right from the cradle	juste du berceau	properNoun
+Gillies	Gibies	properNoun
+Carbonneau	Carbonneau	properNoun
+landless	sans terre	properNoun
+antibiosis	antibiomonose	properNoun
+trichosis	trichose	properNoun
+whither	où	adverb
+whither	où	None
+commensalism	commensalisme	properNoun
+Racine	Racine	properNoun
+hydrometeorology	hydrométéorologie	properNoun
+Borjas	Borjas	properNoun
+Devyn	Dévyn	properNoun
+peritonisation	peritonisation	properNoun
+Pablos	Pablos	properNoun
+rebrand	rébranier	properNoun
+Barrera	Barrera	properNoun
+woolly	laineux	adjective
+woolly	cotonneux	adjective
+woolly	confus	adjective
+woolly	verbeux	adjective
+woolly	écervelé	adjective
+woolly	laineux	None
+Somerset	Somerset	properNoun
+von Helmholtz	von helmholtz	properNoun
+Merlo	Merlo	properNoun
+Zulaica	Zulaica	properNoun
+Willmott	Willmott	properNoun
+Malka	Malka	properNoun
+Kazi	Kazi	properNoun
+externally	à l'extérieur	properNoun
+Vivekananda	Vivekananda	properNoun
+Hilde	Hilde	properNoun
+Hokkaido	Hokkaido	properNoun
+coccidiosis	coccidiose	properNoun
+in strictest confidence	Dans la confiance la plus stricte	properNoun
+Pronovost	Pronovost	properNoun
+Gonzalvo	Gonzalvo	properNoun
+Vásquez	Vásquez	properNoun
+Herrerías	Herrerías	properNoun
+linguagram	linguagramme	properNoun
+sports club	club de sport	properNoun
+in their day	dans leur journée	properNoun
+Alfi	Alfle	properNoun
+Torrijos	Torrijos	properNoun
+Aixa	Aixa	properNoun
+Tabarés	Tabaré	properNoun
+Eusebio	Eusebio	properNoun
+Lupien	Lupien	properNoun
+Nicodème	Nicodème	properNoun
+Hugas	Hugas	properNoun
+Valdivieso	Valdivieso	properNoun
+Casiana	Casier	properNoun
+Condorcet	Condorcet	properNoun
+Olinda	Olinda	properNoun
+Bernet	Bernet	properNoun
+bohemian	bohémien	adjective
+bohemian	le Bohémien	noun
+bohemian	bohémien	None
+Damisa	Damisa	properNoun
+Inigo	Inigo	properNoun
+by software and hardware means	par logiciel et matériel signifie	properNoun
+thirty-second	trente secondes	properNoun
+Pyotr	Pyotr	properNoun
+Launière	Launière	properNoun
+Gladu	Gladi	properNoun
+Bermudo	Bermudo	properNoun
+de la Flor	de la flor	properNoun
+Kenty	Kentin	properNoun
+carcinosis	carcinose	properNoun
+Abe	Abe	properNoun
+Guidi	Guidi	properNoun
+at her request	à sa demande	properNoun
+perfective	perfectif	adjective
+perfective	perfectif	None
+peculiarly	particulièrement	adverb
+peculiarly	étrangement	adverb
+peculiarly	bizarrement	adverb
+peculiarly	particulièrement	None
+Teixidor	Teixidor	properNoun
+Borrallo	Borrallo	properNoun
+Degaré	Degare	properNoun
+Agredano	Agredano	properNoun
+Albertina	Albertina	properNoun
+Daimler	Daimler	properNoun
+Perdiguero	Perdiguero	properNoun
+Ferdinanda	Ferdinanda	properNoun
+trophectoderm	triophectoderme	properNoun
+bookstore	la librairie	noun
+bookstore	librairie	None
+from the right	de la droite	properNoun
+Jordy	Jordy	properNoun
+Sartre	Sartre	properNoun
+overlearning	surnversion	properNoun
+André Boyer-Mas	André Boyer-mas	properNoun
+Arcos	Arcos	properNoun
+Kaye	Kaye	properNoun
+cyclosis	cyclose	properNoun
+Gimena	Gimena	properNoun
+novella	novella	properNoun
+Gourde	Gourde	properNoun
+nonalignment	le non-alignement	noun
+nonalignment	non alignement	None
+hydration	l' hydration	noun
+hydration	hydratation	None
+Suau	Suau	properNoun
+remoulding	remoding	properNoun
+Capitán	Capitán	properNoun
+airframe	cellule	properNoun
+Pandolfo	Pandolfo	properNoun
+Gustave	Goûter	properNoun
+Mattawa	Matetawa	properNoun
+Wojtyła	Wojtyła	properNoun
+Paulina	Paulina	properNoun
+Jurgi	Jurgi	properNoun
+night after night	nuit après nuit	properNoun
+Abby	Abby	properNoun
+propaedeutic	propadeautique	properNoun
+bilayer	bicouche	properNoun
+merrily	joyeusement	adverb
+merrily	joyeusement	None
+Lacueva	Lacueva	properNoun
+putative	putatif	adjective
+putative	putatif	None
+Forns	Fornds	properNoun
+this time last winter	cette fois l'hiver dernier	properNoun
+Sindulfo	Sindulfo	properNoun
+Lanuza	Lanuza	properNoun
+Cazalla	Cazalla	properNoun
+Sébastienne	Sébastienne	properNoun
+Torrecilla	Torrecilla	properNoun
+Lloreda	Llarta	properNoun
+peerage	la pairie	noun
+peerage	le nobiliaire	noun
+peerage	pairie	None
+Althot	Alcool	properNoun
+POW camp	Petit camp	properNoun
+Apolline	Apolline	properNoun
+Hendrik	Hendrik	properNoun
+Vilas	Vilas	properNoun
+Latreille	Latreille	properNoun
+Langa	Langa	properNoun
+Sisquella	Sisquella	properNoun
+Gaucher	Gaucher	properNoun
+Boulianne	Boulane	properNoun
+Stettin	Stettetin	properNoun
+on location	sur place	properNoun
+Maleah	Malheur	properNoun
+Newberry	Nouvelle	properNoun
+apoplast	apoplast	properNoun
+Donte	Donat	properNoun
+with the exception of	à l'exception de	properNoun
+forest	la forêt	noun
+forest	le forestier	noun
+forest	la multitude de mains	noun
+forest	garder le forêt	verb
+forest	forêt	None
+Tanner	le tanneur	noun
+Tanner	l' ancienne pièce six pence	noun
+Tanner	Tanneur	None
+Daura	Daura	properNoun
+Herrando	Herrando	properNoun
+reversal	le renversement	noun
+reversal	le revirement	noun
+reversal	l' interversion	noun
+reversal	l' arrêt d'annulation	noun
+reversal	renversement	None
+Cuadros	Cuadros	properNoun
+chondroclast	chondroclaste	properNoun
+Parkes	Parkées	properNoun
+demonstrably	manifestement	properNoun
+Ernie	Ernie	properNoun
+Aceline	Aceline	properNoun
+McCartney	Mccartney	properNoun
+unincorporated	non constitué	properNoun
+pontiff	le pontife	noun
+pontiff	le souverain	noun
+pontiff	pontife	None
+with suspicion	avec suspicion	properNoun
+Dicesare	Digue	properNoun
+hooligan	l' hooligan	noun
+hooligan	le voyou	noun
+hooligan	vandale	noun
+hooligan	hooligan	None
+transcontinental	transcontinental	adjective
+transcontinental	transcontinental	None
+meson	le méson	noun
+meson	méson	None
+chloramphenicol	chloramphénicol	properNoun
+Marcellette	Marcellette	properNoun
+Doroteo	Doroteo	properNoun
+dogmatically	dogmatiquement	adverb
+dogmatically	d'un ton autoritaire	adverb
+dogmatically	dogmatiquement	None
+Magno	Magno	properNoun
+Puccini	Puccini	properNoun
+Ronnie	Ronnie	properNoun
+Desrochers	Desrochers	properNoun
+flaccidity	la flaccidité	noun
+flaccidity	flaccidité	None
+funerary	funéraire	adjective
+funerary	funéraire	None
+Cecily	Ceciily	properNoun
+Soraya	Soraya	properNoun
+Nadya	Nadya	properNoun
+troublesome	gênant	adjective
+troublesome	difficile	adjective
+troublesome	pénible	adjective
+troublesome	ennuyeux	adjective
+troublesome	troublant	adjective
+troublesome	embarrassant	adjective
+troublesome	gênant	None
+Sisebuto	Sisebuto	properNoun
+Sanguesa	Sanguesa	properNoun
+eclogue	l' églogue	noun
+eclogue	églogue	None
+Mamerta	Mamerta	properNoun
+innervation	innervation	properNoun
+under separate cover	sous pli séparé	properNoun
+vitally	absolument	adverb
+vitally	d'une importance capitale	adverb
+vitally	absolument	None
+Camino	Camino	properNoun
+most of the winter	la plupart de l'hiver	properNoun
+at the slightless	à la légère	properNoun
+Lynn	Lynn	properNoun
+Cantón	Canton	properNoun
+storyline	scénario	properNoun
+Farran	Farfelu	properNoun
+Deysi	DEYSI	properNoun
+Pomeranian	poméranien	adjective
+Pomeranian	le loulou de poméranie	noun
+Pomeranian	poméranien	None
+CSMA/CD	CSMA / CD	properNoun
+Hyppolite	Hypocolite	properNoun
+ascorbic	ascorbique	properNoun
+Wittenberg	Wittenberg	properNoun
+Quintiliana	Quintiliana	properNoun
+Synnett	Synnett	properNoun
+moistener	humidifier	properNoun
+Rebeca	Rebeca	properNoun
+antitussive	antitussif	properNoun
+Davidson	Davidson	properNoun
+Laforce	Laforce	properNoun
+Presas	Présenta	properNoun
+Giguère	Giguère	properNoun
+Cho	Cho	properNoun
+Sarrias	Sarrias	properNoun
+Donatello	Donatello	properNoun
+Buisson	Buisson	properNoun
+Georges Duhamel	Georges Duhamel	properNoun
+Donatienne	Donatienne	properNoun
+Cancia	Cancia	properNoun
+de Lima	de Lima	properNoun
+Villar	Villar	properNoun
+Cornet	le cornet	noun
+Cornet	le cornet à pistons	noun
+Cornet	Cornet	None
+sixty-sixth	soixante-sixième	properNoun
+Raluy	Raluy	properNoun
+planosol	planosol	properNoun
+in working order	en état de marche	properNoun
+Piedra	Piedra	properNoun
+Matilda	Matille	properNoun
+Arcelia	Arcelia	properNoun
+Artur Mas i Gavarró	Artur Mas I Gavarró	properNoun
+Pancorbo	Pancorbo	properNoun
+magnification	le grossissement	noun
+magnification	l' amplification	noun
+magnification	la glorification	noun
+magnification	grossissement	None
+Wood	Bois	properNoun
+Borduas	Borduas	properNoun
+Dylan	Dylan	properNoun
+Fisch	Fisch	properNoun
+Pomerania	Poméranie	properNoun
+Launce	Laver	properNoun
+Pedneault	Pédréné	properNoun
+Hewlett-Packard	Hewlett-Packard	properNoun
+outward	pas sérieux	adjective
+outward	vers l'extérieure	adjective
+outward	vers l'extérieur	adverb
+outward	vers l'extérieur	None
+Moffat	Moffret	properNoun
+Barreira	Barreira	properNoun
+Sidney	Sidney	properNoun
+it is safe to say	C'est sûr de dire	properNoun
+Violet-le-Duc	Viollet-le-Duc	properNoun
+Ayax	Ayax	properNoun
+cauterise	cautériser	properNoun
+Champion	champion	adjective
+Champion	sans rival	adjective
+Champion	le champion	noun
+Champion	le combattant	noun
+Champion	défendre	verb
+Champion	se faire le champion	verb
+Champion	prendre fait et cause pour	verb
+Champion	Champion	None
+semitone	le demi-ton	noun
+semitone	demi-ton	None
+micron	le micron	noun
+micron	micron	None
+Nataly	Nataly	properNoun
+Mankiewicz	Mankiewicz	properNoun
+inconclusive	peu concluant	adjective
+inconclusive	sans résultat concluant	adjective
+inconclusive	peu concluant	None
+Astolfo	Astolfo	properNoun
+Super Nintendo Entertainment System	Système de divertissement Super Nintendo	properNoun
+Kyleigh	Kyleigh	properNoun
+Antero	Antero	properNoun
+multifunction	multifonction	properNoun
+ABC	l' abc	noun
+ABC	l' alphabet	noun
+ABC	alphabétique	adjective
+ABC	abc	None
+Carina	Carina	properNoun
+Florinda	Florinda	properNoun
+elephantiasis	l' éléphantiasis	noun
+elephantiasis	éléphantiasis	None
+Margry	Se marier	properNoun
+Stravinsky	Stravinsky	properNoun
+Orfilio	Orfilio	properNoun
+de Prado	de Prado	properNoun
+Hermione	Hermione	properNoun
+every once in a while	de temps en temps	adverb
+every once in a while	de temps à autre	adverb
+every once in a while	de temps en temps	None
+Baez	Baez	properNoun
+Wong	Wong	properNoun
+BeOS	Beos	properNoun
+Subirats	Subirats	properNoun
+Nadarajah	Nadarajah	properNoun
+Mas i Ros	Mas i ros	properNoun
+Lirio	Lirio	properNoun
+Mineault	Ministre	properNoun
+Herzog	Herzog	properNoun
+Rolande	Rolande	properNoun
+Alamillo	Alamillo	properNoun
+partner	partenaire	noun
+partner	l' associé	noun
+partner	l' époux	noun
+partner	camarade	noun
+partner	l' épouse	noun
+partner	être en association	verb
+partner	s'associer avec	verb
+partner	partenaire	None
+on our account	sur notre compte	properNoun
+Sabbah	Sabbah	properNoun
+Soulard	Selle	properNoun
+Matta	Matta	properNoun
+Onieva	Onieva	properNoun
+McPherson	McPherson	properNoun
+Balcells	Balcells	properNoun
+Hammond	Hammonde	properNoun
+Collell	Collier	properNoun
+honorably	honorablement	properNoun
+Boilard	Chauard	properNoun
+Rams	Bélier	properNoun
+leptospirosis	leptospirose	properNoun
+of little moment	de petit moment	properNoun
+oppressive	oppressif	adjective
+oppressive	oppressant	adjective
+oppressive	tyrannique	adjective
+oppressive	accablant	adjective
+oppressive	lourd	adjective
+oppressive	étouffant	adjective
+oppressive	oppressif	None
+Aymeric	Aymérique	properNoun
+subcontinent	le sous-continent	noun
+subcontinent	sous-continent	None
+Lareau	Larseau	properNoun
+Suriñach	Suriñach	properNoun
+aluminise	aluminer	properNoun
+Lapointe	Lapointe	properNoun
+Rondón	Rondón	properNoun
+Trejo	Trejo	properNoun
+Danish	danois	adjective
+Danish	le danois	noun
+Danish	le Danois	noun
+Danish	Danois	None
+Laframboise	Laframboise	properNoun
+Raysa	Rayons	properNoun
+recessive	récessif	adjective
+recessive	rétrograde	adjective
+recessive	récessif	None
+Lienhard	Lienhard	properNoun
+announcer	l' annonceur	noun
+announcer	le speaker	noun
+announcer	le présentateur	noun
+announcer	annonceur	None
+UNESCO	UNESCO	properNoun
+Monty	Monty	properNoun
+Gurí	Gurí	properNoun
+absorbent	absorbant	adjective
+absorbent	l' absorbant	noun
+absorbent	absorbant	None
+endpoint	point de terminaison	properNoun
+Guaman	Guaman	properNoun
+cheluviation	chéluviation	properNoun
+Cai	CAI	properNoun
+Cortese	Corèse	properNoun
+Ruperta	Ruperta	properNoun
+teleprocessing	télétraitement	properNoun
+justificationism	justification	properNoun
+Salvina	Salvina	properNoun
+with a heavy hand	avec une main lourde	properNoun
+Mexican–American	Mexicain américain	properNoun
+Vallbona	Vallbona	properNoun
+across the street	à travers la rue	properNoun
+Longstreet	Longstreet	properNoun
+contemptuously	avec mépris	adverb
+contemptuously	dédaigneusement	adverb
+contemptuously	avec mépris	None
+by leaps and bounds	par sauts et bonds	properNoun
+Triquell	Triple	properNoun
+exacting	exigeant	adjective
+exacting	strict	adjective
+exacting	exigeant	None
+botulism	le botulisme	noun
+botulism	botulisme	None
+Lebeau	Lebeau	properNoun
+Timmons	Timmons	properNoun
+tigrolysis	tagolyse	properNoun
+Treyton	Treyton	properNoun
+polyaddition	polyaddition	properNoun
+Dickinson	Dickinson	properNoun
+Gisèle	Gisèle	properNoun
+Balan	Balan	properNoun
+Johnnie	Johnnie	properNoun
+Milford	Milford	properNoun
+Pomar	Pomar	properNoun
+singularly	singulièrement	properNoun
+oculistics	oculargie	properNoun
+Monzerolle	Monzerolle	properNoun
+St-Marseille	St-marseille	properNoun
+Presseault	Presse	properNoun
+Eddington	Eddington	properNoun
+Zheng Jie	Zheng Jie	properNoun
+decryption	déchiffrement	properNoun
+Malboeuf	Malboeuf	properNoun
+Hérault	Hérault	properNoun
+Mahoney	Mahoney	properNoun
+Juan Alberto Andreu	Juan Alberto Andreu	properNoun
+Lita	Lita	properNoun
+Chapdelaine	Chapdelaine	properNoun
+drawnback	l' inconvénient	noun
+drawnback	le désavantage	noun
+drawnback	l' entrave	noun
+drawnback	inconvénient	None
+Melisent	Mélisent	properNoun
+Ticiano	Tocile	properNoun
+Cartesian	cartésien	adjective
+Cartesian	Cartésien	None
+envision	envisager	properNoun
+quite well	plutôt bien	properNoun
+four-engined	quatre moteurs	properNoun
+Belarmina	Barmina	properNoun
+synectics	synchton	properNoun
+Blier	Bliant	properNoun
+stably	de manière stable	properNoun
+Horatio	Horatio	properNoun
+Dolbec	Dolbec	properNoun
+Azor	Azor	properNoun
+amnion	amnion	properNoun
+Leonilda	Leonilda	properNoun
+Northumbrian	Northumbrian	properNoun
+Cañamero	Cañamero	properNoun
+comprehension	la compréhension	noun
+comprehension	compréhension	None
+Prémont	Prémont	properNoun
+Prémont	Prémont	properNoun
+word processor	machine de traitement de texte	noun
+word processor	traitement de texte	None
+Carlotta	Carlotta	properNoun
+Warde	Garder	properNoun
+indeterminism	indéterminé	properNoun
+after dark	la nuit tombée	properNoun
+Lopes	Lopes	properNoun
+Sangrá	Sangrá	properNoun
+Guillem Mas	Guillem mas	properNoun
+Plaisance	Bavardage	properNoun
+Amauri	Amauri	properNoun
+Ouzilleau	Ouzilleau	properNoun
+carcinogenic	cancérogène	properNoun
+Reynard	Reynard	properNoun
+Solita	Solita	properNoun
+Arcouette	Arcouette	properNoun
+imprecisely	imprégneusement	properNoun
+archaeologically	archéologiquement	properNoun
+saturator	saturation	properNoun
+eluent	éluant	properNoun
+Cornelio	Cornelio	properNoun
+soiree	la soirée	noun
+soiree	soirée	None
+striction	répression	properNoun
+Subirós	Subirós	properNoun
+colloquially	colloquiblement	properNoun
+start anew	Recommencer à nouveau	properNoun
+Pedragosa	Pedragosa	properNoun
+inductive	inductif	adjective
+inductive	inducteur	adjective
+inductive	inductif	None
+Song	la chanson	noun
+Song	le chant	noun
+Song	le ramage	noun
+Song	las petite somme	noun
+Song	les prix bas	noun
+Song	Chanson	None
+Idette	Oiseau	properNoun
+Cissé	Cissé	properNoun
+Trulls	Cruche	properNoun
+thermogram	thermogramme	properNoun
+Bujaldón	Bujaldón	properNoun
+psephite	pesphite	properNoun
+Marissa	Marissa	properNoun
+Rubin	insister sur	verb
+Rubin	faire pénétrer en frottant	verb
+Rubin	Insister sur	None
+quite a lot of	beaucoup de	properNoun
+Arcusa	Arcusa	properNoun
+Kraftwerk	Kraftwerk	properNoun
+themed	thématique	properNoun
+in the ordinary way	de manière ordinaire	properNoun
+phototube	phototube	properNoun
+Alaor	Alaor	properNoun
+Villon	Villon	properNoun
+on your part	de votre part	properNoun
+Castilloux	Castilloux	properNoun
+astrometry	astrométrie	properNoun
+Casimiro	Casimiro	properNoun
+Finney	Financière	properNoun
+Pentecostal	Pentecôte	properNoun
+AutoCAD	AutoCAD	properNoun
+Meya	MEYA	properNoun
+intuitionistic	intuitionniste	properNoun
+gabion	gabion	properNoun
+Torrell	Torrell	properNoun
+Deslongchamps	Deslongchamps	properNoun
+Nevel	Nevère	properNoun
+cutting	la coupe	noun
+cutting	le découpage	noun
+cutting	la récolte	noun
+cutting	le coupon	noun
+cutting	la greffe	noun
+cutting	la marcotte	noun
+cutting	la coupure de journal	noun
+cutting	le partage	noun
+cutting	coupant	adjective
+cutting	tranchant	adjective
+cutting	incisive	adjective
+cutting	mordant	adjective
+cutting	cinglant	adjective
+cutting	piquant	adjective
+cutting	comique	adjective
+cutting	Coupe	None
+endways	fidélité	properNoun
+dichroite	dichroïde	properNoun
+Bruyère	Bruyère	properNoun
+docking station	station d'accueil	properNoun
+Torossian	Torose	properNoun
+phagotype	phagotype	properNoun
+Vandelac	Vandelac	properNoun
+Mohamed ElBaradei	Mohamed elbaradei	properNoun
+Herruzo	Herruzo	properNoun
+Jaren	Jaren	properNoun
+precipitant	le précipitant	noun
+precipitant	précipitant	None
+Samoan	Samoan	properNoun
+onomasiology	onomasiologie	properNoun
+Mendez	Mendez	properNoun
+Seijo	Seijo	properNoun
+Melisende	Mélisende	properNoun
+Trystan	Trystan	properNoun
+Huenú	Huenú	properNoun
+Okinawa	Okinawa	properNoun
+Hogwarts	Poudlard	properNoun
+Cabra	Cabra	properNoun
+Gamarra	Gamarra	properNoun
+Dönitz	Dönitz	properNoun
+Escalé	Escalé	properNoun
+ninety-second	quatre-vingt-dix-deuxième	properNoun
+Rica	Rica	properNoun
+opportunistically	opportuniste	properNoun
+for rent	a louer	properNoun
+rabbinic	rabbinique	adjective
+rabbinic	rabbinique	None
+Artiga	Artiga	properNoun
+Dalcourt	Dalcourt	properNoun
+leakproof	étanches	properNoun
+Donofrio	Donofrio	properNoun
+Umfredo	Umfredo	properNoun
+merchandise balance	équilibre de marchandises	properNoun
+Odo	Odo	properNoun
+Vanhoutte	Vanhoutte	properNoun
+Duquette	Duquette	properNoun
+peristerite	périsiste	properNoun
+Santo	Santo	properNoun
+Duperron	Duperron	properNoun
+comparably	comparativement	properNoun
+Bréard	Bréard	properNoun
+ethylendiamine	éthylènediamine	properNoun
+oxychlorination	oxychloration	properNoun
+Labillois	Labillois	properNoun
+disestablishment	désactivation	properNoun
+towards midnight	vers minuit	properNoun
+Dorais	Dorais	properNoun
+trusteeship	la curatelle	noun
+trusteeship	le fidéicommis	noun
+trusteeship	le poste d'administrateur	noun
+trusteeship	curatelle	None
+Echalook	Echalook	properNoun
+by rote	machinalement	adverb
+by rote	sans essayer de comprendre	adverb
+by rote	par mauvaise façon	adverb
+by rote	comme perroquet	adverb
+by rote	machinalement	None
+Tunkara	Tunkara	properNoun
+Francesc Xavier	Francesc Xavier	properNoun
+Roche	Roche	properNoun
+Cabases	Cabas	properNoun
+Orejuela	Orejuela	properNoun
+Asin	Un péché	properNoun
+Watkins	Watkins	properNoun
+Estrada	Estrada	properNoun
+Fréreault	Fréreault	properNoun
+Molne	Molne	properNoun
+Enedín	Énorme	properNoun
+Asher	Asphérique	properNoun
+Canes	Cannes	properNoun
+Antoun	Andoun	properNoun
+infertile	infertile	adjective
+infertile	stérile	adjective
+infertile	infécond	adjective
+infertile	infertile	None
+Nerina	Nerina	properNoun
+Esteba	Esteba	properNoun
+Bethlehem	Bethléem	properNoun
+Dansereau	Dansereau	properNoun
+legislatively	législatif	properNoun
+Melgosa	Melgosa	properNoun
+Diocletian	Diocole	properNoun
+Córdova	Córdova	properNoun
+kinetosis	cinétose	properNoun
+Tilde	Tilde	properNoun
+anamnesis	l' anamnèse	noun
+anamnesis	anamnèse	None
+aliquot	l' aliquote	noun
+aliquot	aliquante	adjective
+aliquot	aliquote	None
+to save space	Pour économiser de l'espace	properNoun
+Xia	XIA	properNoun
+Kyler	Kyler	properNoun
+Luna	Luna	properNoun
+fight tooth and nail	las lutte acharnée	noun
+fight tooth and nail	Combattez la dent et le clou	None
+Chaloux	Chaloux	properNoun
+Berrio	Berrio	properNoun
+resilient	résilient	adjective
+resilient	élastique	adjective
+resilient	résilient	None
+eighty-sixth	quatre-vingt-sixième	properNoun
+engineer	l' ingénieur	noun
+engineer	machiner	verb
+engineer	manigancer	verb
+engineer	ingénieur	None
+benzylcellulose	benzylcellulose	properNoun
+Salter	le saleur	noun
+Salter	le salinier	noun
+Salter	Saleur	None
+lipomatosis	lipomatose	properNoun
+archbishopric	archevêché	adjective
+archbishopric	archevêché	None
+circular	circulaire	adjective
+circular	rond	adjective
+circular	la circulaire	noun
+circular	le memo	noun
+circular	circulaire	None
+Irving	Irving	properNoun
+Windows 8	Windows 8	properNoun
+Lasalle	La salle	properNoun
+Deshaies	Deshaies	properNoun
+dystopian	dystopique	properNoun
+Bolta	Bolta	properNoun
+Karol	Karol	properNoun
+Xifra	Xifra	properNoun
+Floro	Floro	properNoun
+Depeault	Dépendance	properNoun
+Mallozzi	Mallozzi	properNoun
+Estrabón	Estrabón	properNoun
+McLeod	Mcleod	properNoun
+Sansregret	Sansregret	properNoun
+Desirae	Desirae	properNoun
+causation	causalité	properNoun
+Plant	la plante	noun
+Plant	l' usine	noun
+Plant	l' installation	noun
+Plant	la fabrique	noun
+Plant	le matériel	noun
+Plant	le bâtiments et matériel	noun
+Plant	les coup monté	noun
+Plant	planter	verb
+Plant	installer	verb
+Plant	établir	verb
+Plant	camper	verb
+Plant	infiltrer	verb
+Plant	Plante	None
+counterclockwise	dans le sens antihoraire	properNoun
+Chrétien	Chrétien	properNoun
+Werzberger	Werzberger	properNoun
+clouded	brouiller	verb
+clouded	troubler	verb
+clouded	se couvrir	verb
+clouded	être sous soupçon	verb
+clouded	se barbouiller	verb
+clouded	faire brouiller	verb
+clouded	nuageux	None
+Piłsudski	Piłsudski	properNoun
+to a certain degree	jusqu'à un certain point	properNoun
+separability	séparabilité	properNoun
+Ermindo	Ermindo	properNoun
+Yedythe	Yedythe	properNoun
+Ponsati	Ponsati	properNoun
+Cedric	Cédric	properNoun
+Matheson	Matheson	properNoun
+Pergamon	Pergamon	properNoun
+Soviet Union	Union soviétique	properNoun
+embourgeoisement	embourgeement	properNoun
+Lazaris	Lazaris	properNoun
+Sebastiano	Sebastiano	properNoun
+Montal	Montal	properNoun
+Zermelo	Zermelo	properNoun
+on its own invoice	sur sa propre facture	properNoun
+Girouard	Girouard	properNoun
+Wall	le mur	noun
+Wall	la paroi	noun
+Wall	la muraille	noun
+Wall	la clôture	noun
+Wall	la faillite	noun
+Wall	la défaite	noun
+Wall	mural	adjective
+Wall	murer	verb
+Wall	construire un mur autour	verb
+Wall	séparer par un mur	verb
+Wall	entourer d'un mur	verb
+Wall	mur	None
+Boulerice	Bouloterie	properNoun
+Samuels	Samuels	properNoun
+Melich	Melich	properNoun
+Panisello	Panisello	properNoun
+El Aissaoui	El Aissaoui	properNoun
+Amush	Amush	properNoun
+Iñes	Iñes	properNoun
+Robidoux	Robidoux	properNoun
+Nagorno-Karabakh	Nagorno-Karabakh	properNoun
+Almando	Almando	properNoun
+prairie	la prairie	noun
+prairie	la plaine	noun
+prairie	prairie	None
+Parella	Parella	properNoun
+Piaget	Piéget	properNoun
+Mahometan	Mahométan	properNoun
+Alameddine	Alameddine	properNoun
+April	avril	noun
+April	avril	None
+software engineer	ingénieur logiciel	properNoun
+Madero	Madero	properNoun
+formant	formant	properNoun
+PlayStation Vita	PlayStation Vita	properNoun
+GHG	Gonflement	properNoun
+Willelm	Willelmm	properNoun
+Bleau	Blâme	properNoun
+Nuevo	Nuevo	properNoun
+Sanschagrin	Sanschagrin	properNoun
+Élémond	Élémond	properNoun
+Destounis	Destin	properNoun
+plenipotentiary	plénipotentiaire	adjective
+plenipotentiary	le plénipotentiaire	noun
+plenipotentiary	l' ambassadeur plénipotentiaire	noun
+plenipotentiary	plénipotentiaire	None
+Denzel	Denzel	properNoun
+Alcaide	Alcaide	properNoun
+Frantzisko	Frantzisko	properNoun
+Romanesque	le roman	noun
+Romanesque	roman	None
+Guerrera	Guerrera	properNoun
+Udalrico	Udalrico	properNoun
+Bascompte	Basppte	properNoun
+directorial	réalisateur	properNoun
+Micaías	Micaías	properNoun
+audiometer	l' audiomètre	noun
+audiometer	audiomètre	None
+Fariñas	Fariñas	properNoun
+Sephardic	Sépulsif	properNoun
+hyponymy	hyponymie	properNoun
+dispatch	l' expédition	noun
+dispatch	l' envoi	noun
+dispatch	la promptitude	noun
+dispatch	le télégramme	noun
+dispatch	l' exécution	noun
+dispatch	la pendaison	noun
+dispatch	expédier	verb
+dispatch	dépêcher	verb
+dispatch	envoyer	verb
+dispatch	abattre	verb
+dispatch	déléguer	verb
+dispatch	envoyer des forces	verb
+dispatch	envoi	None
+Chimeno	Chimeno	properNoun
+Bridgetown	Bridgetown	properNoun
+Grégoire	Grégoire	properNoun
+with a bang	avec un bang	properNoun
+neurotic	névrosé	adjective
+neurotic	névrosé	None
+Stoica	Stoica	properNoun
+parthenocarpy	parthénocarpy	properNoun
+Laplacian	Laplacien	properNoun
+flash	le flash	noun
+flash	l' éclat	noun
+flash	le clin	noun
+flash	l' éclatement	noun
+flash	la dépêche	noun
+flash	le sourire	noun
+flash	le petit doué	noun
+flash	le flash d'information	noun
+flash	clignoter	verb
+flash	briller	verb
+flash	étinceler	verb
+flash	fulgurer	verb
+flash	éclat	None
+replenishment	réapprovisionnement	properNoun
+finite state machine	machine d'état fini	properNoun
+mediastinum	médiastin	properNoun
+Benamina	Bénamina	properNoun
+aerobiosis	aérobiose	properNoun
+Ilena	Ilena	properNoun
+convertible share	part convertible	properNoun
+Suyai	Suyai	properNoun
+clavecin	le clavecin	noun
+clavecin	clavecin	None
+Azrael	Azrael	properNoun
+VisiCalc	Visicalc	properNoun
+Dermidio	Dermidio	properNoun
+upon request	à la demande	adverb
+upon request	sur simple demande	adverb
+upon request	sur la demande	adverb
+upon request	à la demande	None
+grandeur	la grandeur	noun
+grandeur	la majesté	noun
+grandeur	la noblesse	noun
+grandeur	la magnificence	noun
+grandeur	le caractère grandiose	noun
+grandeur	grandeur	None
+debunch	débride	properNoun
+Talarico	Talarrico	properNoun
+Pettigrew	Pettigrew	properNoun
+ascendent	ascendant	properNoun
+Deferre	Differser	properNoun
+Autumn	l' automne	noun
+Autumn	d'automne	adjective
+Autumn	L'automne	None
+Ennis	Ennis	properNoun
+Gallia	Gallia	properNoun
+Brouillard	Brouillard	properNoun
+forty-fourth	quarante-quatrième	properNoun
+Pelegrino	Pelote	properNoun
+Chakapash	Chakapash	properNoun
+promyelocyte	promyélocyte	properNoun
+professorship	la chaire	noun
+professorship	chaire	None
+Corona	la couronne	noun
+Corona	Couronne	None
+Deborah	Déborah	properNoun
+nontrivial	non provisoire	properNoun
+Pocurull	Pocurull	properNoun
+Peterson	Peterson	properNoun
+cutoff	la coupure	noun
+cutoff	isolé	adjective
+cutoff	couper	None
+Lalia	Lentalité	properNoun
+zeppelin	le zeppelin	noun
+zeppelin	Zeppelin	None
+Yee	Ye	properNoun
+security force	force de sécurité	properNoun
+fulminate	fulminer	verb
+fulminate	dénoncer	verb
+fulminate	le fulminante de mercure	noun
+fulminate	fulminer	None
+Helda	Tenue	properNoun
+Rioux	Rioux	properNoun
+antipope	anticipope	properNoun
+Pradell	Pradell	properNoun
+Brie	le Brie	noun
+Brie	Brie	None
+Labeaume	Labeaume	properNoun
+Gené	le gène	noun
+Gené	Gène	None
+PM	Pm	properNoun
+Smyth	Smyth	properNoun
+Matte	mat	adjective
+Matte	Mat	None
+Florenciano	Florenciano	properNoun
+Kelsi	Kelsi	properNoun
+cryoglobulin	cryoglobuline	properNoun
+broncholithiasis	broncholithiase	properNoun
+Morgause	Morgause	properNoun
+Regadera	Regadera	properNoun
+meter	le mètre	noun
+meter	le compteur	noun
+meter	la mesure	noun
+meter	le mesureur	noun
+meter	le parcmètre	noun
+meter	mètre	None
+Civil	Civil	properNoun
+rebuttal	la réfutation	noun
+rebuttal	réfutation	None
+Makenna	Makenna	properNoun
+Vulpiano	Vulpiano	properNoun
+Bardolet	Bardolet	properNoun
+fake news	fausse nouvelle	properNoun
+Amauger	Amauge	properNoun
+operationism	opérationnisme	properNoun
+Kingston	Kingston	properNoun
+in between	entre	preposition
+in between	entre	None
+Kistabish	Kistabish	properNoun
+eggcup	coquetier	properNoun
+Medardo	Medardo	properNoun
+patrilineality	patrilinéalité	properNoun
+Bufi	Bufi	properNoun
+Cubero	Cubero	properNoun
+Wady	Érable	properNoun
+Kouma	Kouma	properNoun
+nucleation	nucléation	properNoun
+Armani	Armani	properNoun
+Carrizo	Carrizo	properNoun
+Courtenay	Courtenay	properNoun
+Tivoli	Tivoli	properNoun
+Baterich	Baterich	properNoun
+Almazán	Almazán	properNoun
+Younes	Younes	properNoun
+Alio	Alio	properNoun
+most of the spring	la plupart du printemps	properNoun
+Fouché	Fusionné	properNoun
+Arón	Arón	properNoun
+Latinist	Latiniste	properNoun
+de Bakker	de Bakker	properNoun
+non-university	non-universitaire	properNoun
+Berengar	Berengar	properNoun
+excitedly	avec enthousiasme	properNoun
+Baldé	Baldé	properNoun
+Reda	Reda	properNoun
+Novell	Novell	properNoun
+Holbein	Holbéin	properNoun
+Raquepas	Raquepas	properNoun
+Landelina	Landelina	properNoun
+either all or nothing	soit tout ou rien	properNoun
+Rawlings	Rawlings	properNoun
+Holt	Hold	properNoun
+substantivisation	substimation	properNoun
+Alegret	Aliment	properNoun
+Frankenheimer	Frankenheimer	properNoun
+Duplicati	Duplicati	properNoun
+trustee	le curateur	noun
+trustee	l' administrateur	noun
+trustee	dépositaire	noun
+trustee	le fidéicommissaire	noun
+trustee	le conseil d'administration	noun
+trustee	croire	verb
+trustee	confier à	verb
+trustee	compter sur	verb
+trustee	être curateur	verb
+trustee	curateur	None
+inequation	inégalité	properNoun
+Carlie	Carlie	properNoun
+Morency	Morencement	properNoun
+to the south-east	au sud-est	properNoun
+Delaronde	Delaronde	properNoun
+mercilessly	sans pitié	properNoun
+Tintin	Tintin	properNoun
+blinking	clignotant	adjective
+blinking	sacré	adjective
+blinking	le clignement	noun
+blinking	le papillotage	noun
+blinking	le vacillement	noun
+blinking	clignotant	None
+Sumalla	Sumalla	properNoun
+Hugo Grau	Hugo Grau	properNoun
+Rayen	Rayen	properNoun
+nimbus	les nimbus	noun
+nimbus	le nimbe	noun
+nimbus	nimbus	None
+Zuleica	Zuleica	properNoun
+Edilnerto	Edilnerto	properNoun
+Edmondo	Edmodo	properNoun
+copyright	le droit d'auteur	noun
+copyright	droits d'auteur	None
+San Nicolas	San Nicolas	properNoun
+rabbinical	rabbinique	adjective
+rabbinical	rabbinique	None
+Mumbru	Maman	properNoun
+Viciana	Viciana	properNoun
+Morabito	Morabito	properNoun
+Canova	Canova	properNoun
+Crossley	Crasse	properNoun
+algebraist	algébriste	noun
+algebraist	algébriste	None
+at noon	à midi	properNoun
+Agnant	Agnant	properNoun
+Schoenberg	Schoenberg	properNoun
+Tommaso	Tommaso	properNoun
+Litalien	Litalien	properNoun
+Berge	Berge	properNoun
+Pyrrhus	les Pyrrhus	noun
+Pyrrhus	Pyrrhus	None
+for weeks on end	pendant des semaines à la fin	properNoun
+Desloges	Desloges	properNoun
+Turkic	Turc	properNoun
+Sigrid	Sigrid	properNoun
+Edmonda	Edmonda	properNoun
+Bover	Bêcheur	properNoun
+at close range	à proximité	properNoun
+concessionary	concessionnaire	properNoun
+plasmocytosis	plasmacytose	properNoun
+Cyr	Cyr	properNoun
+better	améliorer	verb
+better	dépasser	verb
+better	mieux	adverb
+better	meilleur	adjective
+better	le meilleur	noun
+better	le parieur	noun
+better	turfiste	noun
+better	mieux	None
+beyond measure	dépassant les mesures	adjective
+beyond measure	au delà de la mesure	None
+Alan García Pérez	Alan García Pérez	properNoun
+Zahira	Zahira	properNoun
+cash balance	l' encaisse	noun
+cash balance	solde de trésorerie	None
+Hijazi	Hijazi	properNoun
+dictyokinesis	dictyokinesis	properNoun
+Agatón	Agatón	properNoun
+Bensimon	Bensimon	properNoun
+Vítor Manuel da Silva Caldeira	Vítor Manuel da Silva Caldeira	properNoun
+trim	réduire	verb
+trim	tailler	verb
+trim	rogner	verb
+trim	équilibrer	verb
+trim	garnir	verb
+trim	égaliser	verb
+trim	émonder	verb
+trim	orner	verb
+trim	la bordure	noun
+trim	l' équilibre	noun
+trim	les moulures	noun
+trim	le garnissage	noun
+trim	garniture	None
+by turns	à tour de rôle	properNoun
+Garfunkel	Garfunkel	properNoun
+Fireman	le pompier	noun
+Fireman	le sapeur-pompier	noun
+Fireman	Pompier	None
+prefrontal	préfrontal	properNoun
+Munté	Muntou	properNoun
+Karly	Karly	properNoun
+kymography	kymographie	properNoun
+craft	l' artisanat	noun
+craft	le métier	noun
+craft	l' art	noun
+craft	l' avion	noun
+craft	la ruse	noun
+craft	la profession	noun
+craft	l' astuce	noun
+craft	le petit bateau	noun
+craft	artisanat	None
+Gousse	Gousse	properNoun
+Elise	Éliser	properNoun
+in the middle of the afternoon	Au milieu de l'après-midi	properNoun
+Ademar	Ademar	properNoun
+Cabeza	Cabeza	properNoun
+Cheraí	Cheraí	properNoun
+Vachon	Vachon	properNoun
+Gianlucas	Gianlucas	properNoun
+Serrato	Serrato	properNoun
+Zoey	Zoey	properNoun
+chelone	chélone	properNoun
+Tapp	Tapp	properNoun
+Zimmer	le déambulateur	noun
+Zimmer	Zimmer	None
+Guitard	Guitage	properNoun
+Cohn	Cohn	properNoun
+Gavyn	GAVYN	properNoun
+perithelium	périthélium	properNoun
+Juvencio	Juvencio	properNoun
+Kaylee	Kaylee	properNoun
+Curadeau	Curadeau	properNoun
+Andreo	Andreo	properNoun
+Philibert	Philibert	properNoun
+McGovern	Mcgovern	properNoun
+Funafuti	Funafuti	properNoun
+Danés	Danés	properNoun
+Forest	la forêt	noun
+Forest	le forestier	noun
+Forest	la multitude de mains	noun
+Forest	garder le forêt	verb
+Forest	forêt	None
+Rébecca	Réparbecca	properNoun
+stanchion	le montant	noun
+stanchion	l' étançon	noun
+stanchion	étançonner	verb
+stanchion	soutenir	verb
+stanchion	montant	None
+Gervasia	Gervase	properNoun
+Adalina	Adalina	properNoun
+audiofrequency	l' audiofréquence	noun
+audiofrequency	audiofréquence	None
+thesaurosis	le thésaurus	noun
+thesaurosis	le dictionnaire	noun
+thesaurosis	le trésor	noun
+thesaurosis	le lexique	noun
+thesaurosis	le dictionnaire synonymique	noun
+thesaurosis	thésaurus	None
+Remedios	Remisedios	properNoun
+back to square one	retour à la case départ	properNoun
+thirteenth	treizième	adjective
+thirteenth	thirteenth	treizième
+thirteenth	treizième	None
+package	emballer	verb
+package	le paquet	noun
+package	les colis	noun
+package	le progiciel	noun
+package	l' ensemble de mesures	noun
+package	las série de mesures	noun
+package	le ballot	noun
+package	le contrat global	noun
+package	l' achat forfaitaire	noun
+package	paquet	None
+Bayerri	Bayerri	properNoun
+Jordán	la Jordanie	noun
+Jordán	Jordan	None
+palatoplasty	palatoplastie	properNoun
+from ancient times	des temps anciens	properNoun
+Parrot	le perroquet	noun
+Parrot	la perruche	noun
+Parrot	répéter comme un perroquet	verb
+Parrot	imiter	verb
+Parrot	Perroquet	None
+Candice	Candi	properNoun
+Corella	Corella	properNoun
+heavenwards	ciel	properNoun
+Joan Mas i Bauzà	Joan Mas I Bauzà	properNoun
+Alcibiades	Alcibiades	properNoun
+Dresden	la porcelaine de Saxe	noun
+Dresden	Dresden	None
+Roby	Ravi	properNoun
+in reserve	en réserve	properNoun
+diminutive	le diminutif	noun
+diminutive	le petit	noun
+diminutive	la minuscule	noun
+diminutive	le tout petit	noun
+diminutive	minuscule	adjective
+diminutive	diminutif	None
+Malatesta	Malatesta	properNoun
+Truchon	Truchon	properNoun
+Boulton	Boulton	properNoun
+Boivin	Boivin	properNoun
+Efrigenio	Efrigenio	properNoun
+Bexamia	Bexamie	properNoun
+precondition	la condition préalable	noun
+precondition	conditionner	verb
+precondition	condition préalable	None
+Cosentino	Cosentino	properNoun
+purgative	purgatif	adjective
+purgative	purgatif	None
+Stephenson	Stephenson	properNoun
+up for sale	mise en vente	properNoun
+Deserée	Deserée	properNoun
+Linhares	Linhares	properNoun
+apart from the fact that	excepté que	preposition
+apart from the fact that	si ce n'est que	preposition
+apart from the fact that	excepté que	None
+Wabanonik	Wabanonik	properNoun
+Virginio	Virginie	properNoun
+bonus share	partage de bonus	properNoun
+Grifoll	Grimper	properNoun
+on duty	de garde	adverb
+on duty	de service	adverb
+on duty	en éveil	adverb
+on duty	en service	None
+just as often	aussi souvent	properNoun
+Priscila	Priscila	properNoun
+Xu	Xu	properNoun
+covalently	de covérité	properNoun
+Sidanelia	Sidanelia	properNoun
+Gourdet	Gourdet	properNoun
+Monedero	Monédero	properNoun
+Poole	Poole	properNoun
+Trenado	Trenado	properNoun
+Bayés	Bayés	properNoun
+Punsolá	Punsolá	properNoun
+megakaryoblast	mégacaryoblast	properNoun
+Villen	Vilan	properNoun
+cheviot	le cheviot	noun
+cheviot	cheviot	None
+Pujals	Pujals	properNoun
+lip gloss	brillant à lèvres	properNoun
+Montminy	Montminy	properNoun
+quantisation	quantification	properNoun
+Hurtubise	Blesser	properNoun
+Atahualpa	Atahualpa	properNoun
+osteophyte	ostéophyte	properNoun
+Ninna	Ninna	properNoun
+tequila	le tequila	noun
+tequila	Tequila	None
+lumber	le bois de charpente	noun
+lumber	le débitage de bois	noun
+lumber	le bric-à-brac	noun
+lumber	encombrer	verb
+lumber	marcher pesamment	verb
+lumber	entasser	verb
+lumber	bûcheron	None
+Xenos	Xenos	properNoun
+well	bien	adverb
+well	très bien	adverb
+well	tout à fait	adverb
+well	par exemple	adverb
+well	le puits	noun
+well	la source	noun
+well	la cage	noun
+well	la cheminée	noun
+well	le barreau	noun
+well	bon	adjective
+well	couler	verb
+well	bien	None
+Bélisle	Bélisle	properNoun
+not quite	pas assez	properNoun
+ethylene	l' éthylène	noun
+ethylene	éthylène	None
+aponeurosis	aponévrose	properNoun
+Diep	Die	properNoun
+Callum	Callum	properNoun
+symptomatic	symptomatique	adjective
+symptomatic	symptomatique	None
+fideicommissary	fideicommissia	properNoun
+Maximinio	Maximinio	properNoun
+Sulpicia	Sulpicia	properNoun
+Correas	CORREAS	properNoun
+polarisability	polarisation	properNoun
+Ghanem	Ghanem	properNoun
+Maltena	Maltena	properNoun
+Graziella	Graziella	properNoun
+bass clef	Basse Clef	properNoun
+in good time	en bon temps	adverb
+in good time	en temps voulu	None
+traverse	traverser	verb
+traverse	se mettre à la traverse	verb
+traverse	la traverse	noun
+traverse	la traversée	noun
+traverse	la transversale	noun
+traverse	la galerie transversale	noun
+traverse	traverser	None
+Batavian	Batavien	properNoun
+Lisi	Lisi	properNoun
+Moffatt	Moffatt	properNoun
+angiospasm	angiospasme	properNoun
+iteratively	itératif	properNoun
+Powers	les pouvoirs	noun
+Powers	les forces puissantes	noun
+Powers	Pouvoirs	None
+Casgrain	Casgrain	properNoun
+Leig	Leig	properNoun
+Nintendo 3DS	Nintendo 3DS	properNoun
+recessivity	récès	properNoun
+ergatoplasm	ergatoplasme	properNoun
+Valenciano	Valenciano	properNoun
+into action	en action	properNoun
+kidney stone	les calcul rénal	noun
+kidney stone	calcul rénal	None
+Higueras	Higueras	properNoun
+melodist	mélodiste	noun
+melodist	mélodiste	None
+deuteron	Deuteron	properNoun
+Castella	Castella	properNoun
+Rosich	Rosich	properNoun
+Rubens	Rubens	properNoun
+Lasheras	Lasheras	properNoun
+Zulma	Zulma	properNoun
+Yvette	Yvette	properNoun
+Hervieux	Hervieux	properNoun
+farmland	les terres agricoles	properNoun
+Jeannot	Jeannot	properNoun
+Mourad	Mourrad	properNoun
+Morelló	Morelló	properNoun
+Marró	Marró	properNoun
+Kensington	Kensington	properNoun
+Cardinal	cardinal	adjective
+Cardinal	essentiel	adjective
+Cardinal	principal	adjective
+Cardinal	le cardinal	noun
+Cardinal	Cardinal	None
+Molíns	Molíns	properNoun
+Bujalance	Bujalance	properNoun
+Puertas	Puertas	properNoun
+Pita	Pita	properNoun
+Herodier	Héroodier	properNoun
+redeemable share	Partage échangeable	properNoun
+on the never-never	sur les jamais jamais	properNoun
+Bactria	Bactrie	properNoun
+Jayden	Jayen	properNoun
+Rostand	Rostan	properNoun
+allergologist	allergique	properNoun
+Sigismund	Sigismund	properNoun
+Alcázar	Alcázar	properNoun
+ceaselessly	sans cesse	properNoun
+mythic	mythique	properNoun
+Napess	Napesse	properNoun
+Capuano	Capuano	properNoun
+Gamache	Gamache	properNoun
+Narnia	Narnia	properNoun
+antitragus	antiditragus	properNoun
+Lapre	Lapre	properNoun
+fluidise	fluidiser	properNoun
+Potomac	Potomac	properNoun
+from the front	de l'avant	properNoun
+Yangtze	Yangtsé	properNoun
+Arcadio	Arcadio	properNoun
+under license	sous licence	properNoun
+Dupaul	Dupaul	properNoun
+Salamo	Salamo	properNoun
+Walerico	Walerico	properNoun
+metamyelocyte	métamyéloque	properNoun
+Ardouin	Ardouin	properNoun
+Amadeo	Amadeo	properNoun
+Sofanor	Canofanor	properNoun
+Cantillo	Cantillo	properNoun
+Willett	Willett	properNoun
+cancrinite	Cancinite	properNoun
+Kashmiri	Kashmiri	properNoun
+Dolors	Dolors	properNoun
+Jordyn	Jordyn	properNoun
+in private	en privé	adverb
+in private	en privé	None
+Anaya	Anaya	properNoun
+theosophical	théosophique	properNoun
+Borris	Borris	properNoun
+Haeck	Haeck	properNoun
+Chatigny	Chati	properNoun
+frequent	fréquent	adjective
+frequent	courant	adjective
+frequent	habituel	adjective
+frequent	fréquenter	verb
+frequent	fréquent	None
+live	vivre	verb
+live	résider	verb
+live	occuper	verb
+live	se nourrir	verb
+live	percher	verb
+live	appliquer	verb
+live	exercer	verb
+live	être à la hauteur de	verb
+live	s'habiter	verb
+live	en direct	adjective
+live	vivant	adjective
+live	réel	adjective
+live	habitent	None
+Larabie	Larabique	properNoun
+epenthesis	épenthèse	properNoun
+Arqué	Arqué	properNoun
+obligate	obliger	verb
+obligate	contraindre	verb
+obligate	obliger	None
+without more ado	sans plus d'ado	properNoun
+aeroscope	aéroscope	properNoun
+Olyver	Olyver	properNoun
+Basileo	Basileo	properNoun
+elliptocytosis	elliptocytose	properNoun
+Raynault	Raynault	properNoun
+neoevolutionism	néoévolutique	properNoun
+Gage	la jauge	noun
+Gage	le gage	noun
+Gage	le calibre	noun
+Gage	le gabarit	noun
+Gage	le gant	noun
+Gage	la garantie	noun
+Gage	le pas	noun
+Gage	jauger	verb
+Gage	mesurer	verb
+Gage	gager	verb
+Gage	estimer	verb
+Gage	prévoir	verb
+Gage	mettre en gage	verb
+Gage	dissoudre	verb
+Gage	Jauge	None
+Tila	Tila	properNoun
+Woodbury	Woodbury	properNoun
+Cesaire	Césaire	properNoun
+Perarnau	Pérarnau	properNoun
+Coache	Capricieux	properNoun
+Gallemi	Gallemi	properNoun
+transition	la transition	noun
+transition	transition	None
+Jorden	Jorden	properNoun
+Benoîte	Benoîte	properNoun
+Shecanapish	Shecanapish	properNoun
+Costanzo	Costanzo	properNoun
+chernozem	Tchernozem	properNoun
+Siegfried	Siegfried	properNoun
+Carpenter	le charpentier	noun
+Carpenter	le menuisier	noun
+Carpenter	faire de la menuiserie	verb
+Carpenter	faire de la charpenterie	verb
+Carpenter	Charpentier	None
+zygosis	zygose	properNoun
+Vincenza	Vincenza	properNoun
+within the realms of probability	dans les domaines de la probabilité	properNoun
+Sort	trier	verb
+Sort	classer	verb
+Sort	faire le tri	verb
+Sort	arranger	verb
+Sort	séparer	verb
+Sort	mettre en ordre	verb
+Sort	fréquenter	verb
+Sort	la sorte	noun
+Sort	le genre	noun
+Sort	le type	noun
+Sort	l' espèce	noun
+Sort	la façon	noun
+Sort	Sorte	None
+Mayordomo	Mayordomo	properNoun
+Galaad	Gala	properNoun
+Mairozio	Mairozio	properNoun
+Palmada	Palmada	properNoun
+epirogeny	épirogénie	properNoun
+Sequera	Sequera	properNoun
+twenty-sixth	vingt six	properNoun
+Baró	Baró	properNoun
+erythrocytoblast	érythrocytoblast	properNoun
+lapis lazuli	le lapis lazuli	noun
+lapis lazuli	Lapis lazuli	None
+Rufino	Rufino	properNoun
+Santanach	Santanach	properNoun
+Caus	Cause	properNoun
+seventy-first	soixante-dix-première	properNoun
+uropoiesis	uropoiesis	properNoun
+seventy-ninth	soixante-dix-neuvième	properNoun
+Buffalo Bill	Buffalo Bill	properNoun
+Markandu	Markandu	properNoun
+Briselda	Briselda	properNoun
+misinterpret	mal interpréter	verb
+misinterpret	prendre à contresens	verb
+misinterpret	mal interpréter	None
+ticking	la toile à matelas	noun
+ticking	le pointage	noun
+ticking	le tic-tac	noun
+ticking	ticking	None
+Truong	Truong	properNoun
+Sinhalese	Sinhalais	properNoun
+quantitatively	quantitativement	properNoun
+Transvaal	Transvaal	properNoun
+Périard	Périard	properNoun
+degeneracy	la dégénérescence	noun
+degeneracy	dégénérescence	None
+Viviette	Viviette	properNoun
+supplant	supplanter	verb
+supplant	évincer	verb
+supplant	supplanter	None
+Filadelfo	Filadelfo	properNoun
+amalgamator	amalgamator	properNoun
+ironclad	cuirassé	adjective
+ironclad	le blindé	noun
+ironclad	cuirassé	None
+in a westwardly direction	dans une direction à l'ouest	properNoun
+Layton	Layton	properNoun
+Rothschild	Rothschild	properNoun
+Brin	Brin	properNoun
+Rhodesian	Rhodésien	properNoun
+Melé	Melé	properNoun
+Pleau	Plouette	properNoun
+triboelectricity	triboélectricité	properNoun
+McMartin	McMartin	properNoun
+Pietronella	Pietronella	properNoun
+Georgio	Géorgio	properNoun
+reticulosis	réticulose	properNoun
+rudeness	l' impolitesse	noun
+rudeness	la grossièreté	noun
+rudeness	la rudesse	noun
+rudeness	l' ignorance	noun
+rudeness	impolitesse	None
+McManus	McManus	properNoun
+Calvin	Calvin	properNoun
+any time now	tout moment maintenant	properNoun
+Minguell	Minguell	properNoun
+Bartrolí	Bartrolí	properNoun
+Baiget	Baiget	properNoun
+once more	une fois de plus	adverb
+once more	encore une fois	adverb
+once more	de nouveau	adverb
+once more	une fois de plus	None
+Protasio	Protasios	properNoun
+Ebro	Ombront	properNoun
+Vicente Aleixandre	Vicente Aleixandre	properNoun
+graphically	graphiquement	adverb
+graphically	de façon imagée	adverb
+graphically	graphiquement	None
+Reynoso	Reynoso	properNoun
+chondriomite	chondriomite	properNoun
+Géraud	Groïd	properNoun
+Cannon	le canon	noun
+Cannon	le carambolage	noun
+Cannon	canonner	verb
+Cannon	caramboler	verb
+Cannon	Canon	None
+psychopharmacological	psychopharmacologique	properNoun
+Aracelis	Aracelis	properNoun
+parasol	le parasol	noun
+parasol	l' ombrelle	noun
+parasol	parasol	None
+around us	autour de nous	properNoun
+Charlot	Charlot	properNoun
+by far	de loin	properNoun
+Branconnier	Branconnier	properNoun
+Boleyn	Boleyn	properNoun
+Alarico	Alarico	properNoun
+Naqu	Naquement	properNoun
+dilatometer	dilatomètre	properNoun
+Ledesma	LEDESMA	properNoun
+Darian	Daniste	properNoun
+Xbox One X	Xbox One X	properNoun
+Gaillardetz	Gaillardetz	properNoun
+Barbera	Barbera	properNoun
+Main	principal	adjective
+Main	essentiel	adjective
+Main	important	adjective
+Main	dominant	adjective
+Main	l' essentiel	noun
+Main	la canalisation	noun
+Main	l' égout	noun
+Main	les réseau de distribution	noun
+Main	Principal	None
+Cercira	Cercira	properNoun
+Nkrumah	Nkrumah	properNoun
+Précourt	Précourt	properNoun
+traverse	traverser	verb
+traverse	se mettre à la traverse	verb
+traverse	la traverse	noun
+traverse	la traversée	noun
+traverse	la transversale	noun
+traverse	la galerie transversale	noun
+traverse	traverser	None
+Iréné	Iréné	properNoun
+Leira	Leira	properNoun
+overvoltage	surtension	properNoun
+Webb	Web	properNoun
+neurocyte	neurocyte	properNoun
+awner	crainte	properNoun
+admissibility	admissibilité	properNoun
+deprecate	désapprouver	verb
+deprecate	reprocher	verb
+deprecate	s'élever contre	verb
+deprecate	désapprouver	None
+Gauvain	Gênant	properNoun
+Beaunoyer	Beeunoyer	properNoun
+Peyton	Peyton	properNoun
+Hebron	Hébergement	properNoun
+Kian	Kian	properNoun
+Brisa	Brisa	properNoun
+Mattel	Mittel	properNoun
+Yu	Yu	properNoun
+Retamal	Réaménagement	properNoun
+Jamil	Jamile	properNoun
+Mantha	Mantha	properNoun
+Morante	Morne	properNoun
+Khalife	Khalife	properNoun
+Gandhara	Gandhara	properNoun
+Gobeil	Gobeil	properNoun
+anatomist	anatomiste	noun
+anatomist	anatomiste	None
+von Schleicher	von Schleicher	properNoun
+very very	très très	properNoun
+Lacoursière	Lacoursière	properNoun
+Menchon	Michon	properNoun
+Madera	Madera	properNoun
+Aliau	Aliau	properNoun
+Nayla	Nayla	properNoun
+Sandy	sablonneux	adjective
+Sandy	sablé	adjective
+Sandy	Sablonneux	None
+Roach	le gardon	noun
+Roach	le cafard	noun
+Roach	la blatte	noun
+Roach	le cancrelat	noun
+Roach	Gardon	None
+switchgear	distribuer	properNoun
+microclimatology	microclimatologie	properNoun
+Jésica	Jésica	properNoun
+Lafond	Lafond	properNoun
+nudist	nudiste	noun
+nudist	nudiste	None
+Ansel	Ansel	properNoun
+Xaviera	Xaviera	properNoun
+anaphora	anaphore	properNoun
+syncretic	syncrétique	properNoun
+Casio	Casio	properNoun
+Derose	Faire durer	properNoun
+almandine	almandine	properNoun
+Hejaz	Hejaz	properNoun
+Perpetua	Perpétua	properNoun
+Bletchley	Blâme	properNoun
+Urpí	Urpommément	properNoun
+zoanthropy	zoanthropie	properNoun
+Sagués	Sagués	properNoun
+sixty-fifth	soixante-cinquième	properNoun
+Eufrasio	Eufrasio	properNoun
+Pallotta	Pallotta	properNoun
+Melisande	Melisande	properNoun
+swinging	balançant	adjective
+swinging	pivotant	adjective
+swinging	battant	adjective
+swinging	entraînant	adjective
+swinging	cadencé	adjective
+swinging	endiablé	adjective
+swinging	écrasant	adjective
+swinging	balançant	None
+Gershwin	Gershwin	properNoun
+Feladelfa	Feladelfa	properNoun
+Koizumi	Koizumi	properNoun
+such a	tel que	properNoun
+Frankie	Frankie	properNoun
+Hossana	Hossana	properNoun
+Malla	Mallé	properNoun
+potash	la potasse	noun
+potash	potasse	None
+Sévigny	Sévigny	properNoun
+Gerinlajoie	Gerin lajoie	properNoun
+laryngotomy	laryngotomie	properNoun
+Yaideem	Yaideem	properNoun
+Préfontaine	Préfontaine	properNoun
+pricing	l' établissement des prix	noun
+pricing	tarification	None
+remix	remixe	properNoun
+Dempsey	DUPPSEY	properNoun
+Donatella	Donatella	properNoun
+Ravenna	Ravenna	properNoun
+band	la bande	noun
+band	le groupe	noun
+band	le ruban	noun
+band	l' orchestre	noun
+band	la troupe	noun
+band	la plage	noun
+band	la fanfare	noun
+band	la bague	noun
+band	la bandelette	noun
+band	le bandage	noun
+band	le cercle	noun
+band	la lanière	noun
+band	la clique	noun
+band	bande	None
+Flowers	la fleur	noun
+Flowers	la floraison	noun
+Flowers	l' élite	noun
+Flowers	la fioriture	noun
+Flowers	fleurir	verb
+Flowers	se fleurir	verb
+Flowers	donner des fleurs	verb
+Flowers	se pousser	verb
+Flowers	Fleurs	None
+syenite	le syenite	noun
+syenite	syenite	None
+proficient	compétent	adjective
+proficient	expérimenté	adjective
+proficient	chevronné	adjective
+proficient	compétent	None
+Dzerzhinsky	Dzerzhinsky	properNoun
+Lavina	Lavina	properNoun
+Gilbrán	Gilebrán	properNoun
+equal	égal	adjective
+equal	pareil	adjective
+equal	l' égal	noun
+equal	le pareil	noun
+equal	égaler	verb
+equal	équivaloir	verb
+equal	s'égaler	verb
+equal	égal	None
+abolitionism	l' abolitionnisme	noun
+abolitionism	abolitionnisme	None
+unequalled	inégalé	adjective
+unequalled	sans pareil	adjective
+unequalled	inégalé	None
+Nerezza	Nerezza	properNoun
+Lequin	Lequin	properNoun
+Sabater	Sabat	properNoun
+Luigino	Luigino	properNoun
+paragoge	paragoge	properNoun
+Corbi	Corbi	properNoun
+defiance	le défi	noun
+defiance	la résistance	noun
+defiance	l' acte de défi	noun
+defiance	défi	None
+Bernaquez	Bernaquez	properNoun
+far behind	loin derrière	properNoun
+Amapola	Amapola	properNoun
+on the rise	à la hausse	properNoun
+tailor	le tailleur	noun
+tailor	le couturier	noun
+tailor	façonner	verb
+tailor	adapter à	verb
+tailor	tailleur	None
+acceptably	de manière acceptable	properNoun
+Granero	Granté	properNoun
+wooded	boisé	adjective
+wooded	boisé	None
+pentachord	pentachorique	properNoun
+Eugènia	Eugènie	properNoun
+Clarkson	Clarkson	properNoun
+Murciano	Murciano	properNoun
+prokaryotic	prokaryote	properNoun
+sigmoid	sigmoïde	properNoun
+irretrievably	irrémédiablement	properNoun
+Ángela	Ángela	properNoun
+voluntarist	volontariste	properNoun
+character for character	personnage de caractère	properNoun
+Dexter	Dexter	properNoun
+Dandurand	Dandurand	properNoun
+Villamayor	Villamayor	properNoun
+LG	Lg	properNoun
+Courcelles	Courcelles	properNoun
+Josep Moragues i Mas	Josep Moragues I Mas	properNoun
+intravenously	intraveineusement	properNoun
+in a southeastwardly direction	Dans une direction sud-est	properNoun
+Rosie	Rosi	properNoun
+polariscope	le polariscope	noun
+polariscope	polariscope	None
+offline	hors ligne	properNoun
+memorably	de manière mémorable	properNoun
+Ricci	Ricci	properNoun
+Villanova	Villanova	properNoun
+otorhinolaryngologist	otorhinolaryngologue	properNoun
+Torrubia	Torrébie	properNoun
+forty-first	quarante-premier	properNoun
+Rayo	Rayon	properNoun
+micropyle	micropoule	properNoun
+Gargallo	Gargallo	properNoun
+Oros	Oros	properNoun
+Spinelli	Spinelli	properNoun
+Teodosia	Teodose	properNoun
